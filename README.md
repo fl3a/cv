@@ -11,7 +11,7 @@ Graf-Adolf-Str. 66, 51065 Köln-Mülheim |
 
 ## 🧪 Berufserfahrung
 
-**Scrum Master @ REWE Digital GmbH**, 
+**Scrum Master @ [REWE Digital GmbH](https://www.rewe-digital.com/)**, 
 Angestellt (04.2018 – heute)
 
 - Aktuell
@@ -24,14 +24,15 @@ und einem Team aus dem Bereich Transformation-Solutions
   -  Agile Team Coach (fest und interim) für verschiedene 
 Feature Teams in der skalierten Produktentwicklung im eCom Tribe 
 
-**Trainer, Berater, Facilitator, Coach und Überzeugungstäter @ florian.latzel.io**, 
+**Trainer, Berater, Facilitator, Coach und Überzeugungstäter @ [florian.latzel.io](
+https://florian.latzel.io)**, 
 Freiberuflich (10.2021 – heute)
 
 - Natur und Achtsamkeit trifft auf New Work und (Selbst-)Führung 
   - Coach bei walkaboutyou.org (10.2021 – heute)
   - Ausbildung der naturzeit.club Coaches in Survival- und Bushcraft-Fertigkeiten (02.2022)
 
-**Mit-Gründer & Genosse @ Reinblau eG**, 
+**Mit-Gründer & Genosse @ [Reinblau eG](https://reinblau.coop/)**, 
 Freiberuflich (05.2012 – 12.2020)
 
 - Mitaufbau der Marke und der Organisation Reinblau
@@ -42,24 +43,25 @@ Scrum Master und Open Space Facilitator.
 - Bis 07.2017 in den Holacracy-Rollen: 
 Scrum Master, IT und Infrastruktur und Redmine Administrator.
 
-**Scrum Master @ paragraph eins GmbH**, 
+**Scrum Master @ [paragraph eins GmbH](https://www.paragraph1.de/)**, 
 Freiberuflich (07.2017 – 03.2018)
 
 - Für REWE digital
     
-**Scrum Master @ RMH MEDIA GmbH**, 
+**Scrum Master @ [RMH MEDIA GmbH](https://www.rmh-media.com/)**, 
 Freiberuflich (11.2016 – 05.2017)
 
 - Begleitung der Agilen Transition
 - Scrum Master eines remote Teams (en)
 - Mitarbeit an der Jira-Einführung
     
-**Scrum Master @ MYTOYS GROUP**, 
+**Scrum Master @ [MYTOYS GROUP](https://mytoysgroup.jobs/)**, 
 Freiberuflich (07.2016 – 10.2016)
 
 - Scrum Master eines remote Teams nach einem Teamschnitt (via Reinblau eG)
 
-**IT-Berater @ ISL Florian Latzel**, 
+**IT-Berater @ [ISL Florian Latzel](
+https://web.archive.org/web/20190119112329/https://is-loesungen.de/)**, 
 Freiberuflich (05.2006 – 05.2018)
 
 - Von der Beratung, Entwicklung und Anpassung von Individualsoftware 
@@ -102,7 +104,8 @@ Linux, Drupal, Symfony, Redmine, Apache, MySQL, Git (Gatekeeper), Jenkins.
 ## 🎓 Aus- und Weiterbildung
 
 **Coaching**, 
-Institut Tom Andreas (05.2022 – 11.2022)
+[Institut Tom Andreas](https://www.tomandreas.de/) 
+(05.2022 – 11.2022)
 
 - Angestrebter Abschluss: Coach (DVNLP)
 - U.a. Haltung, Implizite und explizite Auftragsklärung, Lösungsfokussierendes Coaching, 
@@ -110,7 +113,7 @@ Institut Tom Andreas (05.2022 – 11.2022)
 - 202 Unterrichtsstunden an 20 Tagen und 15 Stunden Gruppen-Supervision
   
 **Neuro Linguistisches Programmieren (NLP)**, 
-Institut Tom Andreas (09.2021 – 03.2022)
+[Institut Tom Andreas](https://www.tomandreas.de/) (09.2021 – 03.2022)
 
 - 192 Unterrichtsstunden an 19 Tagen
   
@@ -127,14 +130,16 @@ REWE digital Leadership Toolbox (05.2018 – heute)
 - Teams führen und weiterentwickeln (1 Tag) (05.2018)
 
 **Search Inside Yourself Programm**, 
-Search Inside Yourself Leadership Institute (01.2021 – 02.2021)
+[Search Inside Yourself Leadership Institute](https://siyli.org/) (01.2021 – 02.2021)
 
-- Achtsamkeit, Emotionale Intelligenz, Resilienz, Leadership
-- Kamil Babarksi und Motoki Tonn, 
+- Achtsamkeit, Emotionale Intelligenz, Resilienz, (Selbst-)Führung)
+- [Kamil Babarksi](https://kamilbarbarski.com/) 
+  und [Motoki Tonn](https://www.motoki.work/), 
   3 Tage, 28 Tage Challenge inkl. Buddy-Austausch,  ½ Tag Supervision
 
 **Wildnispädagogik**, 
-Naturschule Deutschland e.V. & wildnistraining.de (03.2020 – 11.2020)
+[Naturschule Deutschland e.V.](https://www.naturschule.de/) 
+& [wildnistraining.de](https://www.wildnistraining.de/) (03.2020 – 11.2020)
 
 - *„Bushcraft- und Survialfertigkeiten“*
   (u.a. Feuer, Werkzeuge, Gebrauchsgegenstände, Unterkunft), 
@@ -149,7 +154,7 @@ Prowarenes GmbH (04.2017)
 - Prof. Rini van Solingen und Anastasios Psarros (2 Tage)
 
 **Beratungskapazität für Organisationsentwicklung**, 
-Structure & Process (01.2017)
+[Structure & Process](http://structureprocess.com/de/) (01.2017)
 
 - Organisationsentwicklung, Wirksame Mandate verhandeln.
   Lösungen gemeinsam mit den Kunden entwickeln. 
@@ -157,24 +162,24 @@ Structure & Process (01.2017)
 - Martina Röll, Dr. Nora Ganescu und Rainer von Leoprechting (2 Tage)
 
 **Certified Scrum Product Owner plusTraining**, 
-Das Scrum Team AG (12.2017)
+[Das Scrum Team AG](https://www.dasscrumteam.com/de) (12.2017)
 
 - Dr. Jürgen (Mentos) Hoffmann (3 Tage)
 
 **Wildniswoche**, 
-wildnistraining.de (08.2015)
+[wildnistraining.de](https://www.wildnistraining.de/) (08.2015)
 
 - *„Bushcraft- und Survivaltraining“*
--  Uwe Belz und Pascal Koch (7 Tage)
+- Uwe Belz und Pascal Koch (7 Tage)
   
 **Android Workshop**, 
-FHDW Bergisch Gladbach (03.2016)
+[FHDW](https://www.fhdw.de/), Bergisch Gladbach (03.2016)
 
 - Einführung in die Android App Entwicklung mit Java, IntelliJ und XML. 
 - Prof. Dr. Thomas Seifert (1 Tag)
 
 **Wildnis Basis**, 
-wildnistraining.de (08.2015)
+[wildnistraining.de](https://www.wildnistraining.de/) (08.2015)
 
 - *„Bushcraft- und Survivaltraining“*
 - Uwe Belz und Pascal Koch (3 Tage)
@@ -185,13 +190,13 @@ Prowareness GmbH (01.2015)
 -  Ron Eringa & Oliver Mann (2 Tage)
   
 **Die ultimative Hacking Akademie**, 
-SIGS DATACOM GmbH (12.2007)
+[SIGS DATACOM GmbH](https://www.sigs-datacom.de/) (12.2007)
 
 - IT-Security, Netzwerksicherheit
-- Klaus D. Wolfinger (3 Tage)
+- [Klaus D. Wolfinger](https://www.itconsulting-wolfinger.de/) (3 Tage)
 
 **Vorbereitung auf die Linux Zertifizierungen des LPI**, 
-IAL GmbH (05.2006 – 11.2006) 
+[IAL GmbH](https://www.ial.de/) (05.2006 – 11.2006) 
 
 - Befehle, Kernel, Serverdienste, Netzwerke, Konfiguration, Administration und Sicherheit
 
@@ -199,15 +204,15 @@ IAL GmbH (05.2006 – 11.2006)
 ibis acam AG (11.2005)
 
 **Staatlich geprüfter Informatiker Softwaretechnologie**, 
-bib International College (10.2002 – 10.2004)
+[bib International College](https://www.bib.de/), Bergisch Gladbach (10.2002 – 10.2004)
 
 - Software,Programmierung (C, C++, Java, JavaScript, PHP, Shell-Skripting, Assembler), 
   Datenbanken, Betriebssysteme / Netzwerke,  Rechner- und Netzwerkkonfiguration, 
   Mikroprozessorsysteme, Internetprogrammierung, Standardsoftware, 
   Mathematik, Englisch, Kommunikation, BWL, Sport
 
-**Einführungskurse des ZAIK/RRZK**, 
-Universität zu Köln (03.2002)
+**Einführungskurse des [ZAIK/RRZK](https://rrzk.uni-koeln.de/)**, 
+[Universität zu Köln](https://www.uni-koeln.de/) (03.2002)
 
 - Unix, Linux, Einführung in die Programmierung (Java), OOP, Erstellung von Internetseiten
   
