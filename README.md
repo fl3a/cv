@@ -105,148 +105,110 @@ x [wildnistraining.de](https://www.wildnistraining.de/) (11.2022 - heute)
 
 ## 🎓 Aus- und Weiterbildung
 
-**Coaching**, 
+- **Coaching**, 
 [Institut Tom Andreas](https://www.tomandreas.de/) 
 (05.2022 – 11.2022)
-
-- Angestrebter Abschluss: Coach (DVNLP)
-- U.a. Haltung, Implizite und explizite Auftragsklärung, Lösungsfokussierendes Coaching, 
-  Systemische Interventionsebenen,  NLP und Provokatives Coaching.
-- 202 Unterrichtsstunden an 20 Tagen und 15 Stunden Gruppen-Supervision
   
-**Neuro Linguistisches Programmieren (NLP)**, 
+  - Angestrebter Abschluss: Coach (DVNLP)
+  
+- **Neuro Linguistisches Programmieren (NLP)**, 
 [Institut Tom Andreas](https://www.tomandreas.de/) (09.2021 – 03.2022)
-
-- 192 Unterrichtsstunden an 19 Tagen
   
-**Selbstführung, Führung und Weiterentwicklung**, 
+- **Selbstführung, Führung und Weiterentwicklung**, 
 REWE digital Leadership Toolbox (05.2018 – heute)
 
-- Die eigene Haltung und Wirkung in der Moderationsrolle (2 Tage) (12.2021)
-- Die Führungskraft in ihrem Handeln (2 Tage) (03.2020)
-- Die Führungskraft als Person (2 Tage) (10.2019)
-- Die Führungskraft als Coach (1 Tag) (06.2019)
-- Schwierige Gespräche meistern (1 Tag) (01.2019)
-- Umgang mit Konflikten (1 Tag ) (11.2018)
-- Achtsamkeit (1 Tag ) (11.2018)
-- Teams führen und weiterentwickeln (1 Tag) (05.2018)
+  - Die eigene Haltung und Wirkung in der Moderationsrolle (2 Tage) (12.2021)
+  - Die Führungskraft in ihrem Handeln (2 Tage) (03.2020)
+  - Die Führungskraft als Person (2 Tage) (10.2019)
+  - Die Führungskraft als Coach (1 Tag) (06.2019)
+  - Schwierige Gespräche meistern (1 Tag) (01.2019)
+  - Umgang mit Konflikten (1 Tag ) (11.2018)
+  - Achtsamkeit (1 Tag ) (11.2018)
+  - Teams führen und weiterentwickeln (1 Tag) (05.2018)
 
-**Search Inside Yourself Programm**, 
+- **Search Inside Yourself Programm**, 
 [Search Inside Yourself Leadership Institute](https://siyli.org/) (01.2021 – 02.2021)
 
-- Achtsamkeit, Emotionale Intelligenz, Resilienz, (Selbst-)Führung)
-- [Kamil Babarksi](https://kamilbarbarski.com/) 
-  und [Motoki Tonn](https://www.motoki.work/), 
-  3 Tage, 28 Tage Challenge inkl. Buddy-Austausch,  ½ Tag Supervision
-
-**Wildnispädagogik**, 
+- **Wildnispädagogik**, 
 [Naturschule Deutschland e.V.](https://www.naturschule.de/) 
 x [wildnistraining.de](https://www.wildnistraining.de/) (03.2020 – 11.2020)
 
-- *„Bushcraft- und Survialfertigkeiten“*
-  (u.a. Feuer, Werkzeuge, Gebrauchsgegenstände, Unterkunft), 
-  Natur, Wildpflanzen, Beobachtung, Wahrnehmung, Achtsamkeit, 
-  Coyote Teaching, Kommunikation, Moderation, Lehr- und Lernprozesse
-- Astrid Mittelstaedt (Päd. Leitung) und Uwe Belz, 120 Unterrichtseinheiten an 18 Tagen
-
-**Leading Agile Transformations**, 
+- **Leading Agile Transformations**, 
 Prowarenes GmbH (04.2017)
 
-- Im Rahmen der Transformation bei RMH Media GmbH
-- Prof. Rini van Solingen und Anastasios Psarros (2 Tage)
-
-**Beratungskapazität für Organisationsentwicklung**, 
+- [**Beratungskapazität für Organisationsentwicklung**](
+https://www.xing.com/events/beratungskapazitat-organisationsentwicklung-1760671), 
 [Structure & Process](http://structureprocess.com/de/) (01.2017)
 
-- Organisationsentwicklung, Wirksame Mandate verhandeln.
-  Lösungen gemeinsam mit den Kunden entwickeln. 
-  Umsetzungen des Erarbeiteten organisch begleiten.
-- Martina Röll, Dr. Nora Ganescu und Rainer von Leoprechting (2 Tage)
-
-**Certified Scrum Product Owner plusTraining**, 
+- **Certified Scrum Product Owner plusTraining**, 
 [Das Scrum Team AG](https://www.dasscrumteam.com/de) (12.2017)
 
-- Dr. Jürgen (Mentos) Hoffmann (3 Tage)
-
-**Wildniswoche**, 
+- **Wildniswoche**, 
 [wildnistraining.de](https://www.wildnistraining.de/) (08.2015)
 
-- *„Bushcraft- und Survivaltraining“*
-- Uwe Belz und Pascal Koch (7 Tage)
-  
-**Android Workshop**, 
+- **Android App Entwicklung**, 
 [FHDW](https://www.fhdw.de/), Bergisch Gladbach (03.2016)
 
-- Einführung in die Android App Entwicklung mit Java, IntelliJ und XML. 
-- Prof. Dr. Thomas Seifert (1 Tag)
-
-**Wildnis Basis**, 
+- **Wildnis Basis**, 
 [wildnistraining.de](https://www.wildnistraining.de/) (08.2015)
 
-- *„Bushcraft- und Survivaltraining“*
-- Uwe Belz und Pascal Koch (3 Tage)
-
-**Professional Scrum Master Training**,
-Prowareness GmbH (01.2015)
-
--  Ron Eringa & Oliver Mann (2 Tage)
+- **Professional Scrum Master Training**,
+[Prowareness GmbH](
+https://web.archive.org/web/20141024140709/http://prowareness.de/training/scrum-master-training/),
+(01.2015)
   
-**Die ultimative Hacking Akademie**, 
+- **IT-Sicherheit ([Die ultimative Hacking Akademie](
+https://web.archive.org/web/20071011070950/http://www.sigs-datacom.de/sd/seminare/evt_seminar_show.htm?&TABLE=sd_product&PID=860))**, 
 [SIGS DATACOM GmbH](https://www.sigs-datacom.de/) (12.2007)
 
-- IT-Security, Netzwerksicherheit
-- [Klaus D. Wolfinger](https://www.itconsulting-wolfinger.de/) (3 Tage)
-
-**Vorbereitung auf die Linux Zertifizierungen des LPI**, 
+- **Linux, Vorbereitung auf die Linux Zertifizierungen des LPI**, 
 [IAL GmbH](https://www.ial.de/) (05.2006 – 11.2006) 
 
-- Befehle, Kernel, Serverdienste, Netzwerke, Konfiguration, Administration und Sicherheit
-
-**Existenzgründungsseminar**, 
+- **Existenzgründungsseminar**, 
 ibis acam AG (11.2005)
 
-**Staatlich geprüfter Informatiker Softwaretechnologie**, 
+- **Staatlich geprüfter Informatiker Softwaretechnologie**, 
 [bib International College](https://www.bib.de/), Bergisch Gladbach (10.2002 – 10.2004)
 
-- Software,Programmierung (C, C++, Java, JavaScript, PHP, Shell-Skripting, Assembler), 
-  Datenbanken, Betriebssysteme / Netzwerke,  Rechner- und Netzwerkkonfiguration, 
-  Mikroprozessorsysteme, Internetprogrammierung, Standardsoftware, 
-  Mathematik, Englisch, Kommunikation, BWL, Sport
-
-**Einführungskurse des [ZAIK/RRZK](https://rrzk.uni-koeln.de/)**, 
+- **Einführungskurse des [ZAIK/RRZK](https://rrzk.uni-koeln.de/)**, 
 [Universität zu Köln](https://www.uni-koeln.de/) (03.2002)
 
-- Unix, Linux, Einführung in die Programmierung (Java), OOP, Erstellung von Internetseiten
+  - Unix, Linux, Einführung in die Programmierung (Java), OOP, Erstellung von Internetseiten
   
-**Abitur**, 
+- **Abitur**, 
 Gesamtschule Holweide (1989 – 1998)
 
-- Deutsch, Pädagogik, Mathematik, Englisch
+  - Deutsch, Pädagogik, Mathematik, Englisch
 
-## 🎤 Public Speaking
+## 🎤 Talks & Sessions
 
 - [Vom Stein des Sisyphos und Seedbombs](
 /2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#von-stein-des-sisyphos-und-seedbombs)
-  - Agile Barcamp Leipzig (09.2019) 
   - AgILe Barcamp Ilmenau (10.2019)
-- [Personal Maps](/tags/personal-maps/) 
-  - [Agile.Ruhr Camp](/2019/04/22/agile-ruhr-hattrick.html#personal-maps) (04.2019)
-  - [Agile Leipzig](/2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#personal-maps) (09.2019)
+  - Agile Barcamp Leipzig (09.2019) 
+- Management 3.0
+  - [Personal Maps](/tags/personal-maps/) 
+    - [Agile Leipzig](/2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#personal-maps) (09.2019)
+    - [Agile.Ruhr Camp](/2019/04/22/agile-ruhr-hattrick.html#personal-maps) (04.2019)
+  - [Meddlers Game](https://management30.com/practice/meddlers/),
+     Wie baue ich mir eine Abteilung? Scrumtisch Köln (01.2019)
 - [Remote - Zusammenarbeit zwischen Himmel und Hölle](
-/2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#remote),
-Agile Leipzig (09.2019)
-- Wie baue ich mir eine Abteilung? 
-[Meddlers Game](https://management30.com/practice/meddlers/), Scrumtisch Köln (01.2019)
-- Radfahren im Alltag, Barcamp Köln (09.2018) 	 		 		
-- Visual Facilitation[^vis-ruhr] Agile.Ruhr (04.2018)
+/2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#remote), Agile Leipzig (09.2019)
+- [Visual Facilitation](
+  https://twitter.com/OliverMonneke/status/987689762105458688), Agile.Ruhr (04.2018)
 - Agiles Arbeiten erfahren mit dem 
 [Ubungo Flow Game](https://www.teamworkblog.de/2016/10/das-ubongo-flow-game.html) 
-  - agile.cologne[^ubongo-cgn] (03.2018)
-  - #barcampDUS[^ubongo-dus] (10.2018
-  - REWE digital #girlsday[^ubongo-girlsday] (03.2019)
-- [Neues Team - Was nun?](/neues-team-was-nun.html) drupalcamp.ruhr (03.2018)
-- Agiles Onboarding[^onboarding], Scrumtisch Köln (11.2017) 
-- Scrum 
+  - [#barcampDUS](
+    https://twitter.com/ebru_sen82/status/1053261964003172352) (10.2018)
+  - [agile.cologne](
+    https://twitter.com/OliverMonneke/status/972101582144921600) (03.2018)
+  - [REWE digital #girlsday](
+    https://twitter.com/RicardaKlein/status/1111344524553527301) (03.2019)
+- [Neues Team - Was nun?](
+  https://florian.latzel.io/neues-team-was-nun.html) drupalcamp.ruhr (03.2018)
+- [Agiles Onboarding](
+  https://twitter.com/fl3a/status/930894977533607936), Scrumtisch Köln (11.2017) 
+- Scrum Framework 
   - [Scrum in 45 Minuten](
     https://florian.latzel.io/scrum-45-minuten-drupalcamp-muenchen-2016.html), 
     drupaldevdays, München, (12.2016)
