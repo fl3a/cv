@@ -1,157 +1,224 @@
-# Carolyn Stransky
+# Florian Latzel
+{: style="text-align: center" }
 
-_Software engineer (and sometimes still a journalist) based in Berlin, Germany_ <br>
+Graf-Adolf-Str. 66, 51065 Köln-Mülheim |
+[florian@latzel.io](mailto:florian@latzel.io) | [OpenPGP](https://keys.openpgp.org/search?q=3F9F644542DD63E82165D376F4F62999C3BA4866)   
+[florian.latzel.io](https://florian.latzel.io) | 
+[LinkedIn](https://de.linkedin.com/in/florianlatzel/de) | 
+[Xing](https://www.xing.com/profile/Florian_Latzel) |
+[GitHub](https://github.com/fl3a) 
+{: style="text-align: center" }
 
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+## 🧪 Berufserfahrung
 
-## 👩🏼‍💻 Technical Experience
+**Scrum Master @ REWE Digital GmbH**, 
+Angestellt (04.2018 – heute)
 
-**Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
-No-code platform that enables professionals to build interactive applications.
-  - Implementing features that improve the UI and accessibility of the integrations platform
-  - Extending a company-wide design system
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Web Components (LitElement).
-<br><br>
+- Aktuell
+  - Agile Team Coach für ein Platform Team (en) im eCom Tribe 
+und einem Team aus dem Bereich Transformation-Solutions 
+  - Mentor im Scrum Master Trainee Programm
+  - Trainer, Berater, Moderator und Coach für die Organisation 
+([Details](https://github.com/fl3a/florian.latzel.io/blob/portfolio/referenzen.md))
+- In der Vergangenheit
+  -  Agile Team Coach (fest und interim) für verschiedene 
+Feature Teams in der skalierten Produktentwicklung im eCom Tribe 
 
-**Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
-[Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
-  - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
-  - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
-  - Wrote [internal documentation](https://github.com/graphql/graphql.github.io/blob/source/CONTRIBUTING.md) to improve the contributing experience
-  - **_Technologies used:_** CSS, React, TypeScript, Gatsby, GraphQL.
-<br><br>
+**Trainer, Berater, Facilitator, Coach und Überzeugungstäter @ florian.latzel.io**, 
+Freiberuflich (10.2021 – heute)
 
-**Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
-Early-stage startup focused on automated API testing and NLP.
-  - Built the [website](https://meeshkan.com/) and the initial web app that visualized the test reports
-  - Maintained [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
-  - Ownership of Meeshkan's documentation and technical blog
-  - **_Technologies used:_** TypeScript, React, Gatsby, Chakra, Next.js, Node.js, GraphQL, REST, Jest, CircleCI, Python.
-  - **_Selected open-source work:_**
-    - [Jest configuration for the unmock-js runner](https://github.com/meeshkan/unmock-jest-runner)
-    - [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2)
-    - [HTTP Mocking Toolkit documentation](https://github.com/meeshkan/hmt)
-    <br><br>
+- Natur und Achtsamkeit trifft auf New Work und (Selbst-)Führung 
+  - Coach bei walkaboutyou.org (10.2021 – heute)
+  - Ausbildung der naturzeit.club Coaches in Survival- und Bushcraft-Fertigkeiten (02.2022)
 
-**Frontend Engineer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
-Professional chauffeur service available in over 300 cities worldwide.
-  - Worked in a cross-functional, agile team to rebuild and rebrand the [B2C booking experience](https://www.blacklane.com/en/)
-  - Led an accessibility initiative resulting in the website [passing WCAG 2.0 requirements](https://www.blacklane.com/en/accessibility/)
-  - Extended and maintained a company-wide design system
-  - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, Storybook, Redux, Next.js, REST, Jest, Mocha, Cypress, TravisCI.
-  <br><br>
+**Mit-Gründer & Genosse @ Reinblau eG**, 
+Freiberuflich (05.2012 – 12.2020)
 
-**Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
-API-first infrastructure to create, manage and distribute content.
-  - Ownership of Contentful's [technical blog](https://www.contentful.com/blog/)
-  - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
-  - Assistance with information architecture and UX writing for the web app
-  - **_Technologies used:_** React, Gatsby, Node.js, GraphQL, REST, Contentful.
-  - **_Selected writing:_**
-    - [JavaScript SDK guide](https://www.contentful.com/developers/docs/javascript/tutorials/using-js-cda-sdk/)
-    - [Node.js example app and courses](https://the-example-app-nodejs.contentful.com/courses)
-    - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
-    <br><br>
+- Mitaufbau der Marke und der Organisation Reinblau
+- Begleitung der Transformation von der GzEvD mbH Tochter zur Genossenschaft
+- Tätigkeiten in verschiedenen Projekten & Organisationskontexten u.a.: 
+Softwareentwickler, Berater, Projektmanager, Product Owner, 
+Scrum Master und Open Space Facilitator.
+- Bis 07.2017 in den Holacracy-Rollen: 
+Scrum Master, IT und Infrastruktur und Redmine Administrator.
+
+**Scrum Master @ paragraph eins GmbH**, 
+Freiberuflich (07.2017 – 03.2018)
+
+- Für REWE digital
     
-## 🗞 Journalism Experience
+**Scrum Master @ RMH MEDIA GmbH**, 
+Freiberuflich (11.2016 – 05.2017)
 
-_This section only accounts for work done post-career change._
-<br><br>
-
-**Contributing Writer** @ [Future of Sex](https://futureofsex.net/author/carolyn/) _(Dec 2020 - Present)_ <br>
-Online publication that provides insights into the future of human sex and sexuality.
-  - Writing regular features focused on sexual health and identity
-  - Reporting on events that are relevant to the sex tech community
-  - **_Selected articles:_**
-    - [Does Having an IUD Make You a Biohacker or a Cyborg?](https://futureofsex.net/augmentation/does-having-an-iud-make-you-a-biohacker-or-a-cyborg/)
-    - [Exploring Queerness By Switching Up My Vibrators](https://futureofsex.net/sex-tech/exploring-queerness-by-switching-up-my-vibrators/)
-    - [Future of Fingering: Lessons Learned from the Award-Winning Tentilex Project](https://futureofsex.net/sex-tech/future-of-fingering-lessons-learned-from-the-award-winning-tentilex-project/)
-<br><br>
-
-**Freelance Writing** _(Mar 2020 - Present)_ <br>
-Recent articles in [Curve Magazine](https://www.curvemag.com/us-home/beyond-the-binary-how-software-engineer-sara-vieira-founded-a-global-community-of-queer-coders/), [Sex for Every Body](https://sexforeverybody.com/author/carolyn/), [FAWCO's Inspiring Women Magazine](https://workwithcarolyn.com/words/fawco-feature), and more.
-<br><br>
-
-**Contributing Editor** @ [FLURT Magazine](https://www.facebook.com/flurtmagazine) _(Mar 2016 - Sep 2018)_ <br>
-Magazine for socially conscious young people who want to create their own media.
-  - Wrote over 20 articles for print and web focused on technology and activism
-  - Edited and curated online-exclusive content
-  - **_Selected articles:_**
-    - [The War on Sex](https://workwithcarolyn.com/words/war-on-sex)
-    - [What to Do if You Get Doxed](https://workwithcarolyn.com/words/what-to-do-if-you-get-doxed)
-    - [How Marijuana Can Improve Your Health](https://workwithcarolyn.com/words/how-marijuana-can-improve-your-health)
-    <br><br>
-
-## 📌 On The Side
-
-**Web Development Instructor** @ [ReDI School of Digital Integration](https://www.redi-school.org/) _(Aug 2017 - Present)_<br>
-Non-profit digital school for tech-interested newcomers applying for asylum in Germany.
-  - Building and continuously developing the course curriculum with a team of 4-8 other instructors
-  - Leading classes to improve student comprehension of React, HTML, CSS and general web design principles
-  - Mentoring students through presentations and job search
-  - _Note: Took a break from teaching in 2019_
-  <br><br>
-
-**Co-Organizer** @ [QueerJS](https://queerjs.com/) _(Jun 2019 - Present)_<br>
-🏳️‍🌈 A meetup for everyone where queer speakers take the stage.
-  - Selecting speakers and scheduling events
-  - Fostering an inclusive community and enforcing the code of conduct
-  - 🐻 _Previously co-organized [BerlinJS](https://berlinjs.org/) from May 2018 - May 2020_
-  <br><br>
-  
-**Workshop Lead** @ [New Devs on the Block](https://newdevs.org/) _(Jul 2019 - Present)_ <br>
-Free, two-day workshops to help people build their first website.
-  - Creating a curriculum that covers HTML, CSS and a bit of JavaScript 
-  - Preparing supplemental presentations on topics like accessibility and animations
-  - Events in Nürnberg and Vienna, now post-poned due to the COVID-19 outbreak 
-  <br><br>
-
-## 🎤 Public Speaking
+- Begleitung der Agilen Transition
+- Scrum Master eines remote Teams (en)
+- Mitarbeit an der Jira-Einführung
     
-### Recent Appearances
+**Scrum Master @ MYTOYS GROUP**, 
+Freiberuflich (07.2016 – 10.2016)
 
-- **Women TechMakers Vienna Conference** _(streamed on Aug 7, 2020)_
-<br>[How AI is Enhancing Journalism](https://www.youtube.com/watch?v=-qZCRHwnnbM)<br>
+- Scrum Master eines remote Teams nach einem Teamschnitt (via Reinblau eG)
 
-- **single-threaded Podcast** _(released on Mar 31, 2021)_
-<br>[Crying at work](https://anchor.fm/single-threaded/episodes/Carolyn-Stransky-on-Crying-at-Work-etu7hj)<br>
-<br>
+**IT-Berater @ ISL Florian Latzel**, 
+Freiberuflich (05.2006 – 05.2018)
 
-**Want me to speak at your event?**
-<br>💖 [Check out my website](https://workwithcarolyn.com/speaking) for more information.
-<br><br>
+- Von der Beratung, Entwicklung und Anpassung von Individualsoftware 
+über Setup, Administration und Absicherung von IT-Infrastruktur, Automatisierung von Abläufen 
+hinzu Schulungen und Trainings. 
+- Fokus Free/Libre Open Source Software. Frameworks und Serverdienste wie z.B. 
+Linux, Drupal, Symfony, Redmine, Apache, MySQL, Git (Gatekeeper), Jenkins. 
+- Für ca. 50 Kunden aus verschiedenen Branchen, unter anderen
+  - **Kunden** wie z.B. MYTOYS GROUP, Telefunken, Hubert Burda Media, 
+    DGAP – Deutsche Gesellschaft für Auswärtige Politik, Chancenwerk e.V, 
+    RESET gemeinnützige Stiftungs-GmbH, Dox Box e.V., netHEAVEN GmbH, 
+    Optana GmbH, Platine, Kunstraum BLAST
+  - **Digitalagenturen** wie z.B. Digitas Pixelpark AG, 
+    ]init[ AG für digitale Kommunikation, Silpion GmbH, brainbits GmbH, 
+    DOM Digital Online Media GmbH, pluusdesign GmbH, conceptfour GmbH, 
+    TrafficDesign GmbH, erdfisch GbR, UCS Ultima Computer Service GmbH
+  - **Schulungsanbieter** wie z.B. IAL Institut für angewandte Logistik GmbH und IAL CAMPUS, 
+    DAA Deutsche Angestellten-Akademie GmbH, BBQ – Baumann Bildung und Qualifizierung GmbH, 
+    Eduvision, bib International College
+  - **Wichtige Stationen**
+    - Product Owner @ Stadt Mülheim an der Ruhr (02.2012 – 09.2013)
+      - Entwicklung der Digital Asset Management (DAM) Lösung Bassets (via Reinblau)
+    - IT-Berater @ Berlin Tourismus & Kongress GmbH (12.2009 – 04.2010)
+      - Anforderungsanalyse, Einführung von Scrum, Git und einer Knowledge Base 
+        bei dem Relaunch von visitberlin.de (ab 01.2010 inhouse) 	
+    - IT-Berater @ BerlinOnline Stadtportal GmbH & Co. KG (11.2008 – 05.2009)
+      - Beratung, Anforderungsanalyse und Software-Entwicklung in einem Scrum Team 
+        bei der Entwicklung des Community Stadtportals berliner.de (ab 02.2009 inhouse)
+
+## 📃 Zertifikate
+
+- **NLP Practitioner**, DVNLP (03.2022 – heute)
+- **Certified Scrum Professional**, Scrum Alliance (02.2018 – heute)
+- **Certified Scrum Product Owner**, Scrum Alliance (12.2017 – heute)
+- **Professional Scrum Master I**, Scrum.org (02.2015 – heute)
+- **Novell Certified Linux Administrator**, Novell (01.2010 – heute)
+- **Linux Professional Institute Certification Level 2**, 
+  Linux Professional Institute (12.2006 – 12.2011)
+
+## 🎓 Aus- und Weiterbildung
+
+**Coaching**, 
+Institut Tom Andreas (05.2022 – 11.2022)
+
+- Angestrebter Abschluss: Coach (DVNLP)
+- U.a. Haltung, Implizite und explizite Auftragsklärung, Lösungsfokussierendes Coaching, 
+- Systemische Interventionsebenen,  NLP und Provokatives Coaching.
+- 202 Unterrichtsstunden an 20 Tagen und 15 Stunden Gruppen-Supervision
   
-## 🏆 Accomplishments
+**Neuro Linguistisches Programmieren (NLP)**, 
+Institut Tom Andreas (09.2021 – 03.2022)
 
-**Won First Place** @ [Rainbows End Sex Tech Hackathon](https://hack.touchyfeely.tech/) _(May 2021)_ <br>
-Built [Tentilex](https://workwithcarolyn.com/blog/tentilex), a wearable armband that records your hand movement and generates a live 3D-model. 
+- 192 Unterrichtsstunden an 19 Tagen
+  
+**Selbstführung, Führung und Weiterentwicklung**, 
+REWE digital Leadership Toolbox (05.2018 – heute)
 
-**Top Author Recognition** @ [DEV](https://dev.to/) _(2019 - 2020)_ <br>
-Named one of the Top 500 authors in 2019. Also wrote two articles that ranked in the weekly Top 7:
-  - [How to remove condescending language from documentation](https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p)
-  - [Onboarding a junior developer to your team? Here's 12 tips.](https://dev.to/carolstran/onboarding-a-junior-developer-to-your-team-here-s-12-tips-4g3a)
-<br><br>
+- Die eigene Haltung und Wirkung in der Moderationsrolle (2 Tage) (12.2021)
+- Die Führungskraft in ihrem Handeln (2 Tage) (03.2020)
+- Die Führungskraft als Person (2 Tage) (10.2019)
+- Die Führungskraft als Coach (1 Tag) (06.2019)
+- Schwierige Gespräche meistern (1 Tag) (01.2019)
+- Umgang mit Konflikten (1 Tag ) (11.2018)
+- Achtsamkeit (1 Tag ) (11.2018)
+- Teams führen und weiterentwickeln (1 Tag) (05.2018)
 
-**Won Best Project** @ [Geek Girl Carrots Berlin Hackathon](http://www.hacklikeagirl.co/) _(Oct 2017)_<br>
-Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report and retrieve lost & found objects for travelers abroad.
-<br><br>
+**Search Inside Yourself Programm**, 
+Search Inside Yourself Leadership Institute (01.2021 – 02.2021)
 
-## 💬 Languages
+- Achtsamkeit, Emotionale Intelligenz, Resilienz, Leadership
+- Kamil Babarksi und Motoki Tonn, 
+  3 Tage, 28 Tage Challenge inkl. Buddy-Austausch,  ½ Tag Supervision
 
-**English**: Native <br>
-**German**: A2.2
-<br><br>
+**Wildnispädagogik**, 
+Naturschule Deutschland e.V. & wildnistraining.de (03.2020 – 11.2020)
 
-## 👩🏼‍🎓 Education
+- *„Bushcraft- und Survialfertigkeiten“*
+  (u.a. Feuer, Werkzeuge, Gebrauchsgegenstände, Unterkunft), 
+  Natur, Wildpflanzen, Beobachtung, Wahrnehmung, Achtsamkeit, 
+  Coyote Teaching, Kommunikation, Moderation, Lehr- und Lernprozesse
+- Astrid Mittelstaedt (Päd. Leitung) und Uwe Belz, 120 Unterrichtseinheiten an 18 Tagen
 
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
+**Leading Agile Transformations**, 
+Prowarenes GmbH (04.2017)
 
-**Bachelor of Arts** in Journalism and Media Studies<br>
-[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
+- Im Rahmen der Transformation bei RMH Media GmbH
+- Prof. Rini van Solingen und Anastasios Psarros (2 Tage)
 
-**Washington Semester Program** for Journalism and New Media<br>
-[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
+**Beratungskapazität für Organisationsentwicklung**, 
+Structure & Process (01.2017)
 
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
+- Organisationsentwicklung, Wirksame Mandate verhandeln.
+  Lösungen gemeinsam mit den Kunden entwickeln. 
+  Umsetzungen des Erarbeiteten organisch begleiten.
+- Martina Röll, Dr. Nora Ganescu und Rainer von Leoprechting (2 Tage)
+
+**Certified Scrum Product Owner plusTraining**, 
+Das Scrum Team AG (12.2017)
+
+- Dr. Jürgen (Mentos) Hoffmann (3 Tage)
+
+**Wildniswoche**, 
+wildnistraining.de (08.2015)
+
+- *„Bushcraft- und Survivaltraining“*
+-  Uwe Belz und Pascal Koch (7 Tage)
+  
+**Android Workshop**, 
+FHDW Bergisch Gladbach (03.2016)
+
+- Einführung in die Android App Entwicklung mit Java, IntelliJ und XML. 
+- Prof. Dr. Thomas Seifert (1 Tag)
+
+**Wildnis Basis**, 
+wildnistraining.de (08.2015)
+
+- *„Bushcraft- und Survivaltraining“*
+- Uwe Belz und Pascal Koch (3 Tage)
+
+**Professional Scrum Master Training**,
+Prowareness GmbH (01.2015)
+
+-  Ron Eringa & Oliver Mann (2 Tage)
+  
+**Die ultimative Hacking Akademie**, 
+SIGS DATACOM GmbH (12.2007)
+
+- IT-Security, Netzwerksicherheit
+- Klaus D. Wolfinger (3 Tage)
+
+**Vorbereitung auf die Linux Zertifizierungen des LPI**, 
+IAL GmbH (05.2006 – 11.2006) 
+
+- Befehle, Kernel, Serverdienste, Netzwerke, Konfiguration, Administration und Sicherheit
+
+**Existenzgründungsseminar**, 
+ibis acam AG (11.2005)
+
+**Staatlich geprüfter Informatiker Softwaretechnologie**, 
+bib International College (10.2002 – 10.2004)
+
+- Software,Programmierung (C, C++, Java, JavaScript, PHP, Shell-Skripting, Assembler), 
+  Datenbanken, Betriebssysteme / Netzwerke,  Rechner- und Netzwerkkonfiguration, 
+  Mikroprozessorsysteme, Internetprogrammierung, Standardsoftware, 
+  Mathematik, Englisch, Kommunikation, BWL, Sport
+
+**Einführungskurse des ZAIK/RRZK**, 
+Universität zu Köln (03.2002)
+
+- Unix, Linux, Einführung in die Programmierung (Java), OOP, Erstellung von Internetseiten
+  
+**Abitur**, 
+Gesamtschule Holweide (1989 – 1998)
+
+- Deutsch, Pädagogik, Mathematik, Englisch
+
+## 🔥 Hobbies & Interessen
+
+Fahrradfahren, Draussensein, Lagerfeuer, Kampfkunst, Jeet Kune Do,  Wandern, 
+Trekking, Achtsamkeit, Pencak Silat, Schreiben, Organisationsentwicklung, 
+Open Space, Selbstorganisation, Free/Libre Open Source Software (FLOSS), Führung, 
+Management 3.0, Liberating Structures
