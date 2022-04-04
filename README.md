@@ -94,6 +94,8 @@ Linux, Drupal, Symfony, Redmine, Apache, MySQL, Git (Gatekeeper), Jenkins.
 ## 📃 Zertifikate
 
 - **NLP Practitioner**, DVNLP (03.2022 – heute)
+- **Wildnispädagoge**, [Naturschule Deutschland e.V.](https://www.naturschule.de/)
+x [wildnistraining.de](https://www.wildnistraining.de/) (11.2022 - heute)
 - **Certified Scrum Professional**, Scrum Alliance (02.2018 – heute)
 - **Certified Scrum Product Owner**, Scrum Alliance (12.2017 – heute)
 - **Professional Scrum Master I**, Scrum.org (02.2015 – heute)
@@ -139,7 +141,7 @@ REWE digital Leadership Toolbox (05.2018 – heute)
 
 **Wildnispädagogik**, 
 [Naturschule Deutschland e.V.](https://www.naturschule.de/) 
-& [wildnistraining.de](https://www.wildnistraining.de/) (03.2020 – 11.2020)
+x [wildnistraining.de](https://www.wildnistraining.de/) (03.2020 – 11.2020)
 
 - *„Bushcraft- und Survialfertigkeiten“*
   (u.a. Feuer, Werkzeuge, Gebrauchsgegenstände, Unterkunft), 
@@ -220,6 +222,44 @@ ibis acam AG (11.2005)
 Gesamtschule Holweide (1989 – 1998)
 
 - Deutsch, Pädagogik, Mathematik, Englisch
+
+## 🎤 Public Speaking
+
+- [Vom Stein des Sisyphos und Seedbombs](
+/2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#von-stein-des-sisyphos-und-seedbombs)
+  - Agile Barcamp Leipzig (09.2019) 
+  - AgILe Barcamp Ilmenau (10.2019)
+- [Personal Maps](/tags/personal-maps/) 
+  - [Agile.Ruhr Camp](/2019/04/22/agile-ruhr-hattrick.html#personal-maps) (04.2019)
+  - [Agile Leipzig](/2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#personal-maps) (09.2019)
+- [Remote - Zusammenarbeit zwischen Himmel und Hölle](
+/2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#remote),
+Agile Leipzig (09.2019)
+- Wie baue ich mir eine Abteilung? 
+[Meddlers Game](https://management30.com/practice/meddlers/), Scrumtisch Köln (01.2019)
+- Radfahren im Alltag, Barcamp Köln (09.2018) 	 		 		
+- Visual Facilitation[^vis-ruhr] Agile.Ruhr (04.2018)
+- Agiles Arbeiten erfahren mit dem 
+[Ubungo Flow Game](https://www.teamworkblog.de/2016/10/das-ubongo-flow-game.html) 
+  - agile.cologne[^ubongo-cgn] (03.2018)
+  - #barcampDUS[^ubongo-dus] (10.2018
+  - REWE digital #girlsday[^ubongo-girlsday] (03.2019)
+- [Neues Team - Was nun?](/neues-team-was-nun.html) drupalcamp.ruhr (03.2018)
+- Agiles Onboarding[^onboarding], Scrumtisch Köln (11.2017) 
+- Scrum 
+  - [Scrum in 45 Minuten](
+    https://florian.latzel.io/scrum-45-minuten-drupalcamp-muenchen-2016.html), 
+    drupaldevdays, München, (12.2016)
+  - [Agiles Projektmanagement mit Scrum](
+    https://de.slideshare.net/fl3a/scrum-ausderpraxisbib),
+    bib International College, 
+    Bergisch Gladbach (12.2011)
+  - [Scrum aus der Praxis](
+    https://florian.latzel.io/2010/05/12/scrum-aus-der-praxis-drupaldevdays-2010.html), 
+    drupaldevdays, München, (05.2010)
+
+[Weitere Session, Talks und Präsentation](
+https://florian.latzel.io/tags/session/index.html)
 
 ## 🔥 Hobbies & Interessen
 
