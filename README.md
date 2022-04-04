@@ -86,10 +86,10 @@ Linux, Drupal, Symfony, Redmine, Apache, MySQL, Git (Gatekeeper), Jenkins.
       - Entwicklung der Digital Asset Management (DAM) Lösung Bassets (via Reinblau)
     - IT-Berater @ Berlin Tourismus & Kongress GmbH (12.2009 – 04.2010)
       - Anforderungsanalyse, Einführung von Scrum, Git und einer Knowledge Base 
-        bei dem Relaunch von visitberlin.de (ab 01.2010 inhouse) 	
+        bei dem Relaunch von [visitberlin.de](https://visitberlin.com)
     - IT-Berater @ BerlinOnline Stadtportal GmbH & Co. KG (11.2008 – 05.2009)
-      - Beratung, Anforderungsanalyse und Software-Entwicklung in einem Scrum Team 
-        bei der Entwicklung des Community Stadtportals berliner.de (ab 02.2009 inhouse)
+      - Anforderungsanalyse und Software-Entwicklung in einem Scrum Team 
+        bei der Entwicklung des Community Stadtportals berliner.de
 
 ## 📃 Zertifikate
 
@@ -109,7 +109,7 @@ Linux, Drupal, Symfony, Redmine, Apache, MySQL, Git (Gatekeeper), Jenkins.
 
 - Angestrebter Abschluss: Coach (DVNLP)
 - U.a. Haltung, Implizite und explizite Auftragsklärung, Lösungsfokussierendes Coaching, 
-- Systemische Interventionsebenen,  NLP und Provokatives Coaching.
+  Systemische Interventionsebenen,  NLP und Provokatives Coaching.
 - 202 Unterrichtsstunden an 20 Tagen und 15 Stunden Gruppen-Supervision
   
 **Neuro Linguistisches Programmieren (NLP)**, 
