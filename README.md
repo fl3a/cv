@@ -167,11 +167,11 @@ https://web.archive.org/web/20071011070950/http://www.sigs-datacom.de/sd/seminar
 - **Existenzgründungsseminar**, 
 ibis acam AG (11.2005)
 
-- **Staatlich geprüfter Informatiker Softwaretechnologie**, 
+- **Staatl. gepr. Informatiker Softwaretechnologie**, 
 [bib International College](https://www.bib.de/), Bergisch Gladbach (10.2002 – 10.2004)
 
 - **Einführungskurse des [ZAIK/RRZK](https://rrzk.uni-koeln.de/)**, 
-[Universität zu Köln](https://www.uni-koeln.de/) (03.2002)
+[Universität zu Köln](https://www.uni-koeln.de/) (03.2002 – 04.2002)
 
   - Unix, Linux, Einführung in die Programmierung (Java), OOP, Erstellung von Internetseiten
   
@@ -180,20 +180,25 @@ Gesamtschule Holweide (1989 – 1998)
 
   - Deutsch, Pädagogik, Mathematik, Englisch
 
-## 🎤 Talks & Sessions
+## 🎤 Talks, Sessions & Podcasts
 
+- [Führung im Fokus - Laterale Führung und Agilität bei der REWE Digital, PTA Podcast](
+  https://www.pta-team.com/podcast-episode-8-laterale-fuehrung-agilitaet-rewedigital) (04.2021)
 - [Vom Stein des Sisyphos und Seedbombs](
-/2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#von-stein-des-sisyphos-und-seedbombs)
-  - AgILe Barcamp Ilmenau (10.2019)
+  https://florian.latzel.io/2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#von-stein-des-sisyphos-und-seedbombs)
+  - [AgILe Barcamp Ilmenau](
+    https://www.eventbrite.de/e/agile-barcamp-2019-powered-by-rewe-digital-und-proagilede-tickets-71353192319#) (10.2019)
   - Agile Barcamp Leipzig (09.2019) 
-- Management 3.0
-  - [Personal Maps](/tags/personal-maps/) 
+- [Management 3.0](https://florian.latzel.io/tags/management-3-0/)
+  - [Personal Maps](https://florian.latzel.io/tags/personal-maps/) 
     - [Agile Leipzig](/2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#personal-maps) (09.2019)
-    - [Agile.Ruhr Camp](/2019/04/22/agile-ruhr-hattrick.html#personal-maps) (04.2019)
+    - [Lerndiamanten - Personal Maps, Agile.Ruhr Camp, Interview New Work Solutions](
+      https://www.youtube.com/watch?v=n0DS7hRQChk) (04.2019)
+    - [Agile.Ruhr Camp](https://florian.latzel.io/2019/04/22/agile-ruhr-hattrick.html#personal-maps) (04.2019)
   - [Meddlers Game](https://management30.com/practice/meddlers/),
      Wie baue ich mir eine Abteilung? Scrumtisch Köln (01.2019)
 - [Remote - Zusammenarbeit zwischen Himmel und Hölle](
-/2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#remote), Agile Leipzig (09.2019)
+ https://florian.latzel.io/2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#remote), Agile Leipzig (09.2019)
 - [Visual Facilitation](
   https://twitter.com/OliverMonneke/status/987689762105458688), Agile.Ruhr (04.2018)
 - Agiles Arbeiten erfahren mit dem 
@@ -208,7 +213,7 @@ Gesamtschule Holweide (1989 – 1998)
   https://florian.latzel.io/neues-team-was-nun.html) drupalcamp.ruhr (03.2018)
 - [Agiles Onboarding](
   https://twitter.com/fl3a/status/930894977533607936), Scrumtisch Köln (11.2017) 
-- Scrum Framework 
+- [Scrum Framework](https://florian.latzel.io/tags/scrum/index.html)
   - [Scrum in 45 Minuten](
     https://florian.latzel.io/scrum-45-minuten-drupalcamp-muenchen-2016.html), 
     drupaldevdays, München, (12.2016)
