@@ -220,3 +220,10 @@ Fahrradfahren, Draussensein, Lagerfeuer, Kampfkunst, Jeet Kune Do,  Wandern,
 Trekking, Achtsamkeit, Pencak Silat, Schreiben, Organisationsentwicklung, 
 Open Space, Selbstorganisation, Free/Libre Open Source Software (FLOSS), Führung, 
 Management 3.0, Liberating Structures
+
+---
+{: style="height:1px;color: #eaecef" }
+
+Repository: <{{ site.git_repo }}>, Revision: [{{ site.github.build_revision }}](
+{{ site.git_repo }}/commit/{{ site.github.build_revision }})
+{: style="text-align: center; font-size: small" }
