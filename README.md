@@ -24,7 +24,7 @@ und einem Team aus dem Bereich Transformation-Solutions
   -  Agile Team Coach (fest und interim) für verschiedene 
 Feature Teams in der skalierten Produktentwicklung im eCom Tribe 
 
-**Trainer, Berater, Facilitator, Coach und Überzeugungstäter @ [florian.latzel.io](
+**Trainer, Berater, Facilitator und Coach @ [florian.latzel.io](
 https://florian.latzel.io)**, 
 Freiberuflich (10.2021 – heute)
 
@@ -97,10 +97,10 @@ Linux, Drupal, Symfony, Redmine, Apache, MySQL, Git (Gatekeeper), Jenkins.
 [Institut Tom Andreas](https://www.tomandreas.de/) 
 (05.2022 – 11.2022)
   - Angestrebter Abschluss: Coach (DVNLP)
-- **Neuro Linguistisches Programmieren (NLP)**, 
+- **Neuro Linguistisches Programmieren**, 
 [Institut Tom Andreas](https://www.tomandreas.de/) (09.2021 – 03.2022)
-- **(Selbst-)Führung und Weiterentwicklung**, 
-REWE digital Leadership Toolbox (05.2018 – heute)
+- **Leadership Toolbox**, 
+REWE digital (05.2018 – heute)  
   - Die eigene Haltung und Wirkung in der Moderationsrolle (2 Tage) (12.2021)
   - Die Führungskraft in ihrem Handeln (2 Tage) (03.2020)
   - Die Führungskraft als Person (2 Tage) (10.2019)
@@ -112,8 +112,8 @@ REWE digital Leadership Toolbox (05.2018 – heute)
 - [**Search Inside Yourself Programm**](https://siyli.org/search-inside-yourself/), 
 [Search Inside Yourself Leadership Institute](https://siyli.org/) (01.2021 – 02.2021)
 - **Wildnispädagogik**, 
-[naturschule.de](https://www.naturschule.de/) 
-x [wildnistraining.de](https://www.wildnistraining.de/) (03.2020 – 11.2020)
+[Naturschule Deutschland](https://www.naturschule.de/) 
+& [wildnistraining.de](https://www.wildnistraining.de/) (03.2020 – 11.2020)
 - **Leading Agile Transformations**, 
 Prowarenes GmbH (04.2017)
 - [**Beratungskapazität für Organisationsentwicklung**](
@@ -139,7 +139,7 @@ https://web.archive.org/web/20071011070950/http://www.sigs-datacom.de/sd/seminar
 - **Existenzgründungsseminar**, 
 ibis acam AG (11.2005)
 - **Staatl. gepr. Informatiker Softwaretechnologie**, 
-[bib International College](https://www.bib.de/) (10.2002 – 10.2004)
+[bib](https://www.bib.de/) (10.2002 – 10.2004)
 - **Einführungskurse des [ZAIK/RRZK](https://rrzk.uni-koeln.de/)**, 
 [Universität zu Köln](https://www.uni-koeln.de/) (03.2002 – 04.2002)
   - Unix, Linux, Einführung in die Programmierung (Java), OOP, Erstellung von Internetseiten
@@ -151,13 +151,12 @@ Gesamtschule Holweide (1989 – 1998)
 
 - **NLP Practitioner**, DVNLP (03.2022 – heute)
 - **Wildnispädagoge**, [Naturschule Deutschland e.V.](https://www.naturschule.de/)
-x [wildnistraining.de](https://www.wildnistraining.de/) (11.2022 - heute)
+& [wildnistraining.de](https://www.wildnistraining.de/) (11.2022 - heute)
 - **Certified Scrum Professional**, Scrum Alliance (02.2018 – heute)
 - **Certified Scrum Product Owner**, Scrum Alliance (12.2017 – heute)
 - **Professional Scrum Master I**, Scrum.org (02.2015 – heute)
 - **Novell Certified Linux Administrator**, Novell (01.2010 – heute)
-- **Linux Professional Institute Certification 2**, 
-  Linux Professional Institute (12.2006 – 12.2011)
+- **Linux Professional Institute Certification 2**, LPI (12.2006 – 12.2011)
 
 ## 📡 In den Medien 
  
