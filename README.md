@@ -232,5 +232,5 @@ Repository: <{{ site.git_repo }}>, Revision: [{{ site.github.build_revision }}](
 *[OOP]: Objektorientierte Programmierung
 *[LMU]: Ludwig-Maximilians-Universität
 *[FHDW]: Fachhochschule der Wirtschaft
-*[RRZK]: Regionales Rechenzentrum Köln
+*[RRZK]: Regionales Rechenzentrum der Universität zu Köln
 *[ZAIK]: Zentrum für Angewandte Informatik der Universität zu Köln 
