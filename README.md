@@ -110,7 +110,7 @@ REWE digital (05.2018 – heute)
   - Achtsamkeit (1 Tag ) (11.2018)
   - Teams führen und weiterentwickeln (1 Tag) (05.2018)
 - [**Search Inside Yourself Programm**](https://siyli.org/search-inside-yourself/), 
-[Search Inside Yourself Leadership Institute](https://siyli.org/) (01.2021 – 02.2021)
+[SIYLI](https://siyli.org/) (01.2021 – 02.2021)
 - **Wildnispädagogik**, 
 [Naturschule Deutschland](https://www.naturschule.de/) 
 & [wildnistraining.de](https://www.wildnistraining.de/) (03.2020 – 11.2020)
@@ -226,3 +226,11 @@ Management 3.0, Liberating Structures
 Repository: <{{ site.git_repo }}>, Revision: [{{ site.github.build_revision }}](
 {{ site.git_repo }}/commit/{{ site.github.build_revision }})
 {: style="text-align: center; font-size: small" }
+
+*[SIYLI]: Search Inside Yourself Leadership Institute
+*[LPI]: Linux Professional Institute
+*[OOP]: Objektorientierte Programmierung
+*[LMU]: Ludwig-Maximilians-Universität
+*[FHDW]: Fachhochschule der Wirtschaft
+*[RRZK]: Regionales Rechenzentrum Köln
+*[ZAIK]: Zentrum für Angewandte Informatik der Universität zu Köln 
