@@ -91,18 +91,6 @@ Linux, Drupal, Symfony, Redmine, Apache, MySQL, Git (Gatekeeper), Jenkins.
     - Anforderungsanalyse und Software-Entwicklung in einem Scrum Team 
       bei der Entwicklung des Community Stadtportals berliner.de
 
-## 📃 Zertifikate
-
-- **NLP Practitioner**, DVNLP (03.2022 – heute)
-- **Wildnispädagoge**, [Naturschule Deutschland e.V.](https://www.naturschule.de/)
-x [wildnistraining.de](https://www.wildnistraining.de/) (11.2022 - heute)
-- **Certified Scrum Professional**, Scrum Alliance (02.2018 – heute)
-- **Certified Scrum Product Owner**, Scrum Alliance (12.2017 – heute)
-- **Professional Scrum Master I**, Scrum.org (02.2015 – heute)
-- **Novell Certified Linux Administrator**, Novell (01.2010 – heute)
-- **Linux Professional Institute Certification 2**, 
-  Linux Professional Institute (12.2006 – 12.2011)
-
 ## 🎓 Aus- und Weiterbildung
 
 - **Coaching**, 
@@ -158,6 +146,18 @@ ibis acam AG (11.2005)
 - **Abitur**, 
 Gesamtschule Holweide (1989 – 1998)
   - Deutsch, Pädagogik, Mathematik, Englisch
+
+## 📃 Zertifikate
+
+- **NLP Practitioner**, DVNLP (03.2022 – heute)
+- **Wildnispädagoge**, [Naturschule Deutschland e.V.](https://www.naturschule.de/)
+x [wildnistraining.de](https://www.wildnistraining.de/) (11.2022 - heute)
+- **Certified Scrum Professional**, Scrum Alliance (02.2018 – heute)
+- **Certified Scrum Product Owner**, Scrum Alliance (12.2017 – heute)
+- **Professional Scrum Master I**, Scrum.org (02.2015 – heute)
+- **Novell Certified Linux Administrator**, Novell (01.2010 – heute)
+- **Linux Professional Institute Certification 2**, 
+  Linux Professional Institute (12.2006 – 12.2011)
 
 ## 📡 In den Medien 
  
