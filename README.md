@@ -69,27 +69,27 @@ Freiberuflich (05.2006 – 05.2018)
 hinzu Schulungen und Trainings. 
 - Fokus Free/Libre Open Source Software. Frameworks und Serverdienste wie z.B. 
 Linux, Drupal, Symfony, Redmine, Apache, MySQL, Git (Gatekeeper), Jenkins. 
-- Für ca. 50 Kunden aus verschiedenen Branchen, unter anderen
-  - **Kunden** wie z.B. MYTOYS GROUP, Telefunken, Hubert Burda Media, 
+- Für ca. 50 Kunden aus verschiedenen Branchen
+  - z.B. MYTOYS GROUP, Telefunken, Hubert Burda Media, 
     DGAP – Deutsche Gesellschaft für Auswärtige Politik, Chancenwerk e.V, 
     RESET gemeinnützige Stiftungs-GmbH, Dox Box e.V., netHEAVEN GmbH, 
     Optana GmbH, Platine, Kunstraum BLAST
-  - **Digitalagenturen** wie z.B. Digitas Pixelpark AG, 
+  - Digitalagenturen wie z.B. Digitas Pixelpark AG, 
     ]init[ AG für digitale Kommunikation, Silpion GmbH, brainbits GmbH, 
     DOM Digital Online Media GmbH, pluusdesign GmbH, conceptfour GmbH, 
     TrafficDesign GmbH, erdfisch GbR, UCS Ultima Computer Service GmbH
-  - **Schulungsanbieter** wie z.B. IAL Institut für angewandte Logistik GmbH und IAL CAMPUS, 
+  - Schulungsanbieter wie z.B. IAL Institut für angewandte Logistik GmbH und IAL CAMPUS, 
     DAA Deutsche Angestellten-Akademie GmbH, BBQ – Baumann Bildung und Qualifizierung GmbH, 
     Eduvision, bib International College
-  - **Wichtige Stationen**
-    - Product Owner @ Stadt Mülheim an der Ruhr (02.2012 – 09.2013)
-      - Entwicklung der Digital Asset Management (DAM) Lösung Bassets (via Reinblau)
-    - IT-Berater @ Berlin Tourismus & Kongress GmbH (12.2009 – 04.2010)
-      - Anforderungsanalyse, Einführung von Scrum, Git und einer Knowledge Base 
-        bei dem Relaunch von [visitberlin.de](https://visitberlin.com)
-    - IT-Berater @ BerlinOnline Stadtportal GmbH & Co. KG (11.2008 – 05.2009)
-      - Anforderungsanalyse und Software-Entwicklung in einem Scrum Team 
-        bei der Entwicklung des Community Stadtportals berliner.de
+- Wichtige Stationen
+  - Product Owner @ Stadt Mülheim an der Ruhr (02.2012 – 09.2013)
+    - Entwicklung der Digital Asset Management (DAM) Lösung Bassets (via Reinblau)
+  - IT-Berater @ Berlin Tourismus & Kongress GmbH (12.2009 – 04.2010)
+    - Anforderungsanalyse, Einführung von Scrum, Git und einer Knowledge Base 
+      bei dem Relaunch von [visitberlin.de](https://visitberlin.com)
+  - IT-Berater @ BerlinOnline Stadtportal GmbH & Co. KG (11.2008 – 05.2009)
+    - Anforderungsanalyse und Software-Entwicklung in einem Scrum Team 
+      bei der Entwicklung des Community Stadtportals berliner.de
 
 ## 📃 Zertifikate
 
@@ -100,7 +100,7 @@ x [wildnistraining.de](https://www.wildnistraining.de/) (11.2022 - heute)
 - **Certified Scrum Product Owner**, Scrum Alliance (12.2017 – heute)
 - **Professional Scrum Master I**, Scrum.org (02.2015 – heute)
 - **Novell Certified Linux Administrator**, Novell (01.2010 – heute)
-- **Linux Professional Institute Certification Level 2**, 
+- **Linux Professional Institute Certification 2**, 
   Linux Professional Institute (12.2006 – 12.2011)
 
 ## 🎓 Aus- und Weiterbildung
@@ -108,15 +108,11 @@ x [wildnistraining.de](https://www.wildnistraining.de/) (11.2022 - heute)
 - **Coaching**, 
 [Institut Tom Andreas](https://www.tomandreas.de/) 
 (05.2022 – 11.2022)
-  
   - Angestrebter Abschluss: Coach (DVNLP)
-  
 - **Neuro Linguistisches Programmieren (NLP)**, 
 [Institut Tom Andreas](https://www.tomandreas.de/) (09.2021 – 03.2022)
-  
-- **Selbstführung, Führung und Weiterentwicklung**, 
+- **(Selbst-)Führung und Weiterentwicklung**, 
 REWE digital Leadership Toolbox (05.2018 – heute)
-
   - Die eigene Haltung und Wirkung in der Moderationsrolle (2 Tage) (12.2021)
   - Die Führungskraft in ihrem Handeln (2 Tage) (03.2020)
   - Die Führungskraft als Person (2 Tage) (10.2019)
@@ -125,65 +121,46 @@ REWE digital Leadership Toolbox (05.2018 – heute)
   - Umgang mit Konflikten (1 Tag ) (11.2018)
   - Achtsamkeit (1 Tag ) (11.2018)
   - Teams führen und weiterentwickeln (1 Tag) (05.2018)
-
-- **Search Inside Yourself Programm**, 
+- [**Search Inside Yourself Programm**](https://siyli.org/search-inside-yourself/), 
 [Search Inside Yourself Leadership Institute](https://siyli.org/) (01.2021 – 02.2021)
-
 - **Wildnispädagogik**, 
-[Naturschule Deutschland e.V.](https://www.naturschule.de/) 
+[naturschule.de](https://www.naturschule.de/) 
 x [wildnistraining.de](https://www.wildnistraining.de/) (03.2020 – 11.2020)
-
 - **Leading Agile Transformations**, 
 Prowarenes GmbH (04.2017)
-
 - [**Beratungskapazität für Organisationsentwicklung**](
 https://www.xing.com/events/beratungskapazitat-organisationsentwicklung-1760671), 
 [Structure & Process](http://structureprocess.com/de/) (01.2017)
-
 - **Certified Scrum Product Owner plusTraining**, 
 [Das Scrum Team AG](https://www.dasscrumteam.com/de) (12.2017)
-
 - **Wildniswoche**, 
 [wildnistraining.de](https://www.wildnistraining.de/) (08.2015)
-
 - **Android App Entwicklung**, 
-[FHDW](https://www.fhdw.de/), Bergisch Gladbach (03.2016)
-
+[FHDW](https://www.fhdw.de/) (03.2016)
 - **Wildnis Basis**, 
 [wildnistraining.de](https://www.wildnistraining.de/) (08.2015)
-
 - **Professional Scrum Master Training**,
 [Prowareness GmbH](
 https://web.archive.org/web/20141024140709/http://prowareness.de/training/scrum-master-training/),
 (01.2015)
-  
 - **IT-Sicherheit ([Die ultimative Hacking Akademie](
 https://web.archive.org/web/20071011070950/http://www.sigs-datacom.de/sd/seminare/evt_seminar_show.htm?&TABLE=sd_product&PID=860))**, 
 [SIGS DATACOM GmbH](https://www.sigs-datacom.de/) (12.2007)
-
-- **Linux, Vorbereitung auf die Linux Zertifizierungen des LPI**, 
+- **Vorbereitung auf die Linux Zertifizierungen des LPI**, 
 [IAL GmbH](https://www.ial.de/) (05.2006 – 11.2006) 
-
 - **Existenzgründungsseminar**, 
 ibis acam AG (11.2005)
-
 - **Staatl. gepr. Informatiker Softwaretechnologie**, 
-[bib International College](https://www.bib.de/), Bergisch Gladbach (10.2002 – 10.2004)
-
+[bib International College](https://www.bib.de/) (10.2002 – 10.2004)
 - **Einführungskurse des [ZAIK/RRZK](https://rrzk.uni-koeln.de/)**, 
 [Universität zu Köln](https://www.uni-koeln.de/) (03.2002 – 04.2002)
-
   - Unix, Linux, Einführung in die Programmierung (Java), OOP, Erstellung von Internetseiten
-  
 - **Abitur**, 
 Gesamtschule Holweide (1989 – 1998)
-
   - Deutsch, Pädagogik, Mathematik, Englisch
 
-## 🎤 Talks, Sessions & Podcasts
+## 🎤 Talks & Sessions
 
-- [Führung im Fokus - Laterale Führung und Agilität bei der REWE Digital, PTA Podcast](
-  https://www.pta-team.com/podcast-episode-8-laterale-fuehrung-agilitaet-rewedigital) (04.2021)
 - [Vom Stein des Sisyphos und Seedbombs](
   https://florian.latzel.io/2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#von-stein-des-sisyphos-und-seedbombs)
   - [AgILe Barcamp Ilmenau](
@@ -192,8 +169,6 @@ Gesamtschule Holweide (1989 – 1998)
 - [Management 3.0](https://florian.latzel.io/tags/management-3-0/)
   - [Personal Maps](https://florian.latzel.io/tags/personal-maps/) 
     - [Agile Leipzig](/2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#personal-maps) (09.2019)
-    - [Lerndiamanten - Personal Maps, Agile.Ruhr Camp, Interview New Work Solutions](
-      https://www.youtube.com/watch?v=n0DS7hRQChk) (04.2019)
     - [Agile.Ruhr Camp](https://florian.latzel.io/2019/04/22/agile-ruhr-hattrick.html#personal-maps) (04.2019)
   - [Meddlers Game](https://management30.com/practice/meddlers/),
      Wie baue ich mir eine Abteilung? Scrumtisch Köln (01.2019)
