@@ -159,6 +159,17 @@ ibis acam AG (11.2005)
 Gesamtschule Holweide (1989 – 1998)
   - Deutsch, Pädagogik, Mathematik, Englisch
 
+## 📡 In den Medien 
+ 
+- [Führung im Fokus - Laterale Führung und Agilität bei der REWE Digital, PTA Podcast (05.2021)]( 
+  https://www.pta-team.com/podcast-episode-8-laterale-fuehrung-agilitaet-rewedigital) 
+- [Lerndiamanten - Personal Maps, Agile.Ruhr Camp, Interview New Work Solutions (04.2019)]( 
+  https://www.youtube.com/watch?v=n0DS7hRQChk) 
+- [Gutes Arbeiten, Drupal Barcamp Ruhr, Interview Reinblau (04.2018)]( 
+  https://www.youtube.com/watch?v=hCUHM7tSOHI) 
+- [Eine Einführung in Scrum, DrupalCamp Munich, Aufzeichnung der LMU (12.2016)]( 
+  https://videoonline.edu.lmu.de/de/node/9207)
+
 ## 🎤 Talks & Sessions
 
 - [Vom Stein des Sisyphos und Seedbombs](
