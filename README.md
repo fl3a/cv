@@ -69,6 +69,15 @@ Freiberuflich (05.2006 – 05.2018)
 hinzu Schulungen und Trainings. 
 - Fokus Free/Libre Open Source Software. Frameworks und Serverdienste wie z.B. 
 Linux, Drupal, Symfony, Redmine, Apache, MySQL, Git (Gatekeeper), Jenkins. 
+- Wichtige Stationen
+  - Product Owner @ Stadt Mülheim an der Ruhr (02.2012 – 09.2013)
+    - Entwicklung der Digital Asset Management (DAM) Lösung Bassets (via Reinblau)
+  - IT-Berater @ Berlin Tourismus & Kongress GmbH (12.2009 – 04.2010)
+    - Anforderungsanalyse, Einführung von Scrum, Git und einer Knowledge Base 
+      bei dem Relaunch von [visitberlin.de](https://visitberlin.com)
+  - IT-Berater @ BerlinOnline Stadtportal GmbH & Co. KG (11.2008 – 05.2009)
+    - Anforderungsanalyse und Software-Entwicklung in einem Scrum Team 
+      bei der Entwicklung des Community Stadtportals berliner.de
 - Für ca. 50 Kunden aus verschiedenen Branchen
   - z.B. MYTOYS GROUP, Telefunken, Hubert Burda Media, 
     DGAP – Deutsche Gesellschaft für Auswärtige Politik, Chancenwerk e.V, 
@@ -81,15 +90,6 @@ Linux, Drupal, Symfony, Redmine, Apache, MySQL, Git (Gatekeeper), Jenkins.
   - Schulungsanbieter wie z.B. IAL Institut für angewandte Logistik GmbH und IAL CAMPUS, 
     DAA Deutsche Angestellten-Akademie GmbH, BBQ – Baumann Bildung und Qualifizierung GmbH, 
     Eduvision, bib International College
-- Wichtige Stationen
-  - Product Owner @ Stadt Mülheim an der Ruhr (02.2012 – 09.2013)
-    - Entwicklung der Digital Asset Management (DAM) Lösung Bassets (via Reinblau)
-  - IT-Berater @ Berlin Tourismus & Kongress GmbH (12.2009 – 04.2010)
-    - Anforderungsanalyse, Einführung von Scrum, Git und einer Knowledge Base 
-      bei dem Relaunch von [visitberlin.de](https://visitberlin.com)
-  - IT-Berater @ BerlinOnline Stadtportal GmbH & Co. KG (11.2008 – 05.2009)
-    - Anforderungsanalyse und Software-Entwicklung in einem Scrum Team 
-      bei der Entwicklung des Community Stadtportals berliner.de
 
 ## 🎓 Aus- und Weiterbildung
 
