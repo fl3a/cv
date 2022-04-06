@@ -2,12 +2,18 @@ theme: jekyll-theme-primer
 title: Florian Latzel
 description: Curriculum Vitae
 
-# url: "https://florian.latzel.io" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "https://florian.latzel.io" 
 
 # jekyll-seo-tag
 lang: "de"
 social:
   name: Florian Latzel
 
+exclude:
+  - Gemfile
+  - Gemfile.lock  
+  - deploy.conf
+
 git_repo: "https://github.com/fl3a/cv/"
 repository: "fl3a/cv"
+
