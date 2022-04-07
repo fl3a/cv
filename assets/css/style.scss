@@ -3,6 +3,19 @@
 
 @import "{{ site.theme }}";
 
+h1#florian-latzel, p.contact, .git-footer { 
+  text-align: center; 
+}
+
+hr.bottom {
+  height:1px;
+  color: #eaecef;
+}
+
+.git-footer {
+   font-size: small;
+}
+
 @media print {
   .page-break-after {
     page-break-after: always;

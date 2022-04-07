@@ -1,5 +1,4 @@
 # Florian Latzel
-{: style="text-align: center" }
 
 Graf-Adolf-Str. 66, 51065 Köln-Mülheim |
 [florian@latzel.io](mailto:florian@latzel.io) ([OpenPGP](
@@ -8,7 +7,7 @@ https://keys.openpgp.org/search?q=3F9F644542DD63E82165D376F4F62999C3BA4866))
 [LinkedIn](https://de.linkedin.com/in/florianlatzel/de) | 
 [Xing](https://www.xing.com/profile/Florian_Latzel) |
 [GitHub](https://github.com/fl3a) 
-{: style="text-align: center" }
+{:.contact }
 
 ## 🧪 Berufserfahrung
 
@@ -188,7 +187,7 @@ ibis acam AG (11.2005)
      Wie baue ich mir eine Abteilung? Scrumtisch Köln (01.2019)
 - [Remote - Zusammenarbeit zwischen Himmel und Hölle](
  https://florian.latzel.io/2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#remote), Agile Leipzig (09.2019)
-* {:.page-break-after } [Visual Facilitation](
+- {:.page-break-after } [Visual Facilitation](
   https://twitter.com/OliverMonneke/status/987689762105458688), Agile.Ruhr (04.2018)
 - Agiles Arbeiten erfahren mit dem 
 [Ubungo Flow Game](https://www.teamworkblog.de/2016/10/das-ubongo-flow-game.html) 
@@ -225,11 +224,11 @@ Open Space, Selbstorganisation, Free/Libre Open Source Software (FLOSS), Führun
 Management 3.0, Liberating Structures
 
 ---
-{: style="height:1px;color: #eaecef" }
+{: .bottom }
 
 Repository: <{{ site.git_repo }}>, Revision: [{{ site.github.build_revision }}](
 {{ site.git_repo }}/commit/{{ site.github.build_revision }})
-{: style="text-align: center; font-size: small" }
+{: .git-footer }
 
 *[SIYLI]: Search Inside Yourself Leadership Institute
 *[LPI]: Linux Professional Institute
