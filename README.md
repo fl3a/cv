@@ -103,6 +103,9 @@ Linux, Drupal, Symfony, Redmine, Apache, MySQL, Git (Gatekeeper), Jenkins.
 - **Leadership Toolbox**, 
 REWE digital (05.2018 – heute)  
   - Die eigene Haltung und Wirkung in der Moderationsrolle (2 Tage) (12.2021)
+  - Deep Dives Remote führen
+    - Innere Antreiber in Führung (06.2020)
+    - Empathie und Emotionale Inteligenz (05.2020)
   - Die Führungskraft in ihrem Handeln (2 Tage) (03.2020)
   - Die Führungskraft als Person (2 Tage) (10.2019)
   - Die Führungskraft als Coach (1 Tag) (06.2019)
