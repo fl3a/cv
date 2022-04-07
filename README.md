@@ -29,8 +29,6 @@ https://florian.latzel.io)**,
 Freiberuflich (10.2021 – heute)
 
 - Natur und Achtsamkeit trifft auf New Work und (Selbst-)Führung 
-  - Coach bei walkaboutyou.org (10.2021 – heute)
-  - Ausbildung der naturzeit.club Coaches in Survival- und Bushcraft-Fertigkeiten (02.2022)
 
 **Mit-Gründer & Genosse @ [Reinblau eG](https://reinblau.coop/)**, 
 Freiberuflich (05.2012 – 12.2020)
@@ -75,7 +73,7 @@ Linux, Drupal, Symfony, Redmine, Apache, MySQL, Git (Gatekeeper), Jenkins.
     - Entwicklung der Digital Asset Management (DAM) Lösung Bassets (via Reinblau)
   - IT-Berater @ Berlin Tourismus & Kongress GmbH (12.2009 – 04.2010)
     - Anforderungsanalyse, Einführung von Scrum, Git und einer Knowledge Base 
-      bei dem Relaunch von [visitberlin.de](https://visitberlin.com)
+      bei dem Relaunch von [visitBerlin.de](https://visitberlin.de)
   - IT-Berater @ BerlinOnline Stadtportal GmbH & Co. KG (11.2008 – 05.2009)
     - Anforderungsanalyse und Software-Entwicklung in einem Scrum Team 
       bei der Entwicklung des Community Stadtportals berliner.de
@@ -163,14 +161,17 @@ ibis acam AG (11.2005)
 
 ## 📡 In den Medien 
  
-- [Führung im Fokus - Laterale Führung und Agilität bei der REWE Digital, PTA Podcast]( 
+- [Führung im Fokus - Laterale Führung und Agilität bei der REWE Digital (Podcast)]( 
   https://www.pta-team.com/podcast-episode-8-laterale-fuehrung-agilitaet-rewedigital) (05.2021) 
-- [Lerndiamanten - Personal Maps, Agile.Ruhr Camp, Interview New Work Solutions]( 
+- [Lerndiamanten - Personal Maps, Agile.Ruhr Camp (Video)]( 
   https://www.youtube.com/watch?v=n0DS7hRQChk) (04.2019)
-- [Gutes Arbeiten, Drupal Barcamp Ruhr, Interview Reinblau]( 
+- [Gutes Arbeiten, Drupal Barcamp Ruhr (Interview)]( 
   https://www.youtube.com/watch?v=hCUHM7tSOHI) (04.2018)
-- [Eine Einführung in Scrum, DrupalCamp Munich, Aufzeichnung der LMU]( 
+- [Eine Einführung in Scrum, DrupalCamp Munich (Video)]( 
   https://videoonline.edu.lmu.de/de/node/9207) (12.2016)
+- [Outdoor-Talk mit Wildnislehrer Uwe Belz von wildnistraining.de (Video)](
+  https://www.youtube.com/watch?v=M2x_PTfHGiQ&t=1000s) (04.2016)
+ 
 
 ## 🎤 Talks & Sessions
 
@@ -207,8 +208,7 @@ ibis acam AG (11.2005)
     drupaldevdays, München, (12.2016)
   - [Agiles Projektmanagement mit Scrum](
     https://de.slideshare.net/fl3a/scrum-ausderpraxisbib),
-    bib International College, 
-    Bergisch Gladbach (12.2011)
+    bib International College (12.2011)
   - [Scrum aus der Praxis](
     https://florian.latzel.io/2010/05/12/scrum-aus-der-praxis-drupaldevdays-2010.html), 
     drupaldevdays, München, (05.2010)
@@ -218,10 +218,9 @@ https://florian.latzel.io/tags/session/index.html)
 
 ## 🔥 Hobbies & Interessen
 
-Fahrradfahren, Draussensein, Lagerfeuer, Kampfkunst, Jeet Kune Do,  Wandern, 
-Trekking, Achtsamkeit, Pencak Silat, Schreiben, Organisationsentwicklung, 
-Open Space, Selbstorganisation, Free/Libre Open Source Software (FLOSS), Führung, 
-Management 3.0, Liberating Structures
+Draussensein, Lagerfeuer, Achtsamkeit, Pencak Silat, Jeet Kune Do, Wandern, 
+Trekking, Fahrradfahren, Schreiben, Organisationsentwicklung, 
+Führung, Selbstorganisation, Free/Libre Open Source Software (FLOSS)
 
 ---
 {: .bottom }
