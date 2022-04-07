@@ -149,11 +149,9 @@ ibis acam AG (11.2005)
 - **Einführungskurse des [ZAIK/RRZK](https://rrzk.uni-koeln.de/)**, 
 [Universität zu Köln](https://www.uni-koeln.de/) (03.2002 – 04.2002)
   - Unix, Linux, Einführung in die Programmierung (Java), OOP, Erstellung von Internetseiten
-- **Abitur**, 
-Gesamtschule Holweide (1989 – 1998)
-  - Deutsch, Pädagogik, Mathematik, Englisch
 
 ## 📃 Zertifikate
+{: .page-break-before }
 
 - **NLP Practitioner**, DVNLP (03.2022 – heute)
 - **Wildnispädagoge**, [Naturschule Deutschland e.V.](https://www.naturschule.de/)
@@ -190,9 +188,8 @@ Gesamtschule Holweide (1989 – 1998)
      Wie baue ich mir eine Abteilung? Scrumtisch Köln (01.2019)
 - [Remote - Zusammenarbeit zwischen Himmel und Hölle](
  https://florian.latzel.io/2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#remote), Agile Leipzig (09.2019)
-- [Visual Facilitation](
+* {:.page-break-after } [Visual Facilitation](
   https://twitter.com/OliverMonneke/status/987689762105458688), Agile.Ruhr (04.2018)
-{: .page-break-after }
 - Agiles Arbeiten erfahren mit dem 
 [Ubungo Flow Game](https://www.teamworkblog.de/2016/10/das-ubongo-flow-game.html) 
   - [#barcampDUS](
