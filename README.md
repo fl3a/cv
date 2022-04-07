@@ -48,6 +48,7 @@ Scrum Master, IT und Infrastruktur und Redmine Administrator.
 Freiberuflich (07.2017 – 03.2018)
 
 - Für REWE digital
+{: .page-break-after }
     
 **Scrum Master @ [RMH MEDIA GmbH](https://www.rmh-media.com/)**, 
 Freiberuflich (11.2016 – 05.2017)
@@ -91,6 +92,7 @@ Linux, Drupal, Symfony, Redmine, Apache, MySQL, Git (Gatekeeper), Jenkins.
   - Schulungsanbieter wie z.B. IAL Institut für angewandte Logistik GmbH und IAL CAMPUS, 
     DAA Deutsche Angestellten-Akademie GmbH, BBQ – Baumann Bildung und Qualifizierung GmbH, 
     Eduvision, bib International College
+{: .page-break-after }
 
 ## 🎓 Aus- und Weiterbildung
 
@@ -190,6 +192,7 @@ Gesamtschule Holweide (1989 – 1998)
  https://florian.latzel.io/2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#remote), Agile Leipzig (09.2019)
 - [Visual Facilitation](
   https://twitter.com/OliverMonneke/status/987689762105458688), Agile.Ruhr (04.2018)
+{: .page-break-after }
 - Agiles Arbeiten erfahren mit dem 
 [Ubungo Flow Game](https://www.teamworkblog.de/2016/10/das-ubongo-flow-game.html) 
   - [#barcampDUS](
