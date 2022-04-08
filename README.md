@@ -30,23 +30,20 @@ Freiberuflich (10.2021 – heute)
 
 - Natur und Achtsamkeit trifft auf New Work und (Selbst-)Führung 
 
-**Mit-Gründer & Genosse @ [Reinblau eG](https://reinblau.coop/)**, 
-Freiberuflich (05.2012 – 12.2020)
-
-- Mitaufbau der Marke und der Organisation Reinblau
-- Begleitung der Transformation von der GzEvD mbH Tochter zur Genossenschaft
-- Tätigkeiten in verschiedenen Projekten & Organisationskontexten u.a.: 
-Softwareentwickler, Berater, Projektmanager, Product Owner, 
-Scrum Master und Open Space Facilitator.
-- Bis 07.2017 in den Holacracy-Rollen: 
-Scrum Master, IT und Infrastruktur und Redmine Administrator.
-
 **Scrum Master @ [paragraph eins GmbH](https://www.paragraph1.de/)**, 
 Freiberuflich (07.2017 – 03.2018)
 
 - Für REWE digital
-{: .page-break-after }
-    
+
+**Mit-Gründer & Genosse @ [Reinblau eG](https://reinblau.coop/)**, 
+
+Freiberuflich (05.2012 – 07.2017)
+
+- Tätigkeiten in verschiedenen Projekten & Organisationskontexten u.a.:    
+Softwareentwickler, Berater, Projektmanager, Product Owner, 
+Scrum Master und Open Space Facilitator.
+
+   
 **Scrum Master @ [RMH MEDIA GmbH](https://www.rmh-media.com/)**, 
 Freiberuflich (11.2016 – 05.2017)
 
@@ -93,7 +90,16 @@ Linux, Drupal, Symfony, Redmine, Apache, MySQL, Git (Gatekeeper), Jenkins.
   - Schulungsanbieter wie z.B. IAL Institut für angewandte Logistik GmbH und IAL CAMPUS, 
     DAA Deutsche Angestellten-Akademie GmbH, BBQ – Baumann Bildung und Qualifizierung GmbH, 
     Eduvision, bib International College
-{: .page-break-after }
+
+## 🚀 Gründungen 
+
+[**Reinblau eG**](https://reinblau.coop) (05.2012 – 12.2020)  
+ Genossenschaftlich geführte und holokratisch organisierte Digitalagentur
+- Mitaufbau der Marke und der Organisation Reinblau
+- Begleitung der Transformation von der [GzEvD mbH](https://gzevd.de) Tochter 
+zur Genossenschaft
+- Bis 07.2017 in den Holacracy-Rollen: 
+IT und Infrastruktur, Redmine Administrator und Scrum Master
 
 ## 🎓 Aus- und Weiterbildung
 
@@ -178,6 +184,7 @@ ibis acam AG (11.2005)
  
 
 ## 🎤 Talks & Sessions
+{: .page-break-before }
 
 - [Vom Stein des Sisyphos und Seedbombs](
   https://florian.latzel.io/2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#von-stein-des-sisyphos-und-seedbombs)
@@ -192,7 +199,7 @@ ibis acam AG (11.2005)
      Wie baue ich mir eine Abteilung? Scrumtisch Köln (01.2019)
 - [Remote - Zusammenarbeit zwischen Himmel und Hölle](
  https://florian.latzel.io/2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#remote), Agile Leipzig (09.2019)
-- {:.page-break-after } [Visual Facilitation](
+- [Visual Facilitation](
   https://twitter.com/OliverMonneke/status/987689762105458688), Agile.Ruhr (04.2018)
 - Agiles Arbeiten erfahren mit dem 
 [Ubungo Flow Game](https://www.teamworkblog.de/2016/10/das-ubongo-flow-game.html) 
@@ -233,6 +240,7 @@ Repository: <{{ site.git_repo }}>, Revision: [{{ site.github.build_revision }}](
 {{ site.git_repo }}/commit/{{ site.github.build_revision }})
 {: .git-footer }
 
+*[GzEvD]: Gesellschaft zur Entwicklung von Dingen
 *[SIYLI]: Search Inside Yourself Leadership Institute
 *[LPI]: Linux Professional Institute
 *[OOP]: Objektorientierte Programmierung
