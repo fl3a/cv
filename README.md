@@ -16,7 +16,7 @@ Angestellt (04.2018 – heute)
 
 - Aktuell
   - Agile Team Coach für ein Platform Team (en) im eCom Tribe 
-und einem Team aus dem Bereich Transformation-Solutions 
+und ein Team aus dem Bereich Transformation-Solutions 
   - Mentor im Scrum Master Trainee Programm
   - Trainer, Berater, Moderator und Coach für die Organisation 
 ([Details](https://github.com/fl3a/florian.latzel.io/blob/portfolio/referenzen.md))
