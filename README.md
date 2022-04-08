@@ -244,6 +244,7 @@ Repository: <{{ site.git_repo }}>, Revision: [{{ site.github.build_revision }}](
 {{ site.git_repo }}/commit/{{ site.github.build_revision }})
 {: .git-footer }
 
+*[ISL]: Individuelle System Lösungen
 *[GzEvD]: Gesellschaft zur Entwicklung von Dingen
 *[SIYLI]: Search Inside Yourself Leadership Institute
 *[LPI]: Linux Professional Institute
