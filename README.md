@@ -36,7 +36,6 @@ Freiberuflich (07.2017 – 03.2018)
 - Für REWE digital
 
 **Mit-Gründer & Genosse @ [Reinblau eG](https://reinblau.coop/)**, 
-
 Freiberuflich (05.2012 – 07.2017)
 
 - Tätigkeiten in verschiedenen Projekten & Organisationskontexten u.a.:    
@@ -58,17 +57,21 @@ Freiberuflich (07.2016 – 10.2016)
 
 **IT-Berater @ [ISL Florian Latzel](
 https://web.archive.org/web/20190119112329/https://is-loesungen.de/)**, 
-Freiberuflich (05.2006 – 05.2018)
-
-- Von der Beratung, Entwicklung und Anpassung von Individualsoftware 
-über Setup, Administration und Absicherung von IT-Infrastruktur, Automatisierung von Abläufen 
-hinzu Schulungen und Trainings. 
-- Fokus Free/Libre Open Source Software. Frameworks und Serverdienste wie z.B. 
+Freiberuflich (05.2006 – 05.2018)   
+Beratung, Entwicklung und Anpassung von Individualsoftware über Setup, 
+Administration und Absicherung von IT-Infrastruktur, Automatisierung von Abläufen 
+bis hinzu Schulungen und Trainings. 
+{: .page-break-before }
+- Fokus Free/Libre Open Source Software. Frameworks und Serverdienste wie z.B.   
 Linux, Drupal, Symfony, Redmine, Apache, MySQL, Git (Gatekeeper), Jenkins. 
 - Wichtige Stationen
+  - Softwareentwickler @ [MYTOYS GROUP](https://) (06.2015 – 06-2016)
+    - [Entwicklung der Multi-Shop-Plattform](
+      https://reinblau.coop/projekte/multi-shop-plattform-mytoys-group/) 
+    und Onboarding von internen Entwicklern in diese (via Reinblau)
   - Product Owner @ [Stadt Mülheim an der Ruhr](
     https://www.muelheim-ruhr.de/cms/index.php) (02.2012 – 09.2013)
-    - Entwicklung der [Digital Asset Management (DAM) Lösung Bassets](
+    - Entwicklung der [Digital Asset Management Lösung *Bassets*](
      https://www.drupal.org/project/bassets) (via Reinblau)
   - IT-Berater @ [Berlin Tourismus & Kongress GmbH](
     https://about.visitberlin.de/) (12.2009 – 04.2010)
@@ -77,7 +80,8 @@ Linux, Drupal, Symfony, Redmine, Apache, MySQL, Git (Gatekeeper), Jenkins.
   - IT-Berater @ [BerlinOnline Stadtportal GmbH & Co. KG](
     https://www.berlinonline.net/) (11.2008 – 05.2009)
     - Anforderungsanalyse und Software-Entwicklung in einem Scrum Team 
-      bei der Entwicklung des Community Stadtportals berliner.de
+      bei der Entwicklung von [berliner.de](
+      https://www.drupal.org/forum/general/show-off-your-drupal-site/2009-12-09/berlinerde-%E2%80%93-a-portal-focused-on-berlin-developed)
 - Für ca. 50 Kunden aus verschiedenen Branchen
   - z.B. MYTOYS GROUP, Telefunken, Hubert Burda Media, 
     DGAP – Deutsche Gesellschaft für Auswärtige Politik, Chancenwerk e.V, 
@@ -92,6 +96,7 @@ Linux, Drupal, Symfony, Redmine, Apache, MySQL, Git (Gatekeeper), Jenkins.
     Eduvision, bib International College
 
 ## 🚀 Gründungen 
+{: .page-break-before }
 
 [**Reinblau eG**](https://reinblau.coop) (05.2012 – 12.2020)  
  Genossenschaftlich geführte und holokratisch organisierte Digitalagentur
@@ -158,7 +163,6 @@ ibis acam AG (11.2005)
   - Unix, Linux, Einführung in die Programmierung (Java), OOP, Erstellung von Internetseiten
 
 ## 📃 Zertifikate
-{: .page-break-before }
 
 - **NLP Practitioner**, DVNLP (03.2022 – heute)
 - **Wildnispädagoge**, [Naturschule Deutschland e.V.](https://www.naturschule.de/)
