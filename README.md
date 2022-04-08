@@ -69,12 +69,16 @@ hinzu Schulungen und Trainings.
 - Fokus Free/Libre Open Source Software. Frameworks und Serverdienste wie z.B. 
 Linux, Drupal, Symfony, Redmine, Apache, MySQL, Git (Gatekeeper), Jenkins. 
 - Wichtige Stationen
-  - Product Owner @ Stadt Mülheim an der Ruhr (02.2012 – 09.2013)
-    - Entwicklung der Digital Asset Management (DAM) Lösung Bassets (via Reinblau)
-  - IT-Berater @ Berlin Tourismus & Kongress GmbH (12.2009 – 04.2010)
+  - Product Owner @ [Stadt Mülheim an der Ruhr](
+    https://www.muelheim-ruhr.de/cms/index.php) (02.2012 – 09.2013)
+    - Entwicklung der [Digital Asset Management (DAM) Lösung Bassets](
+     https://www.drupal.org/project/bassets) (via Reinblau)
+  - IT-Berater @ [Berlin Tourismus & Kongress GmbH](
+    https://about.visitberlin.de/) (12.2009 – 04.2010)
     - Anforderungsanalyse, Einführung von Scrum, Git und einer Knowledge Base 
       bei dem Relaunch von [visitBerlin.de](https://visitberlin.de)
-  - IT-Berater @ BerlinOnline Stadtportal GmbH & Co. KG (11.2008 – 05.2009)
+  - IT-Berater @ [BerlinOnline Stadtportal GmbH & Co. KG](
+    https://www.berlinonline.net/) (11.2008 – 05.2009)
     - Anforderungsanalyse und Software-Entwicklung in einem Scrum Team 
       bei der Entwicklung des Community Stadtportals berliner.de
 - Für ca. 50 Kunden aus verschiedenen Branchen
@@ -85,7 +89,7 @@ Linux, Drupal, Symfony, Redmine, Apache, MySQL, Git (Gatekeeper), Jenkins.
   - Digitalagenturen wie z.B. Digitas Pixelpark AG, 
     ]init[ AG für digitale Kommunikation, Silpion GmbH, brainbits GmbH, 
     DOM Digital Online Media GmbH, pluusdesign GmbH, conceptfour GmbH, 
-    TrafficDesign GmbH, erdfisch GbR, UCS Ultima Computer Service GmbH
+    TrafficDesign GmbH, erdfisch GbR, motionfx GmbH, UCS Ultima Computer Service GmbH
   - Schulungsanbieter wie z.B. IAL Institut für angewandte Logistik GmbH und IAL CAMPUS, 
     DAA Deutsche Angestellten-Akademie GmbH, BBQ – Baumann Bildung und Qualifizierung GmbH, 
     Eduvision, bib International College
@@ -167,7 +171,7 @@ ibis acam AG (11.2005)
   https://www.youtube.com/watch?v=n0DS7hRQChk) (04.2019)
 - [Gutes Arbeiten, Drupal Barcamp Ruhr (Interview)]( 
   https://www.youtube.com/watch?v=hCUHM7tSOHI) (04.2018)
-- [Eine Einführung in Scrum, DrupalCamp Munich (Video)]( 
+- [Eine Einführung in Scrum, DrupalCamp Munich, LMU (Video)]( 
   https://videoonline.edu.lmu.de/de/node/9207) (12.2016)
 - [Outdoor-Talk mit Wildnislehrer Uwe Belz von wildnistraining.de (Video)](
   https://www.youtube.com/watch?v=M2x_PTfHGiQ&t=1000s) (04.2016)
