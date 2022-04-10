@@ -236,9 +236,9 @@ https://florian.latzel.io/tags/session/index.html)
 
 ## 🔥 Hobbies & Interessen
 
-Draussensein, Lagerfeuer, Achtsamkeit, Pencak Silat, Jeet Kune Do, Wandern, 
-Trekking, Fahrradfahren, Schreiben, Organisationsentwicklung, 
-Führung, Selbstorganisation, Free/Libre Open Source Software (FLOSS)
+Draussensein, Lagerfeuer, Achtsamkeit, Resilienz, Pencak Silat, Jeet Kune Do, 
+Wandern, Trekking, Fahrradfahren, Schreiben, Organisationsentwicklung, Soziologie, 
+Führung, Selbstorganisation, Free/Libre Open Source Software 
 
 ---
 {: .bottom }
