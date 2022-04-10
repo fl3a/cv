@@ -61,9 +61,8 @@ Freiberuflich (05.2006 – 09.2021)
 Beratung, Entwicklung und Anpassung von Individualsoftware über Setup, 
 Administration und Absicherung von IT-Infrastruktur, Automatisierung von Abläufen 
 bis hinzu Schulungen und Trainings. 
+Fokus Free/Libre Open Source Software.    
 {: .page-break-before }
-- Fokus Free/Libre Open Source Software. Frameworks und Serverdienste wie z.B.   
-Linux, Drupal, Symfony, Redmine, Apache, MySQL, Git (Gatekeeper), Jenkins. 
 - Wichtige Stationen
   - Softwareentwickler @ [MYTOYS GROUP](https://) (06.2015 – 06-2016)
     - [Entwicklung der Multi-Shop-Plattform](
@@ -83,9 +82,10 @@ Linux, Drupal, Symfony, Redmine, Apache, MySQL, Git (Gatekeeper), Jenkins.
       bei der Entwicklung von [berliner.de](
       https://www.drupal.org/forum/general/show-off-your-drupal-site/2009-12-09/berlinerde-%E2%80%93-a-portal-focused-on-berlin-developed)
 - Für ca. 50 Kunden aus verschiedenen Branchen
-  - z.B. MYTOYS GROUP, Telefunken, Hubert Burda Media, 
-    DGAP – Deutsche Gesellschaft für Auswärtige Politik, Chancenwerk e.V, 
-    RESET gemeinnützige Stiftungs-GmbH, Dox Box e.V., netHEAVEN GmbH, 
+  - darunter MYTOYS GROUP, Telefunken, Hubert Burda Media, 
+    DGAP – Deutsche Gesellschaft für Auswärtige Politik, Chancenwerk e.V,
+    Berlin Tourismus & Kongress GmbH, RESET gemeinnützige Stiftungs-GmbH, 
+    BerlinOnline Stadtportal GmbH & Co. KG, Dox Box e.V., netHEAVEN GmbH,
     Optana GmbH, Platine, Kunstraum BLAST
   - Digitalagenturen wie z.B. Digitas Pixelpark AG, 
     ]init[ AG für digitale Kommunikation, Silpion GmbH, brainbits GmbH, 
