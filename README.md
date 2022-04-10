@@ -161,6 +161,9 @@ ibis acam AG (11.2005)
 - **Einführungskurse des [ZAIK/RRZK](https://rrzk.uni-koeln.de/)**, 
 [Universität zu Köln](https://www.uni-koeln.de/) (03.2002 – 04.2002)
   - Unix, Linux, Einführung in die Programmierung (Java), OOP, Erstellung von Internetseiten
+- **Abitur**, 
+Gesamtschule Holweide (1989 – 1998)
+  - Deutsch, Pädagogik, Mathematik, Englisch
 
 ## 📃 Zertifikate
 
