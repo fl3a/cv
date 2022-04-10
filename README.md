@@ -231,14 +231,15 @@ Gesamtschule Holweide (1989 – 1998)
     https://florian.latzel.io/2010/05/12/scrum-aus-der-praxis-drupaldevdays-2010.html), 
     drupaldevdays, München, (05.2010)
 
-[Weitere Session, Talks und Präsentation](
+[Weitere Talks, Sessions und Präsentationen](
 https://florian.latzel.io/tags/session/index.html)
 
 ## 🔥 Hobbies & Interessen
 
 [Draussensein](https://florian.latzel.io/tags/draussen/index.html), Lagerfeuer, 
 [Achtsamkeit](https://florian.latzel.io/tags/achtsamkeit/index.html), Resilienz, 
-Pencak Silat, Jeet Kune Do, 
+[Pencak Silat](https://florian.latzel.io/tags/pencak-silat/index.html), 
+[Jeet Kune Do](https://florian.latzel.io/tags/jeet-kune-do/index.html), 
 [Wandern](https://florian.latzel.io/tags/wandern/index.html), Trekking, 
 [Fahrradfahren](https://florian.latzel.io/tags/fahrrad/index.html), 
 Schreiben, Organisationsentwicklung, Soziologie, 
