@@ -97,7 +97,7 @@ Fokus Free/Libre Open Source Software.
 ## 🚀 Gründungen 
 {: .page-break-before }
 
-[**Reinblau eG**](https://reinblau.coop) (05.2012 – 12.2020)  
+[**Reinblau eG**](https://reinblau.coop) (05.2012 – Exit 12.2020)  
  Genossenschaftlich geführte und holokratisch organisierte Digitalagentur
 - Mitaufbau der Marke und der Organisation Reinblau
 - Begleitung der Transformation von der [GzEvD mbH](https://gzevd.de) Tochter 
