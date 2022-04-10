@@ -82,11 +82,10 @@ Fokus Free/Libre Open Source Software.
       bei der Entwicklung von [berliner.de](
       https://www.drupal.org/forum/general/show-off-your-drupal-site/2009-12-09/berlinerde-%E2%80%93-a-portal-focused-on-berlin-developed)
 - Für ca. 50 Kunden aus verschiedenen Branchen
-  - darunter MYTOYS GROUP, Telefunken, Hubert Burda Media, 
-    DGAP – Deutsche Gesellschaft für Auswärtige Politik, Chancenwerk e.V,
-    Berlin Tourismus & Kongress GmbH, RESET gemeinnützige Stiftungs-GmbH, 
-    BerlinOnline Stadtportal GmbH & Co. KG, Dox Box e.V., netHEAVEN GmbH,
-    Optana GmbH, Platine, Kunstraum BLAST
+  - darunter Telefunken, Hubert Burda Media, DGAP – Deutsche Gesellschaft für Auswärtige Politik, 
+    Chancenwerk e.V, MYTOYS GROUP, Berlin Tourismus & Kongress GmbH, 
+    RESET gemeinnützige Stiftungs-GmbH, BerlinOnline Stadtportal GmbH & Co. KG, 
+    Dox Box e.V., netHEAVEN GmbH, Optana GmbH, Platine, Kunstraum BLAST
   - Digitalagenturen wie z.B. Digitas Pixelpark AG, 
     ]init[ AG für digitale Kommunikation, Silpion GmbH, brainbits GmbH, 
     DOM Digital Online Media GmbH, pluusdesign GmbH, conceptfour GmbH, 
