@@ -167,14 +167,26 @@ Gesamtschule Holweide (1989 – 1998)
 
 ## 📃 Zertifikate
 
-- **NLP Practitioner**, DVNLP (03.2022 – heute)
-- **Wildnispädagoge**, [Naturschule Deutschland e.V.](https://www.naturschule.de/)
-& [wildnistraining.de](https://www.wildnistraining.de/) (11.2022 - heute)
-- **Certified Scrum Professional**, Scrum Alliance (02.2018 – heute)
-- **Certified Scrum Product Owner**, Scrum Alliance (12.2017 – heute)
-- **Professional Scrum Master I**, Scrum.org (02.2015 – heute)
+- [**NLP Practitioner**](
+  https://florian.latzel.io/2022/03/31/nlp-practitioner.html), 
+  DVNLP (03.2022 – heute)
+- [**Wildnispädagoge**](
+  https://florian.latzel.io/2020/12/14/november-draussen.html#ich-bin-wildnisp%C3%A4dagoge), 
+  [Naturschule Deutschland e.V.](https://www.naturschule.de/)
+  & [wildnistraining.de](https://www.wildnistraining.de/) (11.2022 - heute)
+- [**Certified Scrum Professional**](
+  https://florian.latzel.io/2018/03/31/certified-scrum-professional-csp.html), 
+  Scrum Alliance (02.2018 – heute)
+- [**Certified Scrum Product Owner**](
+  https://florian.latzel.io/2018/03/03/scrum-starter-kit.html), 
+  Scrum Alliance (12.2017 – heute)
+- [**Professional Scrum Master I**](
+  https://florian.latzel.io/neues-aus-der-scheinwelt-professional-scrum-master-i-psm1.html), 
+  Scrum.org (02.2015 – heute)
 - **Novell Certified Linux Administrator**, Novell (01.2010 – heute)
-- **Linux Professional Institute Certification 2**, LPI (12.2006 – 12.2011)
+- [**Linux Professional Institute Certification 2**](
+  https://florian.latzel.io/2006/12/22/lpic-2-2-tage-vor-weihnachten.html), 
+  LPI (12.2006 – 12.2011)
 
 ## 📡 In den Medien 
  
