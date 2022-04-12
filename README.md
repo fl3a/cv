@@ -14,11 +14,10 @@ https://keys.openpgp.org/search?q=3F9F644542DD63E82165D376F4F62999C3BA4866))
 **Scrum Master @ [REWE Digital GmbH](https://www.rewe-digital.com/)**, 
 Angestellt (04.2018 – heute)
 
-- Aktuell
-  - Agile Team Coach für ein Platform Team (en) im eCom Tribe 
+- Agile Team Coach für ein Platform Team (en) im eCom Tribe 
 und ein Team aus dem Bereich Transformation-Solutions 
-  - Mentor im Scrum Master Trainee Programm
-  - Trainer, Berater, Moderator und Coach für die Organisation 
+- Mentor im Scrum Master Trainee Programm
+- Trainer, Berater, Moderator und Coach für die Organisation 
 ([Details](https://github.com/fl3a/florian.latzel.io/blob/portfolio/referenzen.md))
 - In der Vergangenheit
   -  Agile Team Coach (fest und interim) für verschiedene 
