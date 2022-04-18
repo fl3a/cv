@@ -10,6 +10,7 @@ social:
   name: Florian Latzel
 
 exclude:
+  - [vendor]      
   - Gemfile
   - Gemfile.lock  
   - deploy.conf
