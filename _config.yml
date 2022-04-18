@@ -2,7 +2,7 @@ title: Florian Latzel
 description: Curriculum Vitae
 
 url: "https://florian.latzel.io" 
-baseurl: /cv
+baseurl: /curriculum-vitae.html
 
 theme: jekyll-theme-primer
 
