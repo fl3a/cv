@@ -4,7 +4,7 @@ description: Curriculum Vitae
 theme: jekyll-theme-primer
 baseurl: /cv
 
-# url: "https://florian.latzel.io" 
+url: "https://florian.latzel.io" 
 
 # jekyll-seo-tag
 lang: "de"
