@@ -1,6 +1,9 @@
-theme: jekyll-theme-primer
 title: Florian Latzel
 description: Curriculum Vitae
+
+theme: jekyll-theme-primer
+plugins:
+- jekyll-remote-theme 
 
 # url: "https://florian.latzel.io" 
 
