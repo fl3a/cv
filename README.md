@@ -21,7 +21,8 @@ und ein Team aus dem Bereich Transformation-Solutions
 ([Details](https://github.com/fl3a/florian.latzel.io/blob/portfolio/referenzen.md))
 - In der Vergangenheit
   -  Agile Team Coach (fest und interim) für verschiedene 
-Feature Teams in der skalierten Produktentwicklung im eCom Tribe 
+     Feature Teams in der skalierten Produktentwicklung im eCom Tribe 
+  - Produktplanungsworkshops, Scrum of Scrums
 
 **Trainer, Berater, Facilitator und Coach @ [florian.latzel.io](
 https://florian.latzel.io)**, 
@@ -138,7 +139,7 @@ https://www.xing.com/events/beratungskapazitat-organisationsentwicklung-1760671)
 - **Certified Scrum Product Owner plusTraining**, 
 [Das Scrum Team AG](https://www.dasscrumteam.com/de) (12.2017)
 - **Wildniswoche**, 
-[wildnistraining.de](https://www.wildnistraining.de/) (08.2015)
+[wildnistraining.de](https://www.wildnistraining.de/) (08.2016)
 - **Android App Entwicklung**, 
 [FHDW](https://www.fhdw.de/) (03.2016)
 - **Wildnis Basis**, 
