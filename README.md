@@ -204,11 +204,11 @@ Gesamtschule Holweide (1989 – 1998)
 ## 🎤 Talks & Sessions
 {: .page-break-before }
 
-- [Vom Stein des Sisyphos und Seedbombs](
-  https://florian.latzel.io/2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#von-stein-des-sisyphos-und-seedbombs)
-  - [AgILe Barcamp Ilmenau](
-    https://www.eventbrite.de/e/agile-barcamp-2019-powered-by-rewe-digital-und-proagilede-tickets-71353192319#) (10.2019)
-  - Agile Barcamp Leipzig (09.2019) 
+- Vom Stein des Sisyphos und Seedbombs
+  - [AgILe Barcamp Ilmenau (10.2019)](
+    https://twitter.com/frediontherun/status/1188093274373931014)
+  - [Agile Barcamp Leipzig (09.2019)](
+    https://florian.latzel.io/2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#von-stein-des-sisyphos-und-seedbombs) 
 - [Management 3.0](https://florian.latzel.io/tags/management-3-0/)
   - [Personal Maps](https://florian.latzel.io/tags/personal-maps/) 
     - [Agile Leipzig](/2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#personal-maps) (09.2019)
