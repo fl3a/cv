@@ -51,6 +51,7 @@ Scrum Master und Open Space Facilitator.
    
 **Scrum Master @ [RMH MEDIA GmbH](https://www.rmh-media.com/)**, 
 Freiberuflich (11.2016 – 05.2017)
+{: .page-break-before }
 
 - Begleitung der Agilen Transition
 - Scrum Master eines remote Teams (en)
@@ -68,7 +69,6 @@ Beratung, Entwicklung und Anpassung von Individualsoftware über Setup,
 Administration und Absicherung von IT-Infrastruktur, Automatisierung von Abläufen 
 bis hinzu Schulungen und Trainings. 
 Fokus Free/Libre Open Source Software.    
-{: .page-break-before }
 - Wichtige Stationen
   - Softwareentwickler @ [MYTOYS GROUP](https://) (06.2015 – 06-2016)
     - [Entwicklung der Multi-Shop-Plattform](
