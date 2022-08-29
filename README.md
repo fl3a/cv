@@ -11,15 +11,21 @@ https://keys.openpgp.org/search?q=3F9F644542DD63E82165D376F4F62999C3BA4866))
 
 ## 🧪 Berufserfahrung
 
-**Scrum Master @ [REWE Digital GmbH](https://www.rewe-digital.com/)**, 
-Angestellt (04.2018 – heute)
+**Tribe Agile Master @ [AXA Konzern AG](https://axa.de)**,
+Angestellt (08.2022 – heute)
 
-- Agile Team Coach für ein Platform Team (en) im eCom Tribe 
+- Teil des Leadership Trios des im Juli 2022 entstandenen *Health Care Journey* Tribes 
+- Etablierung und Begleitung von Prozessen und Ritualen der Zusammenarbeit im Tribe
+
+**Scrum Master @ [REWE Digital GmbH](https://www.rewe-digital.com/)**, 
+Angestellt (04.2018 – 07.2022)
+
+- Zuletzt Agile Team Coach für ein Platform Team (en) im eCom Tribe 
 und ein Team aus dem Bereich Transformation-Solutions 
 - Mentor im Scrum Master Trainee Programm
 - Trainer, Berater, Moderator und Coach für die Organisation 
 ([Details](https://github.com/fl3a/florian.latzel.io/blob/portfolio/referenzen.md))
-- In der Vergangenheit
+- Davor
   -  Agile Team Coach (fest und interim) für verschiedene 
      Feature Teams in der skalierten Produktentwicklung im eCom Tribe 
   - Produktplanungsworkshops, Scrum of Scrums
@@ -111,6 +117,11 @@ IT und Infrastruktur, Redmine Administrator und Scrum Master
 [Institut Tom Andreas](https://www.tomandreas.de/) 
 (05.2022 – 11.2022)
   - Angestrebter Abschluss: Coach (DVNLP)
+- **Coaching**,
+[Metaforum Sommercamp](https://www.metaforum-sommercamp.com) 
+(07.2022)
+  - Der Provokative Ansatz nach Frank Farrelly (2 Tage)
+  - Lösungsfokussierendes Coaching nach Steve de Shazer und Insoo Kim Berg (3 Tage)
 - **Neuro Linguistisches Programmieren**, 
 [Institut Tom Andreas](https://www.tomandreas.de/) (09.2021 – 03.2022)
 - **Leadership Toolbox**, 
@@ -189,6 +200,8 @@ Gesamtschule Holweide (1989 – 1998)
 
 ## 📡 In den Medien 
  
+- [Codes und schmerzlos - Scrum Master (Podcast)](
+https://open.spotify.com/episode/1CLjuetb79gnhK6V7lVd4g) (08.2022)
 - [Führung im Fokus - Laterale Führung und Agilität bei der REWE Digital (Podcast)]( 
   https://www.pta-team.com/podcast-episode-8-laterale-fuehrung-agilitaet-rewedigital) (05.2021) 
 - [Lerndiamanten - Personal Maps, Agile.Ruhr Camp (Video)]( 
