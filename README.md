@@ -20,15 +20,13 @@ Angestellt (08.2022 – heute)
 **Scrum Master @ [REWE Digital GmbH](https://www.rewe-digital.com/)**, 
 Angestellt (04.2018 – 07.2022)
 
-- Zuletzt Agile Team Coach für ein Platform Team (en) im eCom Tribe 
-und ein Team aus dem Bereich Transformation-Solutions 
+- Agile Team Coach, zuletzt für ein Platform Team im eCom Tribe (seit 01.2020)  
+und ein Team aus dem Bereich Transformation-Solutions (seit 01.2022).   
+Davor für verschiedene Feature Teams (fest und interim) 
+in der skalierten Produktentwicklung im eCom Tribe. 
 - Mentor im Scrum Master Trainee Programm
 - Trainer, Berater, Moderator und Coach für die Organisation 
 ([Details](https://github.com/fl3a/florian.latzel.io/blob/portfolio/referenzen.md))
-- Davor
-  -  Agile Team Coach (fest und interim) für verschiedene 
-     Feature Teams in der skalierten Produktentwicklung im eCom Tribe 
-  - Produktplanungsworkshops, Scrum of Scrums
 
 **Trainer, Berater, Facilitator und Coach @ [florian.latzel.io](
 https://florian.latzel.io)**, 
