@@ -201,7 +201,7 @@ Gesamtschule Holweide (1989 – 1998)
 ## 📡 In den Medien 
  
 - [Codes und schmerzlos - Scrum Master (Podcast)](
-https://open.spotify.com/episode/1CLjuetb79gnhK6V7lVd4g) (08.2022)
+https://open.spotify.com/episode/1CLjuetb79gnhK6V7lVd4g) (03/08.2022)
 - [Führung im Fokus - Laterale Führung und Agilität bei der REWE Digital (Podcast)]( 
   https://www.pta-team.com/podcast-episode-8-laterale-fuehrung-agilitaet-rewedigital) (05.2021) 
 - [Lerndiamanten - Personal Maps, Agile.Ruhr Camp (Video)]( 
@@ -234,12 +234,12 @@ https://open.spotify.com/episode/1CLjuetb79gnhK6V7lVd4g) (08.2022)
   https://twitter.com/OliverMonneke/status/987689762105458688), Agile.Ruhr (04.2018)
 - Agiles Arbeiten erfahren mit dem 
 [Ubungo Flow Game](https://www.teamworkblog.de/2016/10/das-ubongo-flow-game.html) 
+  - [REWE digital #girlsday](
+    https://twitter.com/RicardaKlein/status/1111344524553527301) (03.2019)
   - [#barcampDUS](
     https://twitter.com/ebru_sen82/status/1053261964003172352) (10.2018)
   - [agile.cologne](
     https://twitter.com/OliverMonneke/status/972101582144921600) (03.2018)
-  - [REWE digital #girlsday](
-    https://twitter.com/RicardaKlein/status/1111344524553527301) (03.2019)
 - [Neues Team - Was nun?](
   https://florian.latzel.io/neues-team-was-nun.html) drupalcamp.ruhr (03.2018)
 - [Agiles Onboarding](
