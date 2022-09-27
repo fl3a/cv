@@ -288,3 +288,4 @@ Repository: <{{ site.git_repo }}>, Revision: [{{ site.github.build_revision }}](
 *[FHDW]: Fachhochschule der Wirtschaft
 *[RRZK]: Regionales Rechenzentrum der Universität zu Köln
 *[ZAIK]: Zentrum für Angewandte Informatik der Universität zu Köln 
+*[OKR]: Objectives and Key Results 
