@@ -15,7 +15,7 @@ https://keys.openpgp.org/search?q=3F9F644542DD63E82165D376F4F62999C3BA4866))
 Angestellt (08.2022 – heute)
 
 - Teil des Leadership Trios des im Juli 2022 entstandenen *Health Care Journey* Tribes 
-- Etablierung und Begleitung von Prozessen und Ritualen der Zusammenarbeit im Tribe
+- Begleitung von Veränderung, Prozessen und Ritualen der Zusammenarbeit im Tribe
 
 **Scrum Master @ [REWE Digital GmbH](https://www.rewe-digital.com/)**, 
 Angestellt (04.2018 – 07.2022)
@@ -115,6 +115,7 @@ IT und Infrastruktur, Redmine Administrator und Scrum Master
 [Institut Tom Andreas](https://www.tomandreas.de/) 
 (05.2022 – 11.2022)
   - Angestrebter Abschluss: Coach (DVNLP)
+- **OKR Moderator**, axa.de (09.2022) (2 Tage)
 - **Coaching**,
 [Metaforum Sommercamp](https://www.metaforum-sommercamp.com) 
 (07.2022)
@@ -215,10 +216,12 @@ https://open.spotify.com/episode/1CLjuetb79gnhK6V7lVd4g) (03/08.2022)
 ## 🎤 Talks & Sessions
 {: .page-break-before }
 
+- [Leadershiptrainig goes wild](https://miro.com/app/board/uXjVPTz2JXo=/)
+, Agile Leipzig (09.2022)
 - Vom Stein des Sisyphos und Seedbombs
   - [AgILe Barcamp Ilmenau (10.2019)](
     https://twitter.com/frediontherun/status/1188093274373931014)
-  - [Agile Barcamp Leipzig (09.2019)](
+  - [Agile Leipzig (09.2019)](
     https://florian.latzel.io/2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#von-stein-des-sisyphos-und-seedbombs) 
 - [Management 3.0](https://florian.latzel.io/tags/management-3-0/)
   - [Personal Maps](https://florian.latzel.io/tags/personal-maps/) 
