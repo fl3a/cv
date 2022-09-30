@@ -115,7 +115,7 @@ IT und Infrastruktur, Redmine Administrator und Scrum Master
 [Institut Tom Andreas](https://www.tomandreas.de/) 
 (05.2022 – 11.2022)
   - Angestrebter Abschluss: Coach (DVNLP)
-- **OKR Moderator**, axa.de (09.2022) (2 Tage)
+- **OKR Moderator**, AXA Konzern AG (09.2022) (2 Tage)
 - **Coaching**,
 [Metaforum Sommercamp](https://www.metaforum-sommercamp.com) 
 (07.2022)
@@ -123,8 +123,9 @@ IT und Infrastruktur, Redmine Administrator und Scrum Master
   - Lösungsfokussierendes Coaching nach Steve de Shazer und Insoo Kim Berg (3 Tage)
 - **Neuro Linguistisches Programmieren**, 
 [Institut Tom Andreas](https://www.tomandreas.de/) (09.2021 – 03.2022)
+  - 192 Stunden an 19 Trainingstagen
 - **Leadership Toolbox**, 
-REWE digital (05.2018 – heute)  
+REWE digital (05.2018 – 2021
   - Die eigene Haltung und Wirkung in der Moderationsrolle (2 Tage) (12.2021)
   - Deep Dives Remote führen
     - Innere Antreiber in Führung (06.2020)
@@ -141,6 +142,7 @@ REWE digital (05.2018 – heute)
 - **Wildnispädagogik**, 
 [Naturschule Deutschland](https://www.naturschule.de/) 
 & [wildnistraining.de](https://www.wildnistraining.de/) (03.2020 – 11.2020)
+  - 120 Unterichtseinheiten an 6 Wochenendseminaren
 - **Leading Agile Transformations**, 
 Prowarenes GmbH (04.2017)
 - [**Beratungskapazität für Organisationsentwicklung**](
@@ -212,9 +214,7 @@ https://open.spotify.com/episode/1CLjuetb79gnhK6V7lVd4g) (03/08.2022)
 - [Outdoor-Talk mit Wildnislehrer Uwe Belz von wildnistraining.de (Video)](
   https://www.youtube.com/watch?v=M2x_PTfHGiQ&t=1000s) (04.2016)
  
-
 ## 🎤 Talks & Sessions
-{: .page-break-before }
 
 - [Leadershiptrainig goes wild](https://miro.com/app/board/uXjVPTz2JXo=/)
 , Agile Leipzig (09.2022)
