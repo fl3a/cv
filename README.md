@@ -259,7 +259,7 @@ https://open.spotify.com/episode/1CLjuetb79gnhK6V7lVd4g) (03/08.2022)
     drupaldevdays, München, (05.2010)
 
 [Weitere Talks, Sessions und Präsentationen](
-https://florian.latzel.io/tags/session/index.html)
+https://github.com/fl3a/florian.latzel.io/blob/angebot/pages/talks.md)
 
 ## 🔥 Hobbies & Interessen
 
