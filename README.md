@@ -70,8 +70,8 @@ Fokus Free/Libre Open Source Software.
 - Wichtige Stationen
   - Softwareentwickler @ [MYTOYS GROUP](https://) (06.2015 – 06-2016)
     - [Entwicklung der Multi-Shop-Plattform](
-      https://reinblau.coop/projekte/multi-shop-plattform-mytoys-group/) 
-    und Onboarding von internen Entwicklern in diese (via Reinblau)
+      https://reinblau.coop/projekte/multi-shop-plattform-mytoys-group/),  
+    Onboarding und Training von internen Entwicklern in diese (via Reinblau)
   - Product Owner @ [Stadt Mülheim an der Ruhr](
     https://www.muelheim-ruhr.de/cms/index.php) (02.2012 – 09.2013)
     - Entwicklung der [Digital Asset Management Lösung *Bassets*](
@@ -94,9 +94,10 @@ Fokus Free/Libre Open Source Software.
     ]init[ AG für digitale Kommunikation, Silpion GmbH, brainbits GmbH, 
     DOM Digital Online Media GmbH, pluusdesign GmbH, conceptfour GmbH, 
     TrafficDesign GmbH, erdfisch GbR, motionfx GmbH, UCS Ultima Computer Service GmbH
-  - Schulungsanbieter wie z.B. IAL Institut für angewandte Logistik GmbH und IAL CAMPUS, 
-    DAA Deutsche Angestellten-Akademie GmbH, BBQ – Baumann Bildung und Qualifizierung GmbH, 
-    Eduvision, bib International College
+  - Schulungsanbieter wie z.B. bib International College, 
+    IAL Institut für angewandte Logistik GmbH und IAL CAMPUS, 
+    DAA Deutsche Angestellten-Akademie GmbH, 
+    BBQ – Baumann Bildung und Qualifizierung GmbH, Eduvision, 
 
 ## 🚀 Gründungen 
 {: .page-break-before }
