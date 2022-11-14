@@ -111,11 +111,14 @@ IT und Infrastruktur, Redmine Administrator und Scrum Master
 
 ## 🎓 Aus- und Weiterbildung
 
-- **Coaching**, 
+- **Systemischer NLP Coach**, 
 [Institut Tom Andreas](https://www.tomandreas.de/) 
 (05.2022 – 11.2022)
-  - Angestrebter Abschluss: Coach (DVNLP)
-- **OKR Moderator**, AXA Konzern AG (09.2022) (2 Tage)
+  - 202 Unterichtsstunden, inklusive 15 Stunden Gruppensupervision an 20 Tagen
+- **Agile@Scale**, AXA Konzern AG
+  - Coachingskills für Agile Leader (10.2022 - heute)
+  - OKR Coach (2 Tage) (11.2022)
+  - OKR Moderator (2 Tage) (09.2022)
 - **Coaching**,
 [Metaforum Sommercamp](https://www.metaforum-sommercamp.com) 
 (07.2022)
@@ -123,9 +126,8 @@ IT und Infrastruktur, Redmine Administrator und Scrum Master
   - Lösungsfokussierendes Coaching nach Steve de Shazer und Insoo Kim Berg (3 Tage)
 - **Neuro Linguistisches Programmieren**, 
 [Institut Tom Andreas](https://www.tomandreas.de/) (09.2021 – 03.2022)
-  - 192 Stunden an 19 Trainingstagen
-- **Leadership Toolbox**, 
-REWE digital (05.2018 – 2021
+  - 192 Unterichtsstunden an 19 Tagen
+- **Leadership Toolbox**, REWE digital (05.2018 – 2021
   - Die eigene Haltung und Wirkung in der Moderationsrolle (2 Tage) (12.2021)
   - Deep Dives Remote führen
     - Innere Antreiber in Führung (06.2020)
