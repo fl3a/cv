@@ -202,6 +202,7 @@ Gesamtschule Holweide (1989 – 1998)
   LPI (12.2006 – 12.2011)
 
 ## 📡 In den Medien 
+{: .page-break-before }
  
 - [Codes und schmerzlos - Scrum Master (Podcast)](
 https://open.spotify.com/episode/1CLjuetb79gnhK6V7lVd4g) (03/08.2022)
