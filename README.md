@@ -45,11 +45,9 @@ Freiberuflich (05.2012 – 07.2017)
 - Tätigkeiten in verschiedenen Projekten & Organisationskontexten u.a.:    
 Softwareentwickler, Berater, Projektmanager, Product Owner, 
 Scrum Master und Open Space Facilitator.
-
    
 **Scrum Master @ [RMH MEDIA GmbH](https://www.rmh-media.com/)**, 
 Freiberuflich (11.2016 – 05.2017)
-{: .page-break-before }
 
 - Begleitung der Agilen Transition
 - Scrum Master eines remote Teams (en)
@@ -57,6 +55,7 @@ Freiberuflich (11.2016 – 05.2017)
     
 **Scrum Master @ [MYTOYS GROUP](https://mytoysgroup.jobs/)**, 
 Freiberuflich (07.2016 – 10.2016)
+{: .page-break-before }
 
 - Scrum Master eines remote Teams nach einem Teamschnitt (via Reinblau eG)
 
@@ -86,18 +85,19 @@ Fokus Free/Libre Open Source Software.
       bei der Entwicklung von [berliner.de](
       https://www.drupal.org/forum/general/show-off-your-drupal-site/2009-12-09/berlinerde-%E2%80%93-a-portal-focused-on-berlin-developed)
 - Für ca. 50 Kunden aus verschiedenen Branchen
-  - darunter Telefunken, Hubert Burda Media, DGAP – Deutsche Gesellschaft für Auswärtige Politik, 
-    Chancenwerk e.V, MYTOYS GROUP, Berlin Tourismus & Kongress GmbH, 
-    RESET gemeinnützige Stiftungs-GmbH, BerlinOnline Stadtportal GmbH & Co. KG, 
-    Dox Box e.V., netHEAVEN GmbH, Optana GmbH, Platine, Kunstraum BLAST
+  - darunter Telefunken, MYTOYS GROUP, Hubert Burda Media, 
+    Deutsche Gesellschaft für Auswärtige Politik, Stadt Köln, 
+    Berlin Tourismus & Kongress GmbH, Rechenzentrum der Finanzverwaltung NRW, 
+    Wirtschaftsförderung Land Brandenburg, BerlinOnline Stadtportal GmbH & Co. KG, 
+    RESET gemeinnützige Stiftungs-GmbH, Chancenwerk e.V., Dox Box e.V., Platine, Kunstraum BLAST
   - Digitalagenturen wie z.B. Digitas Pixelpark AG, 
     ]init[ AG für digitale Kommunikation, Silpion GmbH, brainbits GmbH, 
     DOM Digital Online Media GmbH, pluusdesign GmbH, conceptfour GmbH, 
     TrafficDesign GmbH, erdfisch GbR, motionfx GmbH, UCS Ultima Computer Service GmbH
   - Schulungsanbieter wie z.B. bib International College, 
-    IAL Institut für angewandte Logistik GmbH und IAL CAMPUS, 
+    IAL Institut für angewandte Logistik GmbH, IAL CAMPUS, 
     DAA Deutsche Angestellten-Akademie GmbH, 
-    BBQ – Baumann Bildung und Qualifizierung GmbH, Eduvision, 
+    BBQ Baumann Bildung und Qualifizierung GmbH, Eduvision Opleidingen B.V. 
 
 ## 🚀 Gründungen 
 {: .page-break-before }
@@ -112,11 +112,12 @@ IT und Infrastruktur, Redmine Administrator und Scrum Master
 
 ## 🎓 Aus- und Weiterbildung
 
-- **Systemischer NLP Coach**, 
+- [**Systemischer NLP Coach**](
+https://florian.latzel.io/2023/01/16/hallo-coaches.html), 
 [Institut Tom Andreas](https://www.tomandreas.de/) 
 (05.2022 – 11.2022)
   - 202 Unterichtsstunden, inklusive 15 Stunden Gruppensupervision an 20 Tagen
-- **Agile@Scale**, AXA Konzern AG
+- **Agile Leadership**, AXA Konzern AG
   - Coachingskills für Agile Leader (10.2022 - heute)
   - OKR Coach (2 Tage) (11.2022)
   - OKR Moderator (2 Tage) (09.2022)
@@ -148,9 +149,8 @@ IT und Infrastruktur, Redmine Administrator und Scrum Master
   - 120 Unterichtseinheiten an 6 Wochenendseminaren
 - **Leading Agile Transformations**, 
 Prowarenes GmbH (04.2017)
-- [**Beratungskapazität für Organisationsentwicklung**](
-https://www.xing.com/events/beratungskapazitat-organisationsentwicklung-1760671), 
-[Structure & Process](http://structureprocess.com/de/) (01.2017)
+- **Beratungskapazität für Organisationsentwicklung**, [Structure & Process](
+http://structureprocess.com/de/) (01.2017)
 - **Certified Scrum Product Owner plusTraining**, 
 [Das Scrum Team AG](https://www.dasscrumteam.com/de) (12.2017)
 - **Wildniswoche**, 
@@ -261,7 +261,7 @@ https://open.spotify.com/episode/1CLjuetb79gnhK6V7lVd4g) (03/08.2022)
     drupaldevdays, München, (05.2010)
 
 [Weitere Talks, Sessions und Präsentationen](
-https://github.com/fl3a/florian.latzel.io/blob/angebot/pages/talks.md)
+https://florian.latzel.io/talks.html)
 
 ## 🔥 Hobbies & Interessen
 
