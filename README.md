@@ -71,7 +71,8 @@ Fokus Free/Libre Open Source Software.
   - Softwareentwickler @ [MYTOYS GROUP](https://) (06.2015 – 06-2016)
     - [Entwicklung der Multi-Shop-Plattform](
       https://reinblau.coop/projekte/multi-shop-plattform-mytoys-group/),  
-    Onboarding und Training von internen Entwicklern in diese (via Reinblau)
+    Einführung von Code-Reviews, 
+    Onboarding und Training von internen Entwicklern (via Reinblau)
   - Product Owner @ [Stadt Mülheim an der Ruhr](
     https://www.muelheim-ruhr.de/cms/index.php) (02.2012 – 09.2013)
     - Entwicklung der [Digital Asset Management Lösung *Bassets*](
