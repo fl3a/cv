@@ -13,15 +13,15 @@ https://keys.openpgp.org/search?q=3F9F644542DD63E82165D376F4F62999C3BA4866))
 ## 🧪 Berufserfahrung
 
 **Tribe Agile Master @ [AXA Konzern AG](https://axa.de)**,
-Angestellt (08.2022 – heute)
+Angestellt (08.2022 - heute)
 
-- Teil des Leadership Trios des im Juli 2022 entstandenen *Health Care Journey* Tribes
+- Teil des Dreigestirns des im Juli 2022 entstandenen *Health Care Journey* Tribes
 - Begleitung von Veränderung und Ritualen der Zusammenarbeit
 - Einführung und Begleitung der Portfolio Jahres- und Quartalsplanung
-- Ausbildung von OKR Moderatoren und Einführung von OKR
+- Ausbildung von OKR Moderatoren und Einführung von OKR im Tribe
 
 **Scrum Master @ [REWE Digital GmbH](https://www.rewe-digital.com/)**, 
-Angestellt (04.2018 – 07.2022)
+Angestellt (04.2018 - 07.2022)
 
 - Agile Team Coach, zuletzt für ein Platform Team im eCom Tribe (seit 01.2020)  
 und ein Team aus dem Bereich Transformation-Solutions (seit 01.2022).   
@@ -33,58 +33,59 @@ in der skalierten Produktentwicklung im eCom Tribe.
 
 **Trainer, Berater, Facilitator und Coach @ [florian.latzel.io](
 https://florian.latzel.io)**, 
-Freiberuflich (10.2021 – heute)
+Freiberuflich (10.2021 - heute)
 
 - (Selbst-)Führung und New Work triff auf Natur und Achtsamkeit 
 
 **Scrum Master @ [paragraph eins GmbH](https://www.paragraph1.de/)**, 
-Freiberuflich (07.2017 – 03.2018)
+Freiberuflich (07.2017 - 03.2018)
 
 - Für REWE digital
 
 **Mit-Gründer & Genosse @ [Reinblau eG](https://reinblau.coop/)**, 
-Freiberuflich (05.2012 – 07.2017)
+Freiberuflich (05.2012 - 07.2017)
 
 - Tätigkeiten in verschiedenen Projekten & Organisationskontexten u.a.:    
 Softwareentwickler, Berater, Projektmanager, Product Owner, 
 Scrum Master und Open Space Facilitator.
+
+{: .page-break-before }
    
 **Scrum Master @ [RMH MEDIA GmbH](https://www.rmh-media.com/)**, 
-Freiberuflich (11.2016 – 05.2017)
+Freiberuflich (11.2016 - 05.2017)
 
 - Begleitung der Agilen Transition
 - Scrum Master eines remote Teams (en)
 - Mitarbeit an der Jira-Einführung
     
 **Scrum Master @ [MYTOYS GROUP](https://mytoysgroup.jobs/)**, 
-Freiberuflich (07.2016 – 10.2016)
-{: .page-break-before }
+Freiberuflich (07.2016 - 10.2016)
 
 - Scrum Master eines remote Teams nach einem Teamschnitt (via Reinblau eG)
 
 **IT-Berater @ [ISL Florian Latzel](
 https://web.archive.org/web/20190119112329/https://is-loesungen.de/)**, 
-Freiberuflich (05.2006 – 09.2021)   
+Freiberuflich (05.2006 - 09.2021)   
 Beratung, Entwicklung und Anpassung von Individualsoftware über Setup, 
 Administration und Absicherung von IT-Infrastruktur, Automatisierung von Abläufen 
 bis hinzu Schulungen und Trainings. 
 Fokus Free/Libre Open Source Software.    
 - Wichtige Stationen
-  - Softwareentwickler @ [MYTOYS GROUP](https://) (06.2015 – 06-2016)
+  - Softwareentwickler @ [MYTOYS GROUP](https://) (06.2015 - 06-2016)
     - [Entwicklung der Multi-Shop-Plattform](
       https://reinblau.coop/projekte/multi-shop-plattform-mytoys-group/),  
     Einführung von Code-Reviews, 
     Onboarding und Training von internen Entwicklern (via Reinblau)
   - Product Owner @ [Stadt Mülheim an der Ruhr](
-    https://www.muelheim-ruhr.de/cms/index.php) (02.2012 – 09.2013)
+    https://www.muelheim-ruhr.de/cms/index.php) (02.2012 - 09.2013)
     - Entwicklung der [Digital Asset Management Lösung *Bassets*](
      https://www.drupal.org/project/bassets) (via Reinblau)
   - IT-Berater @ [Berlin Tourismus & Kongress GmbH](
-    https://about.visitberlin.de/) (12.2009 – 04.2010)
+    https://about.visitberlin.de/) (12.2009 - 04.2010)
     - Anforderungsanalyse, Einführung von Scrum, Git und einer Knowledge Base 
       bei dem Relaunch von [visitBerlin.de](https://visitberlin.de)
   - IT-Berater @ [BerlinOnline Stadtportal GmbH & Co. KG](
-    https://www.berlinonline.net/) (11.2008 – 05.2009)
+    https://www.berlinonline.net/) (11.2008 - 05.2009)
     - Anforderungsanalyse und Software-Entwicklung in einem Scrum Team 
       bei der Entwicklung von [berliner.de](
       https://www.drupal.org/forum/general/show-off-your-drupal-site/2009-12-09/berlinerde-%E2%80%93-a-portal-focused-on-berlin-developed)
@@ -106,7 +107,7 @@ Fokus Free/Libre Open Source Software.
 ## 🚀 Gründungen 
 {: .page-break-before }
 
-[**Reinblau eG**](https://reinblau.coop) (05.2012 – Exit 12.2020)  
+[**Reinblau eG**](https://reinblau.coop) (05.2012 - Exit 12.2020)  
  Genossenschaftlich geführte und holokratisch organisierte Digitalagentur
 - Mitaufbau der Marke und der Organisation Reinblau
 - Begleitung der Transformation von der [GzEvD mbH](https://gzevd.de) Tochter 
@@ -119,7 +120,7 @@ IT und Infrastruktur, Redmine Administrator und Scrum Master
 - [**Systemischer NLP Coach**](
 https://florian.latzel.io/2023/01/16/hallo-coaches.html), 
 [Institut Tom Andreas](https://www.tomandreas.de/) 
-(05.2022 – 11.2022)
+(05.2022 - 11.2022)
   - 202 Unterichtsstunden, inklusive 15 Stunden Gruppensupervision an 20 Tagen
 - **Agile Leadership**, AXA Konzern AG
   - Grundlagentraining Change w/ [artop](https://www.artop.de) (2 Tage) (01.2023)
@@ -132,9 +133,9 @@ https://florian.latzel.io/2023/01/16/hallo-coaches.html),
   - Der Provokative Ansatz nach Frank Farrelly (2 Tage)
   - Lösungsfokussierendes Coaching nach Steve de Shazer und Insoo Kim Berg (3 Tage)
 - **Neuro Linguistisches Programmieren**, 
-[Institut Tom Andreas](https://www.tomandreas.de/) (09.2021 – 03.2022)
+[Institut Tom Andreas](https://www.tomandreas.de/) (09.2021 - 03.2022)
   - 192 Unterichtsstunden an 19 Tagen
-- **Leadership Toolbox**, REWE digital (05.2018 – 2021
+- **Leadership Toolbox**, REWE digital (05.2018 - 2021
   - Die eigene Haltung und Wirkung in der Moderationsrolle (2 Tage) (12.2021)
   - Deep Dives Remote führen
     - Innere Antreiber in Führung (06.2020)
@@ -147,17 +148,17 @@ https://florian.latzel.io/2023/01/16/hallo-coaches.html),
   - Achtsamkeit (1 Tag ) (11.2018)
   - Teams führen und weiterentwickeln (1 Tag) (05.2018)
 - [**Search Inside Yourself Programm**](https://siyli.org/search-inside-yourself/), 
-[SIYLI](https://siyli.org/) (01.2021 – 02.2021)
+[SIYLI](https://siyli.org/) (01.2021 - 02.2021)
 - **Wildnispädagogik**, 
-[Naturschule Deutschland](https://www.naturschule.de/) 
-& [wildnistraining.de](https://www.wildnistraining.de/) (03.2020 – 11.2020)
+[wildnistraining.de](https://www.wildnistraining.de/) x 
+[Naturschule Deutschland](https://www.naturschule.de/) (03.2020 - 11.2020)   
   - 120 Unterichtseinheiten an 6 Wochenendseminaren
+- **Certified Scrum Product Owner plusTraining**, 
+[Das Scrum Team AG](https://www.dasscrumteam.com/de) (12.2017)
 - **Leading Agile Transformations**, 
 Prowarenes GmbH (04.2017)
 - **Beratungskapazität für Organisationsentwicklung**, [Structure & Process](
 http://structureprocess.com/de/) (01.2017)
-- **Certified Scrum Product Owner plusTraining**, 
-[Das Scrum Team AG](https://www.dasscrumteam.com/de) (12.2017)
 - **Wildniswoche**, 
 [wildnistraining.de](https://www.wildnistraining.de/) (08.2016)
 - **Android App Entwicklung**, 
@@ -172,40 +173,40 @@ https://web.archive.org/web/20141024140709/http://prowareness.de/training/scrum-
 https://web.archive.org/web/20071011070950/http://www.sigs-datacom.de/sd/seminare/evt_seminar_show.htm?&TABLE=sd_product&PID=860))**, 
 [SIGS DATACOM GmbH](https://www.sigs-datacom.de/) (12.2007)
 - **Vorbereitung auf die Linux Zertifizierungen des LPI**, 
-[IAL GmbH](https://www.ial.de/) (05.2006 – 11.2006) 
+[IAL GmbH](https://www.ial.de/) (05.2006 - 11.2006) 
 - **Existenzgründungsseminar**, 
 ibis acam AG (11.2005)
 - **Staatl. gepr. Informatiker Softwaretechnologie**, 
-[bib](https://www.bib.de/) (10.2002 – 10.2004)
+[bib International College](https://www.bib.de/) (10.2002 - 10.2004)
 - **Einführungskurse des [ZAIK/RRZK](https://rrzk.uni-koeln.de/)**, 
-[Universität zu Köln](https://www.uni-koeln.de/) (03.2002 – 04.2002)
+[Universität zu Köln](https://www.uni-koeln.de/) (03.2002 - 04.2002)
   - Unix, Linux, Einführung in die Programmierung (Java), OOP, Erstellung von Internetseiten
 - **Abitur**, 
-Gesamtschule Holweide (1989 – 1998)
+Gesamtschule Holweide (1989 - 1998)
   - Deutsch, Pädagogik, Mathematik, Englisch
 
 ## 📃 Zertifikate
 
 - [**NLP Practitioner**](
   https://florian.latzel.io/2022/03/31/nlp-practitioner.html), 
-  DVNLP (03.2022 – heute)
+  DVNLP (03.2022 - heute)
 - [**Wildnispädagoge**](
   https://florian.latzel.io/2020/12/14/november-draussen.html#ich-bin-wildnisp%C3%A4dagoge), 
   [Naturschule Deutschland e.V.](https://www.naturschule.de/)
   & [wildnistraining.de](https://www.wildnistraining.de/) (11.2022 - heute)
 - [**Certified Scrum Professional**](
   https://florian.latzel.io/2018/03/31/certified-scrum-professional-csp.html), 
-  Scrum Alliance (02.2018 – heute)
+  Scrum Alliance (02.2018 - heute)
 - [**Certified Scrum Product Owner**](
   https://florian.latzel.io/2018/03/03/scrum-starter-kit.html), 
-  Scrum Alliance (12.2017 – heute)
+  Scrum Alliance (12.2017 - heute)
 - [**Professional Scrum Master I**](
   https://florian.latzel.io/neues-aus-der-scheinwelt-professional-scrum-master-i-psm1.html), 
-  Scrum.org (02.2015 – heute)
-- **Novell Certified Linux Administrator**, Novell (01.2010 – heute)
+  Scrum.org (02.2015 - heute)
+- **Novell Certified Linux Administrator**, Novell (01.2010 - heute)
 - [**Linux Professional Institute Certification 2**](
   https://florian.latzel.io/2006/12/22/lpic-2-2-tage-vor-weihnachten.html), 
-  LPI (12.2006 – 12.2011)
+  LPI (12.2006 - 12.2011)
 
 ## 📡 In den Medien 
 {: .page-break-before }
