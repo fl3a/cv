@@ -2,11 +2,11 @@
 
 Graf-Adolf-Str. 66, 51065 Köln-Mülheim |
 [florian@latzel.io](mailto:florian@latzel.io) 
-([Key-ID: C3BA4866](
+([Key-ID: 0xC3BA4866](
 https://keys.openpgp.org/search?q=3F9F644542DD63E82165D376F4F62999C3BA4866))   
 [florian.latzel.io](https://florian.latzel.io) | 
 [LinkedIn](https://de.linkedin.com/in/florianlatzel/de) | 
-[Xing](https://www.xing.com/profile/Florian_Latzel) |
+[XING](https://www.xing.com/profile/Florian_Latzel) |
 [GitHub](https://github.com/fl3a) 
 {:.contact }
 
@@ -15,8 +15,10 @@ https://keys.openpgp.org/search?q=3F9F644542DD63E82165D376F4F62999C3BA4866))
 **Tribe Agile Master @ [AXA Konzern AG](https://axa.de)**,
 Angestellt (08.2022 – heute)
 
-- Teil des Leadership Trios des im Juli 2022 entstandenen *Health Care Journey* Tribes 
-- Begleitung von Veränderung, Prozessen und Ritualen der Zusammenarbeit im Tribe
+- Teil des Leadership Trios des im Juli 2022 entstandenen *Health Care Journey* Tribes
+- Begleitung von Veränderung und Ritualen der Zusammenarbeit
+- Einführung und Begleitung der Portfolio Jahres- und Quartalsplanung
+- Ausbildung von OKR Moderatoren und Einführung von OKR
 
 **Scrum Master @ [REWE Digital GmbH](https://www.rewe-digital.com/)**, 
 Angestellt (04.2018 – 07.2022)
@@ -33,7 +35,7 @@ in der skalierten Produktentwicklung im eCom Tribe.
 https://florian.latzel.io)**, 
 Freiberuflich (10.2021 – heute)
 
-- Natur und Achtsamkeit trifft auf New Work und (Selbst-)Führung 
+- (Selbst-)Führung und New Work triff auf Natur und Achtsamkeit 
 
 **Scrum Master @ [paragraph eins GmbH](https://www.paragraph1.de/)**, 
 Freiberuflich (07.2017 – 03.2018)
