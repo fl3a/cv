@@ -28,8 +28,8 @@ und ein Team aus dem Bereich Transformation-Solutions (seit 01.2022).
 Davor für verschiedene Feature Teams (fest und interim) 
 in der skalierten Produktentwicklung im eCom Tribe. 
 - Mentor im Scrum Master Trainee Programm
-- Trainer, Berater, Moderator und Coach für die Organisation 
-([Details](https://github.com/fl3a/florian.latzel.io/blob/portfolio/referenzen.md))
+- Trainer, Moderator und Facilitator für die Organisation 
+([Details](https://florian.latzel.io/referenzen.html))
 
 **Trainer, Berater, Facilitator und Coach @ [florian.latzel.io](
 https://florian.latzel.io)**, 
