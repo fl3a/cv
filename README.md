@@ -130,8 +130,10 @@ https://florian.latzel.io/2023/01/16/hallo-coaches.html),
 - **Coaching**,
 [Metaforum Sommercamp](https://www.metaforum-sommercamp.com) 
 (07.2022)
-  - Der Provokative Ansatz nach Frank Farrelly (2 Tage)
-  - Lösungsfokussierendes Coaching nach Steve de Shazer und Insoo Kim Berg (3 Tage)
+  - [Der Provokative Ansatz](
+https://florian.latzel.io/assets/imgs/florian-latzel-der-provokative-ansatz-metaforum-2022.jpg) (2 Tage)
+  - [Lösungsfokussierendes Coaching](
+https://florian.latzel.io/assets/imgs/florian-latzel-loesungsfokussierendes-coaching-metaforum-2022.jpg) (3 Tage)
 - **Neuro Linguistisches Programmieren**, 
 [Institut Tom Andreas](https://www.tomandreas.de/) (09.2021 - 03.2022)
   - 192 Unterichtsstunden an 19 Tagen
