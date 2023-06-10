@@ -13,9 +13,9 @@ https://keys.openpgp.org/search?q=3F9F644542DD63E82165D376F4F62999C3BA4866))
 ## 🧪 Berufserfahrung
 
 **Tribe Agile Master @ [AXA Konzern AG](https://axa.de)**,
-Angestellt (08.2022 - heute)
+Angestellt (08.2022 - 06.2023)
 
-- Teil des Dreigestirns des im Juli 2022 entstandenen *Health Care Journey* Tribes
+- Teil des Führungs-Trios, des im Juli 2022 entstandenen *Health Care Journey* Tribes
 - Begleitung von Veränderung und Ritualen der Zusammenarbeit
 - Einführung und Begleitung der Portfolio Jahres- und Quartalsplanung
 - Ausbildung von OKR Moderatoren und Einführung von OKR im Tribe
@@ -42,7 +42,7 @@ Freiberuflich (07.2017 - 03.2018)
 
 - Für REWE digital
 
-**Mit-Gründer & Genosse @ [Reinblau eG](https://reinblau.coop/)**, 
+**Genosse @ [Reinblau eG](https://reinblau.coop/)**, 
 Freiberuflich (05.2012 - 07.2017)
 
 - Tätigkeiten in verschiedenen Projekten & Organisationskontexten u.a.:    
@@ -54,9 +54,8 @@ Scrum Master und Open Space Facilitator.
 **Scrum Master @ [RMH MEDIA GmbH](https://www.rmh-media.com/)**, 
 Freiberuflich (11.2016 - 05.2017)
 
-- Begleitung der Agilen Transition
-- Scrum Master eines remote Teams (en)
-- Mitarbeit an der Jira-Einführung
+- Begleitung der Agilen Transition, Scrum Master eines remote Teams, 
+Mitarbeit an der Jira-Einführung
     
 **Scrum Master @ [MYTOYS GROUP](https://mytoysgroup.jobs/)**, 
 Freiberuflich (07.2016 - 10.2016)
@@ -123,6 +122,8 @@ https://florian.latzel.io/2023/01/16/hallo-coaches.html),
 (05.2022 - 11.2022)
   - 202 Unterichtsstunden, inklusive 15 Stunden Gruppensupervision an 20 Tagen
 - **Agile Leadership**, AXA Konzern AG
+  - SAFe Scrum Master + Product Owner (4 Tage) (05.2023)
+  - Liberating Structures (2 Tage) (04.05)
   - Grundlagentraining Change w/ [artop](https://www.artop.de) (2 Tage) (01.2023)
   - Coachingskills für Agile Führungskräfte (3 Tage) (10.2022 - 12.2022)
   - OKR Coach (2 Tage) (11.2022)
