@@ -122,7 +122,7 @@ https://florian.latzel.io/2023/01/16/hallo-coaches.html),
 (05.2022 - 11.2022)
   - 202 Unterichtsstunden, inklusive 15 Stunden Gruppensupervision an 20 Tagen
 - **Agile Leadership**, AXA Konzern AG
-  - SAFe Scrum Master + Product Owner (4 Tage) (05.2023)
+  - SAFe Scrum Master + Product Owner (4 Tage) (06.2023)
   - Liberating Structures (2 Tage) (04.05)
   - Grundlagentraining Change w/ [artop](https://www.artop.de) (2 Tage) (01.2023)
   - Coachingskills für Agile Führungskräfte (3 Tage) (10.2022 - 12.2022)
