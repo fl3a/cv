@@ -20,6 +20,12 @@ Angestellt (08.2022 - 06.2023)
 - Einführung und Begleitung der Portfolio Jahres- und Quartalsplanung
 - Ausbildung von OKR Moderatoren und Einführung von OKR im Tribe
 
+**Facilitator, Wildnistrainer und Coach @ [florian.latzel.io](
+https://florian.latzel.io)**, 
+Freiberuflich (10.2021 - heute)
+
+- (Selbst-)Führung und New Work triff auf Natur und Achtsamkeit 
+
 **Scrum Master @ [REWE Digital GmbH](https://www.rewe-digital.com/)**, 
 Angestellt (04.2018 - 07.2022)
 
@@ -31,25 +37,10 @@ in der skalierten Produktentwicklung im eCom Tribe.
 - Trainer, Moderator und Facilitator für die Organisation 
 ([Details](https://florian.latzel.io/referenzen.html))
 
-**Trainer, Berater, Facilitator und Coach @ [florian.latzel.io](
-https://florian.latzel.io)**, 
-Freiberuflich (10.2021 - heute)
-
-- (Selbst-)Führung und New Work triff auf Natur und Achtsamkeit 
-
 **Scrum Master @ [paragraph eins GmbH](https://www.paragraph1.de/)**, 
 Freiberuflich (07.2017 - 03.2018)
 
 - Für REWE digital
-
-**Genosse @ [Reinblau eG](https://reinblau.coop/)**, 
-Freiberuflich (05.2012 - 07.2017)
-
-- Tätigkeiten in verschiedenen Projekten & Organisationskontexten u.a.:    
-Softwareentwickler, Berater, Projektmanager, Product Owner, 
-Scrum Master und Open Space Facilitator.
-
-{: .page-break-before }
    
 **Scrum Master @ [RMH MEDIA GmbH](https://www.rmh-media.com/)**, 
 Freiberuflich (11.2016 - 05.2017)
@@ -61,6 +52,14 @@ Mitarbeit an der Jira-Einführung
 Freiberuflich (07.2016 - 10.2016)
 
 - Scrum Master eines remote Teams nach einem Teamschnitt (via Reinblau eG)
+
+{: .page-break-before }
+**Genosse @ [Reinblau eG](https://reinblau.coop/)**, 
+Freiberuflich (05.2012 - 07.2017)
+
+- Tätigkeiten in verschiedenen Projekten & Organisationskontexten u.a.:    
+Softwareentwickler, Berater, Projektmanager, Product Owner, 
+Scrum Master und Open Space Facilitator.
 
 **IT-Berater @ [ISL Florian Latzel](
 https://web.archive.org/web/20190119112329/https://is-loesungen.de/)**, 
@@ -74,11 +73,11 @@ Fokus Free/Libre Open Source Software.
     - [Entwicklung der Multi-Shop-Plattform](
       https://reinblau.coop/projekte/multi-shop-plattform-mytoys-group/),  
     Einführung von Code-Reviews, 
-    Onboarding und Training von internen Entwicklern (via Reinblau)
+    Onboarding und Training von internen Entwicklern (via Reinblau eG)
   - Product Owner @ [Stadt Mülheim an der Ruhr](
     https://www.muelheim-ruhr.de/cms/index.php) (02.2012 - 09.2013)
-    - Entwicklung der [Digital Asset Management Lösung *Bassets*](
-     https://www.drupal.org/project/bassets) (via Reinblau)
+    - Entwicklung einer [Digital Asset Management Lösung](
+     https://www.drupal.org/project/bassets) (via Reinblau eG)
   - IT-Berater @ [Berlin Tourismus & Kongress GmbH](
     https://about.visitberlin.de/) (12.2009 - 04.2010)
     - Anforderungsanalyse, Einführung von Scrum, Git und einer Knowledge Base 
@@ -290,7 +289,7 @@ Schreiben, Organisationsentwicklung, Soziologie,
 
 Repository: <{{ site.git_repo }}>, Revision: [{{ site.github.build_revision }}](
 {{ site.git_repo }}/commit/{{ site.github.build_revision }})
-{: .git-footer }
+{: .footer .git-footer }
 
 *[ISL]: Individuelle System Lösungen
 *[GzEvD]: Gesellschaft zur Entwicklung von Dingen
