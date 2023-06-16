@@ -210,23 +210,8 @@ Gesamtschule Holweide (1989 - 1998)
   https://florian.latzel.io/2006/12/22/lpic-2-2-tage-vor-weihnachten.html), 
   LPI (12.2006 - 12.2011)
 
-## 📡 In den Medien 
-{: .page-break-before }
- 
-- [Codes und schmerzlos - Scrum Master (Podcast)](
-https://open.spotify.com/episode/1CLjuetb79gnhK6V7lVd4g) (03/08.2022)
-- [Führung im Fokus - Laterale Führung und Agilität bei der REWE Digital (Podcast)]( 
-  https://www.pta-team.com/podcast-episode-8-laterale-fuehrung-agilitaet-rewedigital) (05.2021) 
-- [Lerndiamanten - Personal Maps, Agile.Ruhr Camp (Video)]( 
-  https://www.youtube.com/watch?v=n0DS7hRQChk) (04.2019)
-- [Gutes Arbeiten, Drupal Barcamp Ruhr (Interview)]( 
-  https://www.youtube.com/watch?v=hCUHM7tSOHI) (04.2018)
-- [Eine Einführung in Scrum, DrupalCamp Munich, LMU (Video)]( 
-  https://videoonline.edu.lmu.de/de/node/9207) (12.2016)
-- [Outdoor-Talk mit Wildnislehrer Uwe Belz von wildnistraining.de (Video)](
-  https://www.youtube.com/watch?v=M2x_PTfHGiQ&t=1000s) (04.2016)
- 
 ## 🎤 Talks & Sessions
+{: .page-break-before }
 
 - [Leadershiptrainig goes wild](https://miro.com/app/board/uXjVPTz2JXo=/)
 , Agile Leipzig (09.2022)
@@ -271,6 +256,22 @@ https://open.spotify.com/episode/1CLjuetb79gnhK6V7lVd4g) (03/08.2022)
 [Weitere Talks, Sessions und Präsentationen](
 https://florian.latzel.io/talks.html)
 
+## 📡 In den Medien 
+{: .page-break-before }
+ 
+- [Codes und schmerzlos - Scrum Master (Podcast)](
+https://open.spotify.com/episode/1CLjuetb79gnhK6V7lVd4g) (03/08.2022)
+- [Führung im Fokus - Laterale Führung und Agilität bei der REWE Digital (Podcast)]( 
+  https://www.pta-team.com/podcast-episode-8-laterale-fuehrung-agilitaet-rewedigital) (05.2021) 
+- [Lerndiamanten - Personal Maps, Agile.Ruhr Camp (Video)]( 
+  https://www.youtube.com/watch?v=n0DS7hRQChk) (04.2019)
+- [Gutes Arbeiten, Drupal Barcamp Ruhr (Interview)]( 
+  https://www.youtube.com/watch?v=hCUHM7tSOHI) (04.2018)
+- [Eine Einführung in Scrum, DrupalCamp Munich, LMU (Video)]( 
+  https://videoonline.edu.lmu.de/de/node/9207) (12.2016)
+- [Outdoor-Talk mit Wildnislehrer Uwe Belz von wildnistraining.de (Video)](
+  https://www.youtube.com/watch?v=M2x_PTfHGiQ&t=1000s) (04.2016)
+ 
 ## 🔥 Hobbies & Interessen
 
 [Draussensein](https://florian.latzel.io/tags/draussen/index.html), Lagerfeuer, 
