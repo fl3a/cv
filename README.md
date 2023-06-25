@@ -12,16 +12,14 @@ https://keys.openpgp.org/search?q=3F9F644542DD63E82165D376F4F62999C3BA4866))
 
 ## 🧪 Berufserfahrung
 
-**Tribe Agile Master @ [AXA Konzern AG](https://axa.de)**,
-Angestellt (08.2022 - 06.2023)
+**Tribe Agile Master @ [AXA Konzern AG](https://axa.de)** (08.2022 - 06.2023)
 
 - Teil des Führungs-Trios, des im Juli 2022 entstandenen *Health Care Journey* Tribes
 - Begleitung von Veränderung und Ritualen der Zusammenarbeit
 - Einführung und Begleitung der Portfolio Jahres- und Quartalsplanung
 - Ausbildung von OKR Moderatoren und Einführung von OKR im Tribe
 
-**Scrum Master @ [REWE Digital GmbH](https://www.rewe-digital.com/)**, 
-Angestellt (04.2018 - 07.2022)
+**Scrum Master @ [REWE Digital GmbH](https://www.rewe-digital.com/)** (04.2018 - 07.2022)
 
 - Agile Team Coach, zuletzt für ein Platform Team im eCom Tribe (seit 01.2020)  
 und ein Team aus dem Bereich Transformation-Solutions (seit 01.2022).   
