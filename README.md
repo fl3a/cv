@@ -43,20 +43,13 @@ für REWE digital (07.2017 - 03.2018)
 - [RMH MEDIA GmbH](https://www.rmh-media.com/) (11.2016 - 05.2017)
 - [MYTOYS GROUP](https://mytoysgroup.jobs/) (07.2016 - 10.2016)
 
-**IT-Berater @ [ISL Florian Latzel](
-https://web.archive.org/web/20190119112329/https://is-loesungen.de/)**, 
-Freiberuflich (05.2006 - 09.2021)   
-Beratung, Entwicklung und Anpassung von Individualsoftware über Setup, 
-Administration und Absicherung von IT-Infrastruktur, Automatisierung von Abläufen 
-bis hinzu Schulungen und Trainings. 
-Fokus Free/Libre Open Source Software.    
-- Für ca. 50 Kunden aus verschiedenen Branchen (Details)
+**IT-Berater**, Freiberuflich (05.2006 - 09.2021)   
+- Für ca. 50 Kunden aus verschiedenen Branchen 
+([Details](https://florian.latzel.io/referenzen.html#kunden))
 - Wichtige Stationen
   - Softwareentwickler @ [MYTOYS GROUP](https://) (06.2015 - 06-2016)
   - Product Owner @ [Stadt Mülheim an der Ruhr](
     https://www.muelheim-ruhr.de/cms/index.php) (02.2012 - 09.2013)
-  - IT-Berater @ [Berlin Tourismus & Kongress GmbH](
-    https://about.visitberlin.de/) (12.2009 - 04.2010)
   - IT-Berater @ [BerlinOnline Stadtportal GmbH & Co. KG](
     https://www.berlinonline.net/) (11.2008 - 05.2009)
 
@@ -76,38 +69,12 @@ IT und Infrastruktur, Redmine Administrator und Scrum Master
 https://florian.latzel.io/2023/01/16/hallo-coaches.html), 
 [Institut Tom Andreas](https://www.tomandreas.de/) 
 (05.2022 - 11.2022)
-- **Agile Leadership**, AXA Konzern AG
-  - SAFe Scrum Master & Product Owner + Product Manager (4 Tage) (06.2023)
-  - Liberating Structures (2 Tage) (04.05)
-  - Grundlagentraining Change (2 Tage) (01.2023)
-  - Coachingskills für Agile Führungskräfte (3 Tage) (10.2022 - 12.2022)
-  - OKR Coach (2 Tage) (11.2022)
-  - OKR Moderator (2 Tage) (09.2022)
-- **Coaching**,
-[Metaforum Sommercamp](https://www.metaforum-sommercamp.com) 
-(07.2022)
-  - [Der Provokative Ansatz](
-https://florian.latzel.io/assets/imgs/florian-latzel-der-provokative-ansatz-metaforum-2022.jpg) (2 Tage)
-  - [Lösungsfokussierendes Coaching](
-https://florian.latzel.io/assets/imgs/florian-latzel-loesungsfokussierendes-coaching-metaforum-2022.jpg) (3 Tage)
-- **Neuro Linguistisches Programmieren**, 
-[Institut Tom Andreas](https://www.tomandreas.de/) (09.2021 - 03.2022)
+- **Agile Leadership**, AXA Konzern AG (13 Tage) (08.2022 - 06.2023)
 - [**Wildnispädagogik**]( 
   https://florian.latzel.io/2020/12/14/november-draussen.html#ich-bin-wildnisp%C3%A4dagoge), 
 [wildnistraining.de](https://www.wildnistraining.de/) x 
 [Naturschule Deutschland](https://www.naturschule.de/) (03.2020 - 11.2020)   
-- **Leadership Toolbox**, REWE digital (05.2018 - 2021)
-  - Die eigene Haltung und Wirkung in der Moderationsrolle (2 Tage) (12.2021)
-  - Deep Dives Remote führen
-    - Innere Antreiber in Führung (06.2020)
-    - Empathie und Emotionale Inteligenz (05.2020)
-  - Die Führungskraft in ihrem Handeln (2 Tage) (03.2020)
-  - Die Führungskraft als Person (2 Tage) (10.2019)
-  - Die Führungskraft als Coach (1 Tag) (06.2019)
-  - Schwierige Gespräche meistern (1 Tag) (01.2019)
-  - Umgang mit Konflikten (1 Tag ) (11.2018)
-  - Achtsamkeit (1 Tag ) (11.2018)
-  - Teams führen und weiterentwickeln (1 Tag) (05.2018)
+- **Leadership Toolbox**, REWE digital (13 Tage) (05.2018 - 2021)
 - [**Search Inside Yourself Programm**](https://siyli.org/search-inside-yourself/), 
 [SIYLI](https://siyli.org/) (01.2021 - 02.2021)
 - **Leading Agile Transformations**, Prowarenes GmbH (2 Tage) (04.2017)
