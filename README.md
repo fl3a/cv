@@ -49,12 +49,7 @@ für REWE digital (07.2017 - 03.2018)
 ## 🚀 Gründungen 
 
 [**Reinblau eG**](https://reinblau.coop) (05.2012 - Exit 12.2020)  
- Genossenschaftlich geführte und holokratisch organisierte Digitalagentur
-- Mitaufbau der Marke und der Organisation Reinblau
-- Begleitung der Transformation von der [GzEvD mbH](https://gzevd.de) Tochter 
-zur Genossenschaft
-- Bis 07.2017 in den Holacracy-Rollen: 
-IT und Infrastruktur, Redmine Administrator und Scrum Master
+- Genossenschaftlich geführte und holokratisch organisierte Digitalagentur
 
 ## 🎓 Aus- und Weiterbildung
 
@@ -63,7 +58,7 @@ https://florian.latzel.io/2023/01/16/hallo-coaches.html),
 [Institut Tom Andreas](https://www.tomandreas.de/) 
 (05.2022 - 11.2022)
 - [**Neuro Linguistisches Programmieren (NLP)**](
-https://florian.latzel.io/2022/03/31/nlp-practitioner.html),  
+https://florian.latzel.io/2022/03/31/nlp-practitioner.html),
 [Institut Tom Andreas](https://www.tomandreas.de/) 
 (09.2021 - 03.2022))
 - [**Wildnispädagogik**]( 
