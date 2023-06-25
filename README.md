@@ -21,9 +21,8 @@ https://keys.openpgp.org/search?q=3F9F644542DD63E82165D376F4F62999C3BA4866))
 
 **Agile Team Coach @ [REWE Digital GmbH](https://www.rewe-digital.com/)** (04.2018 - 07.2022)
 
-- Zuletzt für ein Platform Team im eCom Tribe (seit 01.2020) 
-und ein Team aus dem Bereich Transformation-Solutions (seit 01.2022).
-Davor für verschiedene Feature Teams (fest und interim) in der skalierten Produktentwicklung.
+- Für ein Platform Team im eCom Tribe und ein Team aus dem Bereich Transformation-Solutions   
+- Davor für verschiedene Teams (fest und interim) in der skalierten Produktentwicklung im eCom Tribe
 - Mentor im Scrum Master Trainee Programm
 - Trainer, Moderator und Facilitator für die Organisation 
 ([Details](https://florian.latzel.io/referenzen.html))
