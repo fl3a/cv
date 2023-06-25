@@ -38,7 +38,8 @@ für REWE Digital GmbH (07.2017 - 03.2018)
 - [MYTOYS GROUP](https://mytoysgroup.jobs/), via Reinblau eG (07.2016 - 10.2016)
 
 **IT-Berater**, Freiberuflich (05.2006 - 09.2021)   
-- [Schlüsselprojekte]() und [Kunden]()
+- [Schlüsselprojekte](https://florian.latzel.io/cv/#key-projects) 
+und [Kunden](https://florian.latzel.io/cv/#kunden)
 
 ## 🚀 Gründungen 
 
