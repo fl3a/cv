@@ -206,10 +206,6 @@ Gesamtschule Holweide (1989 - 1998)
 - [**Professional Scrum Master I**](
   https://florian.latzel.io/neues-aus-der-scheinwelt-professional-scrum-master-i-psm1.html), 
   Scrum.org (02.2015 - heute)
-- **Novell Certified Linux Administrator**, Novell (01.2010 - heute)
-- [**Linux Professional Institute Certification 2**](
-  https://florian.latzel.io/2006/12/22/lpic-2-2-tage-vor-weihnachten.html), 
-  LPI (12.2006 - 12.2011)
 
 ## 🎤 Talks & Sessions
 {: .page-break-before }
