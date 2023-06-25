@@ -43,7 +43,6 @@ für REWE digital (07.2017 - 03.2018)
 - [RMH MEDIA GmbH](https://www.rmh-media.com/) (11.2016 - 05.2017)
 - [MYTOYS GROUP](https://mytoysgroup.jobs/) (07.2016 - 10.2016)
 
-{: .page-break-before }
 **IT-Berater @ [ISL Florian Latzel](
 https://web.archive.org/web/20190119112329/https://is-loesungen.de/)**, 
 Freiberuflich (05.2006 - 09.2021)   
@@ -51,42 +50,17 @@ Beratung, Entwicklung und Anpassung von Individualsoftware über Setup,
 Administration und Absicherung von IT-Infrastruktur, Automatisierung von Abläufen 
 bis hinzu Schulungen und Trainings. 
 Fokus Free/Libre Open Source Software.    
+- Für ca. 50 Kunden aus verschiedenen Branchen (Details)
 - Wichtige Stationen
   - Softwareentwickler @ [MYTOYS GROUP](https://) (06.2015 - 06-2016)
-    - [Entwicklung der Multi-Shop-Plattform](
-      https://reinblau.coop/projekte/multi-shop-plattform-mytoys-group/),  
-    Einführung von Code-Reviews, 
-    Onboarding und Training von internen Entwicklern (via Reinblau eG)
   - Product Owner @ [Stadt Mülheim an der Ruhr](
     https://www.muelheim-ruhr.de/cms/index.php) (02.2012 - 09.2013)
-    - Entwicklung einer [Digital Asset Management Lösung](
-     https://www.drupal.org/project/bassets) (via Reinblau eG)
   - IT-Berater @ [Berlin Tourismus & Kongress GmbH](
     https://about.visitberlin.de/) (12.2009 - 04.2010)
-    - Anforderungsanalyse, Einführung von Scrum, Git und einer Knowledge Base 
-      bei dem Relaunch von [visitBerlin.de](https://visitberlin.de)
   - IT-Berater @ [BerlinOnline Stadtportal GmbH & Co. KG](
     https://www.berlinonline.net/) (11.2008 - 05.2009)
-    - Anforderungsanalyse und Software-Entwicklung in einem Scrum Team 
-      bei der Entwicklung von [berliner.de](
-      https://www.drupal.org/forum/general/show-off-your-drupal-site/2009-12-09/berlinerde-%E2%80%93-a-portal-focused-on-berlin-developed)
-- Für ca. 50 Kunden aus verschiedenen Branchen
-  - darunter Telefunken, MYTOYS GROUP, Hubert Burda Media, 
-    Deutsche Gesellschaft für Auswärtige Politik, Stadt Köln, 
-    Berlin Tourismus & Kongress GmbH, Rechenzentrum der Finanzverwaltung NRW, 
-    Wirtschaftsförderung Land Brandenburg, BerlinOnline Stadtportal GmbH & Co. KG, 
-    RESET gemeinnützige Stiftungs-GmbH, Chancenwerk e.V., Dox Box e.V., Platine, Kunstraum BLAST
-  - Digitalagenturen wie z.B. Digitas Pixelpark AG, 
-    ]init[ AG für digitale Kommunikation, Silpion GmbH, brainbits GmbH, 
-    DOM Digital Online Media GmbH, pluusdesign GmbH, conceptfour GmbH, 
-    TrafficDesign GmbH, erdfisch GbR, motionfx GmbH, UCS Ultima Computer Service GmbH
-  - Schulungsanbieter wie z.B. bib International College, 
-    IAL Institut für angewandte Logistik GmbH, IAL CAMPUS, 
-    DAA Deutsche Angestellten-Akademie GmbH, 
-    BBQ Baumann Bildung und Qualifizierung GmbH, Eduvision Opleidingen B.V. 
 
 ## 🚀 Gründungen 
-{: .page-break-before }
 
 [**Reinblau eG**](https://reinblau.coop) (05.2012 - Exit 12.2020)  
  Genossenschaftlich geführte und holokratisch organisierte Digitalagentur
@@ -159,7 +133,6 @@ https://florian.latzel.io/assets/imgs/florian-latzel-loesungsfokussierendes-coac
   Scrum.org (02.2015 - heute)
 
 ## 🎤 Talks, Sessions & Podcasts
-{: .page-break-before }
 
 - [Führung im Fokus - Laterale Führung und Agilität bei der REWE Digital (Podcast)]( 
   https://www.pta-team.com/podcast-episode-8-laterale-fuehrung-agilitaet-rewedigital) (05.2021) 
