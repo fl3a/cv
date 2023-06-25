@@ -207,68 +207,21 @@ Gesamtschule Holweide (1989 - 1998)
   https://florian.latzel.io/neues-aus-der-scheinwelt-professional-scrum-master-i-psm1.html), 
   Scrum.org (02.2015 - heute)
 
-## 🎤 Talks & Sessions
+## 🎤 Talks, Sessions & Podcasts
 {: .page-break-before }
 
-- [Leadershiptrainig goes wild](https://miro.com/app/board/uXjVPTz2JXo=/)
-, Agile Leipzig (09.2022)
-- Vom Stein des Sisyphos und Seedbombs
-  - [AgILe Barcamp Ilmenau (10.2019)](
-    https://twitter.com/frediontherun/status/1188093274373931014)
-  - [Agile Leipzig (09.2019)](
-    https://florian.latzel.io/2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#von-stein-des-sisyphos-und-seedbombs) 
-- [Management 3.0](https://florian.latzel.io/tags/management-3-0/)
-  - [Personal Maps](https://florian.latzel.io/tags/personal-maps/) 
-    - [Agile Leipzig](/2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#personal-maps) (09.2019)
-    - [Agile.Ruhr Camp](https://florian.latzel.io/2019/04/22/agile-ruhr-hattrick.html#personal-maps) (04.2019)
-  - [Meddlers Game](https://management30.com/practice/meddlers/),
-     Wie baue ich mir eine Abteilung? Scrumtisch Köln (01.2019)
-- [Remote - Zusammenarbeit zwischen Himmel und Hölle](
- https://florian.latzel.io/2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#remote), Agile Leipzig (09.2019)
-- [Visual Facilitation](
-  https://twitter.com/OliverMonneke/status/987689762105458688), Agile.Ruhr (04.2018)
-- Agiles Arbeiten erfahren mit dem 
-[Ubungo Flow Game](https://www.teamworkblog.de/2016/10/das-ubongo-flow-game.html) 
-  - [REWE digital #girlsday](
-    https://twitter.com/RicardaKlein/status/1111344524553527301) (03.2019)
-  - [#barcampDUS](
-    https://twitter.com/ebru_sen82/status/1053261964003172352) (10.2018)
-  - [agile.cologne](
-    https://twitter.com/OliverMonneke/status/972101582144921600) (03.2018)
-- [Neues Team - Was nun?](
-  https://florian.latzel.io/neues-team-was-nun.html) drupalcamp.ruhr (03.2018)
-- [Agiles Onboarding](
-  https://twitter.com/fl3a/status/930894977533607936), Scrumtisch Köln (11.2017) 
-- [Scrum Framework](https://florian.latzel.io/tags/scrum/index.html)
-  - [Scrum in 45 Minuten](
-    https://florian.latzel.io/scrum-45-minuten-drupalcamp-muenchen-2016.html), 
-    drupaldevdays, München, (12.2016)
-  - [Agiles Projektmanagement mit Scrum](
-    https://de.slideshare.net/fl3a/scrum-ausderpraxisbib),
-    bib International College (12.2011)
-  - [Scrum aus der Praxis](
-    https://florian.latzel.io/2010/05/12/scrum-aus-der-praxis-drupaldevdays-2010.html), 
-    drupaldevdays, München, (05.2010)
-
-[Weitere Talks, Sessions und Präsentationen](
-https://florian.latzel.io/talks.html)
-
-## 📡 In den Medien 
-{: .page-break-before }
- 
-- [Codes und schmerzlos - Scrum Master (Podcast)](
-https://open.spotify.com/episode/1CLjuetb79gnhK6V7lVd4g) (03/08.2022)
 - [Führung im Fokus - Laterale Führung und Agilität bei der REWE Digital (Podcast)]( 
   https://www.pta-team.com/podcast-episode-8-laterale-fuehrung-agilitaet-rewedigital) (05.2021) 
-- [Lerndiamanten - Personal Maps, Agile.Ruhr Camp (Video)]( 
-  https://www.youtube.com/watch?v=n0DS7hRQChk) (04.2019)
-- [Gutes Arbeiten, Drupal Barcamp Ruhr (Interview)]( 
-  https://www.youtube.com/watch?v=hCUHM7tSOHI) (04.2018)
-- [Eine Einführung in Scrum, DrupalCamp Munich, LMU (Video)]( 
-  https://videoonline.edu.lmu.de/de/node/9207) (12.2016)
-- [Outdoor-Talk mit Wildnislehrer Uwe Belz von wildnistraining.de (Video)](
-  https://www.youtube.com/watch?v=M2x_PTfHGiQ&t=1000s) (04.2016)
- 
+- [Personal Maps](https://florian.latzel.io/tags/personal-maps/), [Agile Leipzig](/2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#personal-maps) (09.2019)
+- [Agiles Arbeiten erfahren mit dem Ubungo Flow Game]( 
+https://twitter.com/OliverMonneke/status/972101582144921600), agile.cologne (03.2018)
+- [Scrum aus der Praxis](
+https://florian.latzel.io/2010/05/12/scrum-aus-der-praxis-drupaldevdays-2010.html), 
+drupaldevdays, München, (05.2010)
+
+[Weitere Präsentationen, Podcasts, Sessions und Interviews](
+https://florian.latzel.io/talks.html)
+
 ## 🔥 Hobbies & Interessen
 
 [Draussensein](https://florian.latzel.io/tags/draussen/index.html), Lagerfeuer, 
