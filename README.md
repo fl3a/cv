@@ -62,17 +62,16 @@ IT und Infrastruktur, Redmine Administrator und Scrum Master
 https://florian.latzel.io/2023/01/16/hallo-coaches.html), 
 [Institut Tom Andreas](https://www.tomandreas.de/) 
 (05.2022 - 11.2022)
-- **Agile Leadership**, AXA Konzern AG (13 Tage) (08.2022 - 06.2023)
+- [**Neuro Linguistisches Programmieren (NLP)**](
+https://florian.latzel.io/2022/03/31/nlp-practitioner.html),  
+[Institut Tom Andreas](https://www.tomandreas.de/) 
+(09.2021 - 03.2022))
 - [**Wildnispädagogik**]( 
   https://florian.latzel.io/2020/12/14/november-draussen.html#ich-bin-wildnisp%C3%A4dagoge), 
 [wildnistraining.de](https://www.wildnistraining.de/) x 
 [Naturschule Deutschland](https://www.naturschule.de/) (03.2020 - 11.2020)   
-- **Leadership Toolbox**, REWE digital (13 Tage) (05.2018 - 2021)
 - [**Search Inside Yourself Programm**](https://siyli.org/search-inside-yourself/), 
 [SIYLI](https://siyli.org/) (01.2021 - 02.2021)
-- **Leading Agile Transformations**, Prowarenes GmbH (2 Tage) (04.2017)
-- **Beratungskapazität für Organisationsentwicklung**, 
-[Structure & Process](http://structureprocess.com/de/) (2 Tage) (01.2017)
 - **Staatl. gepr. Informatiker Softwaretechnologie**, 
 [bib International College](https://www.bib.de/) (10.2002 - 10.2004)
 
