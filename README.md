@@ -104,15 +104,11 @@ https://florian.latzel.io/talks.html)
 
 ## 🔥 Hobbies & Interessen
 
-[Draussensein](https://florian.latzel.io/tags/draussen/index.html), Lagerfeuer, 
-[Achtsamkeit](https://florian.latzel.io/tags/achtsamkeit/index.html), Resilienz, 
-[Pencak Silat](https://florian.latzel.io/tags/pencak-silat/index.html), 
-[Jeet Kune Do](https://florian.latzel.io/tags/jeet-kune-do/index.html), 
-[Wandern](https://florian.latzel.io/tags/wandern/index.html), Trekking, 
-[Fahrradfahren](https://florian.latzel.io/tags/fahrrad/index.html), 
-Schreiben, Organisationsentwicklung, Soziologie, 
+[Draussensein](https://florian.latzel.io/tags/draussen/),
+[Kampfkunst](https://florian.latzel.io/tags/kampfkunst/),
+[Schreiben](https://florian.latzel.io#blog),
+Organisationsentwicklung, 
 [Führung](https://florian.latzel.io/tags/fuhrung/index.html), 
-[Selbstorganisation](https://florian.latzel.io/tags/selbstorganisation/index.html), 
 [Free/Libre Open Source Software](https://florian.latzel.io/tags/open-source/index.html)
 
 ---
