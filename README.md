@@ -68,7 +68,7 @@ Beratung, Entwicklung und Anpassung von Individualsoftware über Setup,
 Administration und Absicherung von IT-Infrastruktur, Automatisierung von Abläufen 
 bis hinzu Schulungen und Trainings. 
 Fokus Free/Libre Open Source Software.    
-- Wichtige Stationen
+- <a name="key-projects">Wichtige Stationen</a>
   - Softwareentwickler @ [MYTOYS GROUP](https://) (06.2015 - 06-2016)
     - [Entwicklung der Multi-Shop-Plattform](
       https://reinblau.coop/projekte/multi-shop-plattform-mytoys-group/),  
@@ -87,7 +87,7 @@ Fokus Free/Libre Open Source Software.
     - Anforderungsanalyse und Software-Entwicklung in einem Scrum Team 
       bei der Entwicklung von [berliner.de](
       https://www.drupal.org/forum/general/show-off-your-drupal-site/2009-12-09/berlinerde-%E2%80%93-a-portal-focused-on-berlin-developed)
-- Für ca. 50 Kunden aus verschiedenen Branchen
+- Für ca. 50 <a name="kunden">Kunden</a> aus verschiedenen Branchen
   - darunter Telefunken, MYTOYS GROUP, Hubert Burda Media, 
     Deutsche Gesellschaft für Auswärtige Politik, Stadt Köln, 
     Berlin Tourismus & Kongress GmbH, Rechenzentrum der Finanzverwaltung NRW, 
