@@ -37,30 +37,13 @@ in der skalierten Produktentwicklung im eCom Tribe.
 - Trainer, Moderator und Facilitator für die Organisation 
 ([Details](https://florian.latzel.io/referenzen.html))
 
-**Scrum Master @ [paragraph eins GmbH](https://www.paragraph1.de/)**, 
-Freiberuflich (07.2017 - 03.2018)
-
-- Für REWE digital
-   
-**Scrum Master @ [RMH MEDIA GmbH](https://www.rmh-media.com/)**, 
-Freiberuflich (11.2016 - 05.2017)
-
-- Begleitung der Agilen Transition, Scrum Master eines remote Teams, 
-Mitarbeit an der Jira-Einführung
-    
-**Scrum Master @ [MYTOYS GROUP](https://mytoysgroup.jobs/)**, 
-Freiberuflich (07.2016 - 10.2016)
-
-- Scrum Master eines remote Teams nach einem Teamschnitt (via Reinblau eG)
+**Scrum Master**, Freiberuflich (07.2016 - 03.2018)
+- [paragraph eins GmbH](https://www.paragraph1.de/), 
+für REWE digital (07.2017 - 03.2018)
+- [RMH MEDIA GmbH](https://www.rmh-media.com/) (11.2016 - 05.2017)
+- [MYTOYS GROUP](https://mytoysgroup.jobs/) (07.2016 - 10.2016)
 
 {: .page-break-before }
-**Genosse @ [Reinblau eG](https://reinblau.coop/)**, 
-Freiberuflich (05.2012 - 07.2017)
-
-- Tätigkeiten in verschiedenen Projekten & Organisationskontexten u.a.:    
-Softwareentwickler, Berater, Projektmanager, Product Owner, 
-Scrum Master und Open Space Facilitator.
-
 **IT-Berater @ [ISL Florian Latzel](
 https://web.archive.org/web/20190119112329/https://is-loesungen.de/)**, 
 Freiberuflich (05.2006 - 09.2021)   
@@ -119,7 +102,6 @@ IT und Infrastruktur, Redmine Administrator und Scrum Master
 https://florian.latzel.io/2023/01/16/hallo-coaches.html), 
 [Institut Tom Andreas](https://www.tomandreas.de/) 
 (05.2022 - 11.2022)
-  - 202 Unterichtsstunden, inklusive 15 Stunden Gruppensupervision an 20 Tagen
 - **Agile Leadership**, AXA Konzern AG
   - SAFe Scrum Master & Product Owner + Product Manager (4 Tage) (06.2023)
   - Liberating Structures (2 Tage) (04.05)
@@ -136,8 +118,11 @@ https://florian.latzel.io/assets/imgs/florian-latzel-der-provokative-ansatz-meta
 https://florian.latzel.io/assets/imgs/florian-latzel-loesungsfokussierendes-coaching-metaforum-2022.jpg) (3 Tage)
 - **Neuro Linguistisches Programmieren**, 
 [Institut Tom Andreas](https://www.tomandreas.de/) (09.2021 - 03.2022)
-  - 192 Unterichtsstunden an 19 Tagen
-- **Leadership Toolbox**, REWE digital (05.2018 - 2021
+- [**Wildnispädagogik**]( 
+  https://florian.latzel.io/2020/12/14/november-draussen.html#ich-bin-wildnisp%C3%A4dagoge), 
+[wildnistraining.de](https://www.wildnistraining.de/) x 
+[Naturschule Deutschland](https://www.naturschule.de/) (03.2020 - 11.2020)   
+- **Leadership Toolbox**, REWE digital (05.2018 - 2021)
   - Die eigene Haltung und Wirkung in der Moderationsrolle (2 Tage) (12.2021)
   - Deep Dives Remote führen
     - Innere Antreiber in Führung (06.2020)
@@ -151,41 +136,11 @@ https://florian.latzel.io/assets/imgs/florian-latzel-loesungsfokussierendes-coac
   - Teams führen und weiterentwickeln (1 Tag) (05.2018)
 - [**Search Inside Yourself Programm**](https://siyli.org/search-inside-yourself/), 
 [SIYLI](https://siyli.org/) (01.2021 - 02.2021)
-- **Wildnispädagogik**, 
-[wildnistraining.de](https://www.wildnistraining.de/) x 
-[Naturschule Deutschland](https://www.naturschule.de/) (03.2020 - 11.2020)   
-  - 120 Unterichtseinheiten an 6 Wochenendseminaren
-- **Certified Scrum Product Owner plusTraining**, 
-[Das Scrum Team AG](https://www.dasscrumteam.com/de) (12.2017)
-- **Leading Agile Transformations**, 
-Prowarenes GmbH (04.2017)
-- **Beratungskapazität für Organisationsentwicklung**, [Structure & Process](
-http://structureprocess.com/de/) (01.2017)
-- **Wildniswoche**, 
-[wildnistraining.de](https://www.wildnistraining.de/) (08.2016)
-- **Android App Entwicklung**, 
-[FHDW](https://www.fhdw.de/) (03.2016)
-- **Wildnis Basis**, 
-[wildnistraining.de](https://www.wildnistraining.de/) (08.2015)
-- **Professional Scrum Master Training**,
-[Prowareness GmbH](
-https://web.archive.org/web/20141024140709/http://prowareness.de/training/scrum-master-training/),
-(01.2015)
-- **IT-Sicherheit ([Die ultimative Hacking Akademie](
-https://web.archive.org/web/20071011070950/http://www.sigs-datacom.de/sd/seminare/evt_seminar_show.htm?&TABLE=sd_product&PID=860))**, 
-[SIGS DATACOM GmbH](https://www.sigs-datacom.de/) (12.2007)
-- **Vorbereitung auf die Linux Zertifizierungen des LPI**, 
-[IAL GmbH](https://www.ial.de/) (05.2006 - 11.2006) 
-- **Existenzgründungsseminar**, 
-ibis acam AG (11.2005)
+- **Leading Agile Transformations**, Prowarenes GmbH (2 Tage) (04.2017)
+- **Beratungskapazität für Organisationsentwicklung**, 
+[Structure & Process](http://structureprocess.com/de/) (2 Tage) (01.2017)
 - **Staatl. gepr. Informatiker Softwaretechnologie**, 
 [bib International College](https://www.bib.de/) (10.2002 - 10.2004)
-- **Einführungskurse des [ZAIK/RRZK](https://rrzk.uni-koeln.de/)**, 
-[Universität zu Köln](https://www.uni-koeln.de/) (03.2002 - 04.2002)
-  - Unix, Linux, Einführung in die Programmierung (Java), OOP, Erstellung von Internetseiten
-- **Abitur**, 
-Gesamtschule Holweide (1989 - 1998)
-  - Deutsch, Pädagogik, Mathematik, Englisch
 
 ## 📃 Zertifikate
 
@@ -193,10 +148,6 @@ Gesamtschule Holweide (1989 - 1998)
 - [**NLP Practitioner**](
   https://florian.latzel.io/2022/03/31/nlp-practitioner.html), 
   DVNLP (03.2022 - heute)
-- [**Wildnispädagoge**](
-  https://florian.latzel.io/2020/12/14/november-draussen.html#ich-bin-wildnisp%C3%A4dagoge), 
-  [Naturschule Deutschland e.V.](https://www.naturschule.de/)
-  & [wildnistraining.de](https://www.wildnistraining.de/) (11.2022 - heute)
 - [**Certified Scrum Professional**](
   https://florian.latzel.io/2018/03/31/certified-scrum-professional-csp.html), 
   Scrum Alliance (02.2018 - heute)
