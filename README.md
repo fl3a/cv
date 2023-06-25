@@ -20,12 +20,6 @@ Angestellt (08.2022 - 06.2023)
 - Einführung und Begleitung der Portfolio Jahres- und Quartalsplanung
 - Ausbildung von OKR Moderatoren und Einführung von OKR im Tribe
 
-**Facilitator, Wildnistrainer und Coach @ [florian.latzel.io](
-https://florian.latzel.io)**, 
-Freiberuflich (10.2021 - heute)
-
-- (Selbst-)Führung und New Work triff auf Natur und Achtsamkeit 
-
 **Scrum Master @ [REWE Digital GmbH](https://www.rewe-digital.com/)**, 
 Angestellt (04.2018 - 07.2022)
 
