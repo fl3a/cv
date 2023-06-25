@@ -122,13 +122,5 @@ Repository: <{{ site.git_repo }}>, Revision: [{{ site.github.build_revision }}](
 {{ site.git_repo }}/commit/{{ site.github.build_revision }})
 {: .footer .git-footer }
 
-*[ISL]: Individuelle System Lösungen
-*[GzEvD]: Gesellschaft zur Entwicklung von Dingen
 *[SIYLI]: Search Inside Yourself Leadership Institute
-*[LPI]: Linux Professional Institute
-*[OOP]: Objektorientierte Programmierung
-*[LMU]: Ludwig-Maximilians-Universität
-*[FHDW]: Fachhochschule der Wirtschaft
-*[RRZK]: Regionales Rechenzentrum der Universität zu Köln
-*[ZAIK]: Zentrum für Angewandte Informatik der Universität zu Köln 
 *[OKR]: Objectives and Key Results 
