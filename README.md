@@ -33,9 +33,9 @@ in der skalierten Produktentwicklung im eCom Tribe.
 
 **Scrum Master**, Freiberuflich (07.2016 - 03.2018)
 - [paragraph eins GmbH](https://www.paragraph1.de/), 
-für REWE digital (07.2017 - 03.2018)
+für REWE Digital GmbH (07.2017 - 03.2018)
 - [RMH MEDIA GmbH](https://www.rmh-media.com/) (11.2016 - 05.2017)
-- [MYTOYS GROUP](https://mytoysgroup.jobs/) (07.2016 - 10.2016)
+- [MYTOYS GROUP](https://mytoysgroup.jobs/), via Reinblau eG (07.2016 - 10.2016)
 
 **IT-Berater**, Freiberuflich (05.2006 - 09.2021)   
 - [Schlüsselprojekte]() und [Kunden]()
@@ -51,7 +51,7 @@ für REWE digital (07.2017 - 03.2018)
 https://florian.latzel.io/2023/01/16/hallo-coaches.html), 
 [Institut Tom Andreas](https://www.tomandreas.de/) 
 (05.2022 - 11.2022)
-- [**Neuro Linguistisches Programmieren (NLP)**](
+- [**Neuro Linguistisches Programmieren**](
 https://florian.latzel.io/2022/03/31/nlp-practitioner.html),
 [Institut Tom Andreas](https://www.tomandreas.de/) 
 (09.2021 - 03.2022))
@@ -59,8 +59,6 @@ https://florian.latzel.io/2022/03/31/nlp-practitioner.html),
   https://florian.latzel.io/2020/12/14/november-draussen.html#ich-bin-wildnisp%C3%A4dagoge), 
 [wildnistraining.de](https://www.wildnistraining.de/) x 
 [Naturschule Deutschland](https://www.naturschule.de/) (03.2020 - 11.2020)   
-- [**Search Inside Yourself Programm**](https://siyli.org/search-inside-yourself/), 
-[SIYLI](https://siyli.org/) (01.2021 - 02.2021)
 - **Staatl. gepr. Informatiker Softwaretechnologie**, 
 [bib International College](https://www.bib.de/) (10.2002 - 10.2004)
 
