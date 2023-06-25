@@ -44,14 +44,7 @@ für REWE digital (07.2017 - 03.2018)
 - [MYTOYS GROUP](https://mytoysgroup.jobs/) (07.2016 - 10.2016)
 
 **IT-Berater**, Freiberuflich (05.2006 - 09.2021)   
-- Für ca. 50 Kunden aus verschiedenen Branchen 
-([Details](https://florian.latzel.io/referenzen.html#kunden))
-- Wichtige Stationen
-  - Softwareentwickler @ [MYTOYS GROUP](https://) (06.2015 - 06-2016)
-  - Product Owner @ [Stadt Mülheim an der Ruhr](
-    https://www.muelheim-ruhr.de/cms/index.php) (02.2012 - 09.2013)
-  - IT-Berater @ [BerlinOnline Stadtportal GmbH & Co. KG](
-    https://www.berlinonline.net/) (11.2008 - 05.2009)
+- [Schlüsselprojekte]() und [Kunden]()
 
 ## 🚀 Gründungen 
 
