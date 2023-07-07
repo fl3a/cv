@@ -33,9 +33,8 @@ für REWE Digital GmbH (07.2017 - 03.2018)
 - [RMH MEDIA GmbH](https://www.rmh-media.com/) (11.2016 - 05.2017)
 - [MYTOYS GROUP](https://mytoysgroup.jobs/), via Reinblau eG (07.2016 - 10.2016)
 
-**IT-Berater**, Freiberuflich (05.2006 - 09.2021)   
-- [Schlüsselprojekte](https://florian.latzel.io/cv/#key-projects) 
-und [Kunden](https://florian.latzel.io/cv/#kunden)
+**IT-Berater**, Freiberuflich 
+(05.2006 - 06.2016) ([Details](https://florian.latzel.io/cv/#it-berater)) 
 
 ## 🚀 Gründungen 
 
