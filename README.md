@@ -38,8 +38,9 @@ für REWE Digital GmbH (07.2017 - 03.2018)
 
 ## 🚀 Gründungen 
 
-[**Reinblau eG**](https://reinblau.coop) (05.2012 - Exit 12.2020)  
+[**Reinblau eG**](https://reinblau.coop) (05.2012 - 12.2020)  
 - Genossenschaftlich geführte und holokratisch organisierte Digitalagentur
+([Details](https://florian.latzel.io/cv/#-gründungen))
 
 {: .page-break-before }
 ## 🎓 Aus- und Weiterbildung
