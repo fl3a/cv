@@ -76,15 +76,21 @@ https://florian.latzel.io/2022/03/31/nlp-practitioner.html),
   https://florian.latzel.io/neues-aus-der-scheinwelt-professional-scrum-master-i-psm1.html), 
   Scrum.org (02.2015 - heute)
 
+## 🔧 Werkzeuge
+
+Jira, Confluence, Redmine, Microsoft 356, Google Workspace, Libreoffice/OpenOffice, Wikis  
+
+## 💬 Sprachen
+
+Deutsch (Muttersprache), Englisch (>=B2), Spanisch (<=A2)
+
 ## 🎤 Talks, Sessions & Podcasts
 
-- [Führung im Fokus - Laterale Führung und Agilität bei der REWE Digital (Podcast)]( 
+- [Führung im Fokus - Laterale Führung und Agilität bei der REWE Digital]( 
   https://www.pta-team.com/podcast-episode-8-laterale-fuehrung-agilitaet-rewedigital) (05.2021) 
 - [Personal Maps]( 
 https://florian.latzel.io/2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#personal-maps), 
 Agile Leipzig (09.2019)
-- [Agiles Arbeiten erfahren mit dem Ubungo Flow Game]( 
-https://twitter.com/OliverMonneke/status/972101582144921600), agile.cologne (03.2018)
 - [Scrum aus der Praxis](
 https://florian.latzel.io/2010/05/12/scrum-aus-der-praxis-drupaldevdays-2010.html), 
 drupaldevdays München (05.2010)
@@ -97,7 +103,6 @@ https://florian.latzel.io/talks.html)
 [Draussensein](https://florian.latzel.io/tags/draussen/),
 [Kampfkunst](https://florian.latzel.io/tags/kampfkunst/),
 [Schreiben](https://florian.latzel.io#blog),
-Organisationsentwicklung, 
 [Führung](https://florian.latzel.io/tags/fuhrung/index.html), 
 [Free/Libre Open Source Software](https://florian.latzel.io/tags/open-source/index.html)
 
