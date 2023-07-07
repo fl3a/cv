@@ -61,9 +61,7 @@ Freiberuflich (05.2012 - 07.2017)
 Softwareentwickler, Berater, Projektmanager, Product Owner, 
 Scrum Master und Open Space Facilitator.
 
-**IT-Berater @ [ISL Florian Latzel](
-https://web.archive.org/web/20190119112329/https://is-loesungen.de/)**, 
-Freiberuflich (05.2006 - 09.2021)   
+**IT-Berater**,  <a name="it-berater">Freiberuflich (05.2006 - 09.2021)</a>   
 Beratung, Entwicklung und Anpassung von Individualsoftware über Setup, 
 Administration und Absicherung von IT-Infrastruktur, Automatisierung von Abläufen 
 bis hinzu Schulungen und Trainings. 
