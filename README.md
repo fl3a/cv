@@ -209,8 +209,15 @@ Gesamtschule Holweide (1989 - 1998)
   https://florian.latzel.io/2006/12/22/lpic-2-2-tage-vor-weihnachten.html), 
   LPI (12.2006 - 12.2011)
 
+## 🔧 Werkzeuge
+
+Jira, Confluence, Redmine, Microsoft 356, Google Workspace, Libreoffice/OpenOffice, Wikis  
+
+## 💬 Sprachen
+
+Deutsch (Muttersprache), Englisch (>=B2), Spanisch (<=A2)
+
 ## 🎤 Talks & Sessions
-{: .page-break-before }
 
 - [Leadershiptrainig goes wild](https://miro.com/app/board/uXjVPTz2JXo=/)
 , Agile Leipzig (09.2022)
@@ -277,7 +284,6 @@ https://open.spotify.com/episode/1CLjuetb79gnhK6V7lVd4g) (03/08.2022)
 [Draussensein](https://florian.latzel.io/tags/draussen/),
 [Kampfkunst](https://florian.latzel.io/tags/kampfkunst/),
 [Schreiben](https://florian.latzel.io#blog),
-Organisationsentwicklung, 
 [Führung](https://florian.latzel.io/tags/fuhrung/index.html), 
 [Free/Libre Open Source Software](https://florian.latzel.io/tags/open-source/index.html)
 
