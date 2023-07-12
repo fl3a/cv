@@ -211,7 +211,8 @@ Gesamtschule Holweide (1989 - 1998)
 
 ## 🔧 Werkzeuge
 
-Jira, Confluence, Redmine, Microsoft 356, Google Workspace, Libreoffice/OpenOffice, Wikis  
+Jira, Confluence, Redmine, Microsoft 356, Google Workspace, Libreoffice, Wikis,
+Miro, Stickies, Marker, Flipcharts  
 
 ## 💬 Sprachen
 
