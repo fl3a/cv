@@ -36,13 +36,6 @@ für REWE Digital GmbH (07.2017 - 03.2018)
 **IT-Berater**, Freiberuflich 
 (05.2006 - 06.2016) ([Details](https://florian.latzel.io/cv/#it-berater)) 
 
-## 🚀 Gründungen 
-
-[**Reinblau eG**](https://reinblau.coop) (05.2012 - 12.2020)  
-- Genossenschaftlich geführte und holokratisch organisierte Digitalagentur
-([Details](https://florian.latzel.io/cv/#-gründungen))
-
-{: .page-break-before }
 ## 🎓 Aus- und Weiterbildung
 
 - [**Systemischer NLP Coach**](
@@ -78,7 +71,8 @@ https://florian.latzel.io/2022/03/31/nlp-practitioner.html),
 
 ## 🔧 Werkzeuge
 
-Jira, Confluence, Redmine, Microsoft 356, Google Workspace, Libreoffice/OpenOffice, Wikis  
+Jira, Confluence, Redmine, Microsoft 356, Google Workspace, Libreoffice, Wikis,
+Miro, Stickies, Marker, Flipcharts
 
 ## 💬 Sprachen
 
