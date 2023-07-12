@@ -2,8 +2,8 @@
 
 Graf-Adolf-Str. 66, 51065 Köln-Mülheim |
 [florian@latzel.io](mailto:florian@latzel.io) 
-([Key-ID: 0xC3BA4866](
-https://keys.openpgp.org/search?q=3F9F644542DD63E82165D376F4F62999C3BA4866))   
+([Key-ID: 0x8C16A22B](
+https://latzel.io/.well-known/openpgpkey/hu/qcuniwbujk3zrj7166onyz4t5cxgy3wb))   
 [florian.latzel.io](https://florian.latzel.io) | 
 [LinkedIn](https://de.linkedin.com/in/florianlatzel/de) | 
 [XING](https://www.xing.com/profile/Florian_Latzel) |
