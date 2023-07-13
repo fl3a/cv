@@ -55,7 +55,9 @@ https://florian.latzel.io/2022/03/31/nlp-practitioner.html),
 
 ## 📃 Zertifikate
 
-- **Certified SAFe 6 Scrum Master**, Scaled Agile (06.2023 - heute)
+- **Certified SAFe® 6 Product Owner/Product Manager**, 
+Scaled Agile (07.2023 - heute)
+- **Certified SAFe® 6 Scrum Master**, Scaled Agile (06.2023 - heute)
 - [**NLP Practitioner**](
   https://florian.latzel.io/2022/03/31/nlp-practitioner.html), 
   DVNLP (03.2022 - heute)
