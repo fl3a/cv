@@ -284,11 +284,11 @@ https://open.spotify.com/episode/1CLjuetb79gnhK6V7lVd4g) (03/08.2022)
 ## 🔥 Hobbies & Interessen
 
 
-[Draussensein](https://florian.latzel.io/tags/draussen/),
-[Kampfkunst](https://florian.latzel.io/tags/kampfkunst/),
+[Draussensein](https://florian.latzel.io/thema/draussen/index.html),
+[Kampfkunst](https://florian.latzel.io/thema/kampfkunst/index.html),
 [Schreiben](https://florian.latzel.io/blog.html),
-[Führung](https://florian.latzel.io/tags/fuhrung/index.html), 
-[Free/Libre Open Source Software](https://florian.latzel.io/tags/open-source/index.html)
+[Führung](https://florian.latzel.io/thema/fuhrung/index.html), 
+[Free/Libre Open Source Software](https://florian.latzel.io/thema/open-source/index.html)
 
 ---
 {: .bottom }
