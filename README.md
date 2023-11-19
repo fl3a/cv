@@ -70,9 +70,9 @@ Administration und Absicherung von IT-Infrastruktur, Automatisierung von Abläuf
 bis hinzu Schulungen und Trainings. 
 Fokus Free/Libre Open Source Software.    
 - <a name="key-projects">Wichtige Stationen</a>
-  - Softwareentwickler @ [MYTOYS GROUP](https://) (06.2015 - 06-2016)
+  - Softwareentwickler @ [MYTOYS GROUP](https://www.mytoysgroup.com/) (06.2015 - 06-2016)
     - [Entwicklung der Multi-Shop-Plattform](
-      https://reinblau.coop/projekte/multi-shop-plattform-mytoys-group/),  
+      hhttps://web.archive.org/web/20230328123803/https://reinblau.coop/projekte/multi-shop-plattform-mytoys-group/),  
     Einführung von Code-Reviews, 
     Onboarding und Training von internen Entwicklern (via Reinblau eG)
   - Product Owner @ [Stadt Mülheim an der Ruhr](
