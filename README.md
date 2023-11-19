@@ -286,7 +286,7 @@ https://open.spotify.com/episode/1CLjuetb79gnhK6V7lVd4g) (03/08.2022)
 
 [Draussensein](https://florian.latzel.io/tags/draussen/),
 [Kampfkunst](https://florian.latzel.io/tags/kampfkunst/),
-[Schreiben](https://florian.latzel.io#blog),
+[Schreiben](https://florian.latzel.io/blog.html),
 [Führung](https://florian.latzel.io/tags/fuhrung/index.html), 
 [Free/Libre Open Source Software](https://florian.latzel.io/tags/open-source/index.html)
 
