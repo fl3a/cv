@@ -152,7 +152,7 @@ https://florian.latzel.io/assets/imgs/florian-latzel-loesungsfokussierendes-coac
   - Teams führen und weiterentwickeln (1 Tag) (05.2018)
 - [**Search Inside Yourself Programm**](https://siyli.org/search-inside-yourself/), 
 [SIYLI](https://siyli.org/) (01.2021 - 02.2021)
-- **Wildnispädagogik**, 
+- [**Wildnispädagogik**](https://florian.latzel.io/2020/12/14/november-draussen.html#ich-bin-wildnisp%C3%A4dagoge), 
 [wildnistraining.de](https://www.wildnistraining.de/) x 
 [Naturschule Deutschland](https://www.naturschule.de/) (03.2020 - 11.2020)   
   - 120 Unterichtseinheiten an 6 Wochenendseminaren
