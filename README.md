@@ -99,11 +99,11 @@ https://florian.latzel.io/talks.html)
 
 ## 🔥 Hobbies & Interessen
 
-[Draussensein](https://florian.latzel.io/tags/draussen/),
-[Kampfkunst](https://florian.latzel.io/tags/kampfkunst/),
-[Schreiben](https://florian.latzel.io#blog),
-[Führung](https://florian.latzel.io/tags/fuhrung/index.html), 
-[Free/Libre Open Source Software](https://florian.latzel.io/tags/open-source/index.html)
+[Draussensein](https://florian.latzel.io/thema/draussen/index.html),
+[Kampfkunst](https://florian.latzel.io/thema/kampfkunst/index.html),
+[Schreiben](https://florian.latzel.io/blog.html),
+[Führung](https://florian.latzel.io/thema/fuhrung/index.html), 
+[Free/Libre Open Source Software](https://florian.latzel.io/thema/open-source/index.html)
 
 ---
 {: .bottom }
