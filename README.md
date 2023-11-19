@@ -12,6 +12,9 @@ https://latzel.io/.well-known/openpgpkey/hu/qcuniwbujk3zrj7166onyz4t5cxgy3wb))
 
 ## 🧪 Berufserfahrung
 
+**Agility Master** @ [DB Systel GmbH](https://www.dbsystel.de/),
+Angestellt (10.2022 - heute)
+
 **Tribe Agile Master @ [AXA Konzern AG](https://axa.de)**,
 Angestellt (08.2022 - 06.2023)
 
