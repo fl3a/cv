@@ -131,7 +131,7 @@ https://florian.latzel.io/2023/01/16/hallo-coaches.html),
 - **Coaching**,
 [Metaforum Sommercamp](https://www.metaforum-sommercamp.com) 
 (07.2022)
-  - [Der Provokative Ansatz](
+  - [ProSA I (Provokative SystemArbeit)](
 https://florian.latzel.io/assets/imgs/florian-latzel-der-provokative-ansatz-metaforum-2022.jpg) (2 Tage)
   - [Lösungsfokussierendes Coaching](
 https://florian.latzel.io/assets/imgs/florian-latzel-loesungsfokussierendes-coaching-metaforum-2022.jpg) (3 Tage)
