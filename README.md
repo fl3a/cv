@@ -45,7 +45,7 @@ für REWE Digital GmbH (07.2017 - 03.2018)
 https://florian.latzel.io/2023/01/16/hallo-coaches.html), 
 [Institut Tom Andreas](https://www.tomandreas.de/) 
 (05.2022 - 11.2022)
-- [**Neuro Linguistisches Programmieren**](
+- [**Neuro Linguistisches Programmieren (NLP)**](
 https://florian.latzel.io/2022/03/31/nlp-practitioner.html),
 [Institut Tom Andreas](https://www.tomandreas.de/) 
 (09.2021 - 03.2022))
