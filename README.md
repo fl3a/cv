@@ -135,7 +135,7 @@ https://florian.latzel.io/2023/01/16/hallo-coaches.html),
 https://florian.latzel.io/assets/imgs/florian-latzel-der-provokative-ansatz-metaforum-2022.jpg) (2 Tage)
   - [Lösungsfokussierendes Coaching](
 https://florian.latzel.io/assets/imgs/florian-latzel-loesungsfokussierendes-coaching-metaforum-2022.jpg) (3 Tage)
-- **Neuro Linguistisches Programmieren**, 
+- **Neuro Linguistisches Programmieren (NLP)**, 
 [Institut Tom Andreas](https://www.tomandreas.de/) (09.2021 - 03.2022)
   - 192 Unterichtsstunden an 19 Tagen
 - **Leadership Toolbox**, REWE digital (05.2018 - 2021
