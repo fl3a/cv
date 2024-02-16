@@ -222,8 +222,7 @@ Deutsch (Muttersprache), Englisch (>=B2), Spanisch (<=A2)
 
 ## 🎤 Talks & Sessions
 
-- [Leadershiptrainig goes wild](https://miro.com/app/board/uXjVPTz2JXo=/)
-, Agile Leipzig (09.2022)
+- Leadershiptrainig goes wild, Agile Leipzig (09.2022)
 - Vom Stein des Sisyphos und Seedbombs
   - [AgILe Barcamp Ilmenau (10.2019)](
     https://twitter.com/frediontherun/status/1188093274373931014)
