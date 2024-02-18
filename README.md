@@ -248,14 +248,13 @@ Deutsch (Muttersprache), Englisch (>=B2), Spanisch (<=A2)
     https://twitter.com/OliverMonneke/status/972101582144921600) (03.2018)
 - [Neues Team - Was nun?](
   https://florian.latzel.io/neues-team-was-nun.html) drupalcamp.ruhr (03.2018)
-- [Agiles Onboarding](
-  https://twitter.com/fl3a/status/930894977533607936), Scrumtisch Köln (11.2017) 
+- Agiles Onboarding, Scrumtisch Köln (11.2017) 
 - [Scrum Framework](https://florian.latzel.io/tags/scrum/index.html)
   - [Scrum in 45 Minuten](
     https://florian.latzel.io/scrum-45-minuten-drupalcamp-muenchen-2016.html), 
     drupaldevdays, München, (12.2016)
   - [Agiles Projektmanagement mit Scrum](
-    https://de.slideshare.net/fl3a/scrum-ausderpraxisbib),
+    https://florian.latzel.io/assets/pdfs/scrum-aus-der-praxis-bib-2011.pdf),
     bib International College (12.2011)
   - [Scrum aus der Praxis](
     https://florian.latzel.io/2010/05/12/scrum-aus-der-praxis-drupaldevdays-2010.html), 
