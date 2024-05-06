@@ -6,6 +6,9 @@ baseurl: /cv/
 
 theme: jekyll-theme-primer
 
+plugins:
+  - jekyll-sitemap
+
 # jekyll-seo-tag
 lang: "de"
 social:
