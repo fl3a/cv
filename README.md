@@ -115,7 +115,11 @@ zur Genossenschaft
 IT und Infrastruktur, Redmine Administrator und Scrum Master
 
 ## 🎓 Aus- und Weiterbildung
-
+- **WalkaboutU**, [walkaboutyou](
+https://walkaboutyou.org/) x [Presencing Institute](
+https://presencinginstitute.org/) (4 Tage) (04.2024)
+  - [Theory U](https://en.wikipedia.org/wiki/Theory_U) 
+in der Natur. Ein Prozess - 5 Bewegungen
 - [**Systemischer NLP Coach**](
 https://florian.latzel.io/2023/01/16/hallo-coaches.html), 
 [Institut Tom Andreas](https://www.tomandreas.de/) 
