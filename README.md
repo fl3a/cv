@@ -226,6 +226,7 @@ Deutsch (Muttersprache), Englisch (>=B2), Spanisch (<=A2)
 
 ## 🎤 Talks & Sessions
 
+- Agilität [vs und] Disziplinarische Führung, Agile.Ruhr Camp (04.2024)
 - Leadershiptrainig goes wild, Agile Leipzig (09.2022)
 - Vom Stein des Sisyphos und Seedbombs
   - [AgILe Barcamp Ilmenau (10.2019)](
