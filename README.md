@@ -115,6 +115,8 @@ zur Genossenschaft
 IT und Infrastruktur, Redmine Administrator und Scrum Master
 
 ## 🎓 Aus- und Weiterbildung
+- **Scout**, [wildnistraining.de](
+https://www.wildnistraining.de/) (4 Tage) (05.2024)
 - **WalkaboutU**, [walkaboutyou](
 https://walkaboutyou.org/) x [Presencing Institute](
 https://presencinginstitute.org/) (4 Tage) (04.2024)
@@ -142,7 +144,7 @@ https://florian.latzel.io/assets/imgs/florian-latzel-loesungsfokussierendes-coac
 - **Neuro Linguistisches Programmieren (NLP)**, 
 [Institut Tom Andreas](https://www.tomandreas.de/) (09.2021 - 03.2022)
   - 192 Unterichtsstunden an 19 Tagen
-- **Leadership Toolbox**, REWE digital (05.2018 - 2021
+- **Leadership Toolbox**, REWE digital
   - Die eigene Haltung und Wirkung in der Moderationsrolle (2 Tage) (12.2021)
   - Deep Dives Remote führen
     - Innere Antreiber in Führung (06.2020)
