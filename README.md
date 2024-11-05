@@ -220,7 +220,7 @@ Scaled Agile (07.2023 - heute)
 ## 🔧 Werkzeuge
 
 Jira, Confluence, Redmine, Microsoft 356, Google Workspace, Libreoffice, Wikis,
-Miro, Stickies, Marker, Flipcharts  
+Miro, Conceptboard, Stickies, Marker, Flipcharts  
 
 ## 💬 Sprachen
 
