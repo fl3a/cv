@@ -115,6 +115,10 @@ zur Genossenschaft
 IT und Infrastruktur, Redmine Administrator und Scrum Master
 
 ## 🎓 Aus- und Weiterbildung
+
+- [**Trainer Assistenz NLP Practitoner**](
+https://florian.latzel.io/2024/11/11/trainer-assistenz-bei-tom-andreas.html),
+[Institut Tom Andreas](https://www.tomandreas.de/) (10.2024 - 04.2025)
 - **Scout**, [wildnistraining.de](
 https://www.wildnistraining.de/) (4 Tage) (05.2024)
 - **WalkaboutU**, [walkaboutyou](
