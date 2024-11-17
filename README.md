@@ -61,7 +61,7 @@ Scaled Agile, Inc. (4 Tage) (06.2023)
 - [**Systemischer NLP Coach**](
 https://florian.latzel.io/2023/01/16/hallo-coaches.html), 
 [Institut Tom Andreas](https://www.tomandreas.de/) 
-(09.2021 - 03.2022))
+(09.2021 - 03.2022)
 - [**Wildnispädagogik**]( 
   https://florian.latzel.io/2020/12/14/november-draussen.html#ich-bin-wildnisp%C3%A4dagoge), 
 [wildnistraining.de](https://www.wildnistraining.de/) x 
