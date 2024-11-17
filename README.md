@@ -226,6 +226,7 @@ Scaled Agile (07.2023 - 07.2024)
   LPI (12.2006 - 12.2011)
 
 ## 🔧 Werkzeuge
+{: .page-break-before }
 
 Jira, Confluence, Redmine, Microsoft 356, Google Workspace, Libreoffice, Wikis,
 Miro, Conceptboard, Stickies, Marker, Flipcharts  
