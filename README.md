@@ -41,6 +41,11 @@ für REWE Digital GmbH (07.2017 - 03.2018)
 
 ## 🎓 Aus- und Weiterbildung
 
+- [**Trainer Assistenz NLP Practitoner**](
+https://florian.latzel.io/2024/11/11/trainer-assistenz-bei-tom-andreas.html),
+[Institut Tom Andreas](https://www.tomandreas.de/) (10.2024 - 04.2025)
+- **Scout**, [wildnistraining.de](
+https://www.wildnistraining.de/) (4 Tage) (05.2024)
 - [**Systemischer NLP Coach**](
 https://florian.latzel.io/2023/01/16/hallo-coaches.html), 
 [Institut Tom Andreas](https://www.tomandreas.de/) 
