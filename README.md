@@ -12,25 +12,27 @@ https://latzel.io/.well-known/openpgpkey/hu/qcuniwbujk3zrj7166onyz4t5cxgy3wb))
 
 ## 🧪 Berufserfahrung
 
-**Agility Master @ [DB Systel GmbH](https://www.dbsystel.de/)**,
-Angestellt (10.2023 - heute)
+**Agility Master @ [DB Systel GmbH](https://www.dbsystel.de/)** **(10.2023 - heute)**
 
-**Tribe Agile Master @ [AXA Konzern AG](https://axa.de)**,
-Angestellt (08.2022 - 06.2023)
+- Team AM für das DevOps Team Search Services
+- Facilitierung von Onsites für Search & Identity und Einheit DataVision Strategy
+- Beratung zu OKR in DataVision
+
+**Tribe Agile Master @ [AXA Konzern AG](https://axa.de)** **(08.2022 - 06.2023)**
 
 - Teil des Führungs-Trios, des im Juli 2022 entstandenen *Health Care Journey* Tribes
 - Begleitung von Veränderung und Ritualen der Zusammenarbeit
 - Einführung und Begleitung der Portfolio Jahres- und Quartalsplanung
 - Ausbildung von OKR Moderatoren und Einführung von OKR im Tribe
 
-**Facilitator, Wildnistrainer und Coach @ [florian.latzel.io](
-https://florian.latzel.io)**, 
-Freiberuflich (10.2021 - heute)
+**Coach und Wildnistrainer @ [florian.latzel.io](
+https://florian.latzel.io)** **(10.2019 - heute)** 
 
-- (Selbst-)Führung und New Work triff auf Natur und Achtsamkeit 
+- Coaching in der Natur und im Gehen
+- Vermittlung von Wildniswissen und -Fähigkeiten
 
-**Scrum Master @ [REWE Digital GmbH](https://www.rewe-digital.com/)**, 
-Angestellt (04.2018 - 07.2022)
+**Scrum Master @ [REWE Digital GmbH](https://www.rewe-digital.com/)** 
+**(04.2018 - 07.2022)**  
 
 - Agile Team Coach, zuletzt für ein Platform Team im eCom Tribe (seit 01.2020)  
 und ein Team aus dem Bereich Transformation-Solutions (seit 01.2022).   
@@ -40,39 +42,41 @@ in der skalierten Produktentwicklung im eCom Tribe.
 - Trainer, Moderator und Facilitator für die Organisation 
 ([Details](https://florian.latzel.io/referenzen.html))
 
-**Scrum Master @ [paragraph eins GmbH](https://www.paragraph1.de/)**, 
-Freiberuflich (07.2017 - 03.2018)
+**Scrum Master @ [paragraph eins GmbH](https://www.paragraph1.de/)**,
+Freiberuflich **(07.2017 - 03.2018)**
 
-- Für REWE digital
+- Für REWE digital GmbH
    
 **Scrum Master @ [RMH MEDIA GmbH](https://www.rmh-media.com/)**, 
-Freiberuflich (11.2016 - 05.2017)
+Freiberuflich **(11.2016 - 05.2017)**
 
 - Begleitung der Agilen Transition, Scrum Master eines remote Teams, 
 Mitarbeit an der Jira-Einführung
     
 **Scrum Master @ [MYTOYS GROUP](https://mytoysgroup.jobs/)**, 
-Freiberuflich (07.2016 - 10.2016)
+Freiberuflich **(07.2016 - 10.2016)**
 
 - Scrum Master eines remote Teams nach einem Teamschnitt (via Reinblau eG)
 
 {: .page-break-before }
 **Genosse @ [Reinblau eG](https://reinblau.coop/)**, 
-Freiberuflich (05.2012 - 07.2017)
+Freiberuflich **(05.2012 - 07.2017)**  
 
-- Tätigkeiten in verschiedenen Projekten & Organisationskontexten u.a.:    
+- Tätigkeiten in verschiedenen Kundenprojekten & Organisationskontexten u.a.:    
 Softwareentwickler, Berater, Projektmanager, Product Owner, 
 Scrum Master und Open Space Facilitator.
 
-**IT-Berater**,  <a name="it-berater">Freiberuflich (05.2006 - 09.2021)</a>   
-Beratung, Entwicklung und Anpassung von Individualsoftware über Setup, 
+**IT-Berater**,  <a name="it-berater">Freiberuflich</a>
+**(05.2006 - 09.2019)**   
+
+- Beratung, Entwicklung und Anpassung von Individualsoftware über Setup, 
 Administration und Absicherung von IT-Infrastruktur, Automatisierung von Abläufen 
 bis hinzu Schulungen und Trainings. 
 Fokus Free/Libre Open Source Software.    
 - <a name="key-projects">Wichtige Stationen</a>
   - Softwareentwickler @ [MYTOYS GROUP](https://www.mytoysgroup.com/) (06.2015 - 06-2016)
     - [Entwicklung der Multi-Shop-Plattform](
-      https://web.archive.org/web/20230328123803/https://reinblau.coop/projekte/multi-shop-plattform-mytoys-group/),  
+      https://web.archive.org/web/20230328123803/https://reinblau.coop/projekte/multi-shop-plattform-mytoys-group/)  
     Einführung von Code-Reviews, 
     Onboarding und Training von internen Entwicklern (via Reinblau eG)
   - Product Owner @ [Stadt Mülheim an der Ruhr](
@@ -88,8 +92,8 @@ Fokus Free/Libre Open Source Software.
     - Anforderungsanalyse und Software-Entwicklung in einem Scrum Team 
       bei der Entwicklung von [berliner.de](
       https://www.drupal.org/forum/general/show-off-your-drupal-site/2009-12-09/berlinerde-%E2%80%93-a-portal-focused-on-berlin-developed)
-- Für ca. 50 <a name="kunden">Kunden</a> aus verschiedenen Branchen
-  - darunter Telefunken, MYTOYS GROUP, Hubert Burda Media, 
+- Für ca. 50 <a name="kunden">Kunden</a> aus verschiedenen Branchen, darunter: 
+  - Telefunken, MYTOYS GROUP, Hubert Burda Media, 
     Deutsche Gesellschaft für Auswärtige Politik, Stadt Köln, 
     Berlin Tourismus & Kongress GmbH, Rechenzentrum der Finanzverwaltung NRW, 
     Wirtschaftsförderung Land Brandenburg, BerlinOnline Stadtportal GmbH & Co. KG, 
@@ -228,7 +232,7 @@ Miro, Conceptboard, Stickies, Marker, Flipcharts
 
 ## 💬 Sprachen
 
-Deutsch (Muttersprache), Englisch (>=B2), Spanisch (<=A2)
+Deutsch (Muttersprache), Englisch (Gut), Spanisch (Grundkenntnisse)
 
 ## 🎤 Talks & Sessions
 
