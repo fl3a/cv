@@ -17,6 +17,9 @@ hr.bottom {
 }
 
 @media print {
+  .markdown-body {
+    font-size: 15px
+  }
   .page-break-after {
     page-break-after: always;
   }
