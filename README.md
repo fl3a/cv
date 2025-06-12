@@ -6,7 +6,6 @@ Graf-Adolf-Str. 66, 51065 Köln-Mülheim |
 https://latzel.io/.well-known/openpgpkey/hu/qcuniwbujk3zrj7166onyz4t5cxgy3wb))   
 [florian.latzel.io](https://florian.latzel.io) | 
 [LinkedIn](https://de.linkedin.com/in/florianlatzel/de) | 
-[XING](https://www.xing.com/profile/Florian_Latzel) |
 [GitHub](https://github.com/fl3a) 
 {:.contact }
 
