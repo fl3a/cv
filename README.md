@@ -58,7 +58,6 @@ Freiberuflich **(07.2016 - 10.2016)**
 
 - Scrum Master eines remote Teams nach einem Teamschnitt (via Reinblau eG)
 
-{: .page-break-before }
 **Genosse @ [Reinblau eG](https://reinblau.coop/)**, 
 Freiberuflich **(05.2012 - 07.2017)**  
 
