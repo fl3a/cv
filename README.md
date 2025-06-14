@@ -68,7 +68,8 @@ https://florian.latzel.io/2023/01/16/hallo-coaches.html),
 [Naturschule Deutschland](https://www.naturschule.de/) (03.2020 - 11.2020)   
 - **Staatl. gepr. Informatiker Softwaretechnologie**,\
 [bib International College](https://www.bib.de/) (10.2002 - 10.2004)
-- [Mehr](https://florian.latzel.io/cv/#-aus--und-weiterbildung)
+
+[Weitere Aus- und Weiterbildungen](https://florian.latzel.io/cv/#-aus--und-weiterbildung)
 
 ## 📃 Zertifikate
 
@@ -84,7 +85,8 @@ https://florian.latzel.io/2023/01/16/hallo-coaches.html),
 - [**Professional Scrum Master I**](
   https://florian.latzel.io/neues-aus-der-scheinwelt-professional-scrum-master-i-psm1.html), 
   Scrum.org (02.2015 - heute)
-- [Mehr](https://florian.latzel.io/cv/#-aus--und-weiterbildung)
+
+[Weitere Zertifikate](https://florian.latzel.io/cv/#-aus--und-weiterbildung)
 
 ## 🔧 Werkzeuge
 
