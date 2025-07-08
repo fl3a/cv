@@ -56,26 +56,21 @@ für REWE Digital GmbH (07.2017 - 03.2018)
 - [**Trainer Assistenz NLP Practitoner**](
 https://florian.latzel.io/2024/11/11/trainer-assistenz-bei-tom-andreas.html),
 [Institut Tom Andreas](https://www.tomandreas.de/) (10.2024 - 04.2025)
-- **SAFe Scrum Master & Product Owner/Product Manager**, 
+- **SAFe® Scrum Master & Product Owner/Product Manager**, 
 Scaled Agile, Inc. (4 Tage) (06.2023)
 - [**Systemischer NLP Coach**](
 https://florian.latzel.io/2023/01/16/hallo-coaches.html), 
 [Institut Tom Andreas](https://www.tomandreas.de/) 
-(09.2021 - 03.2022)
-- [**Wildnispädagogik**]( 
-  https://florian.latzel.io/2020/12/14/november-draussen.html#ich-bin-wildnisp%C3%A4dagoge), 
-[wildnistraining.de](https://www.wildnistraining.de/) x 
-[Naturschule Deutschland](https://www.naturschule.de/) (03.2020 - 11.2020)   
-- **Staatl. gepr. Informatiker Softwaretechnologie**,\
+ **Staatl. gepr. Informatiker Softwaretechnologie**,\
 [bib International College](https://www.bib.de/) (10.2002 - 10.2004)
 
 [Weitere Aus- und Weiterbildungen](https://florian.latzel.io/cv/#-aus--und-weiterbildung)
 
 ## 📃 Zertifikate
 
-- [**NLP Practitioner**](
-  https://florian.latzel.io/2022/03/31/nlp-practitioner.html), 
-  DVNLP (03.2022 - heute)
+- **Certified SAFe® 6 Product Owner/Product Manager**,
+Scaled Agile (07.2023 - 07.2024)
+- **Certified SAFe® 6 Scrum Master**, Scaled Agile (06.2023 - 06.2024)
 - [**Certified Scrum Professional**](
   https://florian.latzel.io/2018/03/31/certified-scrum-professional-csp.html), 
   Scrum Alliance (02.2018 - heute)
@@ -95,7 +90,7 @@ Miro, Conceptboard, Stickies, Marker, Flipcharts
 
 ## 💬 Sprachen
 
-Deutsch (Muttersprache), Englisch (Gut), Spanisch (Grundkenntnisse)
+Deutsch (Muttersprache), Englisch (solide Fachkenntnisse, keine Verhandlungssprache), Spanisch (Grundkenntnisse)
 
 ## 🎤 Talks, Sessions & Podcasts
 
