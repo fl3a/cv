@@ -56,12 +56,14 @@ für REWE Digital GmbH (07.2017 - 03.2018)
 - [**Trainer Assistenz NLP Practitoner**](
 https://florian.latzel.io/2024/11/11/trainer-assistenz-bei-tom-andreas.html),
 [Institut Tom Andreas](https://www.tomandreas.de/) (10.2024 - 04.2025)
-- **SAFe® Scrum Master & Product Owner/Product Manager**, 
+- [**Wildnispädagogik**](https://florian.latzel.io/2020/12/14/november-draussen.html#ich-bin-wildnisp%C3%A4dagoge), 
+[wildnistraining.de](https://www.wildnistraining.de/) x 
+[Naturschule Deutschland](https://www.naturschule.de/) (03.2020 - 11.2020)  
 Scaled Agile, Inc. (4 Tage) (06.2023)
 - [**Systemischer NLP Coach**](
 https://florian.latzel.io/2023/01/16/hallo-coaches.html), 
 [Institut Tom Andreas](https://www.tomandreas.de/) 
- **Staatl. gepr. Informatiker Softwaretechnologie**,\
+- **Staatl. gepr. Informatiker Softwaretechnologie**,\
 [bib International College](https://www.bib.de/) (10.2002 - 10.2004)
 
 [Weitere Aus- und Weiterbildungen](https://florian.latzel.io/cv/#-aus--und-weiterbildung)
@@ -116,7 +118,6 @@ https://florian.latzel.io/talks.html)
 
 ---
 {: .bottom }
-
 Repository: <{{ site.git_repo }}>, Revision: [{{ site.github.build_revision }}](
 {{ site.git_repo }}/commit/{{ site.github.build_revision }})
 {: .footer .git-footer }

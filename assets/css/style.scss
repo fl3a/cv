@@ -18,7 +18,11 @@ hr.bottom {
 
 @media print {
   .markdown-body {
-    font-size: 14.5px
+    font-size: 13.9px;
+   
+    abbr[title] {
+      text-decoration: none;
+    }
   }
   .page-break-after {
     page-break-after: always;
