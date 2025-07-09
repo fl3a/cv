@@ -48,7 +48,11 @@ für REWE Digital GmbH (07.2017 - 03.2018)
 - [MYTOYS GROUP](https://mytoysgroup.jobs/), via Reinblau eG (07.2016 - 10.2016)
 
 **IT-Berater**, Freiberuflich 
-(05.2006 - 06.2016) ([Details](https://florian.latzel.io/cv/#it-berater)) 
+(05.2006 - 06.2016)
+- Beratung, Softwareentwicklung, Administration und Training  
+- Fokus auf Open Source-Technologien: Linux, CMS und Serverinfrastruktur
+- Einsätze für 50+ Kunden aus verschiedenen Branchen ([Details](
+https://florian.latzel.io/cv/#it-berater)) 
 
 ## 🎓 Aus- und Weiterbildung
 {: .page-break-before }
@@ -59,10 +63,9 @@ https://florian.latzel.io/2024/11/11/trainer-assistenz-bei-tom-andreas.html),
 - [**Wildnispädagogik**](https://florian.latzel.io/2020/12/14/november-draussen.html#ich-bin-wildnisp%C3%A4dagoge), 
 [wildnistraining.de](https://www.wildnistraining.de/) x 
 [Naturschule Deutschland](https://www.naturschule.de/) (03.2020 - 11.2020)  
-Scaled Agile, Inc. (4 Tage) (06.2023)
 - [**Systemischer NLP Coach**](
 https://florian.latzel.io/2023/01/16/hallo-coaches.html), 
-[Institut Tom Andreas](https://www.tomandreas.de/) 
+[Institut Tom Andreas](https://www.tomandreas.de/) (05.2022 - 11.2022)
 - **Staatl. gepr. Informatiker Softwaretechnologie**,\
 [bib International College](https://www.bib.de/) (10.2002 - 10.2004)
 
