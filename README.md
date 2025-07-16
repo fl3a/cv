@@ -108,7 +108,7 @@ Agile Leipzig (09.2019)
 https://florian.latzel.io/2010/05/12/scrum-aus-der-praxis-drupaldevdays-2010.html), 
 drupaldevdays München (05.2010)
 
-[Weitere Präsentationen, Podcasts, Sessions und Interviews](
+[Weitere Talks, Sessions und Podcasts](
 https://florian.latzel.io/talks.html)
 
 ## 🔥 Hobbies & Interessen
