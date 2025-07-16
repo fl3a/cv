@@ -52,8 +52,9 @@ Freiberuflich **(11.2016 - 05.2017)**
 - Begleitung der Agilen Transition, Scrum Master eines remote Teams, 
 Mitarbeit an der Jira-Einführung
     
-**Scrum Master @ [MYTOYS GROUP](https://mytoysgroup.jobs/)**, 
+**Scrum Master @ [MYTOYS GROUP](https://mytoysgroup.jobs/)**,
 Freiberuflich **(07.2016 - 10.2016)**
+{: .page-break-before }
 
 - Scrum Master eines remote Teams nach einem Teamschnitt (via Reinblau eG)
 
@@ -118,6 +119,8 @@ IT und Infrastruktur, Redmine Administrator und Scrum Master
 
 ## 🎓 Aus- und Weiterbildung
 
+- **Shadow Scout**, [wildnistraining.de](
+https://www.wildnistraining.de/) (3 Tage) (07.2025)
 - [**Trainer Assistenz NLP Practitoner**](
 https://florian.latzel.io/2024/11/11/trainer-assistenz-bei-tom-andreas.html),
 [Institut Tom Andreas](https://www.tomandreas.de/) (10.2024 - 04.2025)
@@ -274,7 +277,7 @@ Deutsch (Muttersprache), Englisch (Gut), Spanisch (Grundkenntnisse)
     https://florian.latzel.io/2010/05/12/scrum-aus-der-praxis-drupaldevdays-2010.html), 
     drupaldevdays, München, (05.2010)
 
-[Weitere Talks, Sessions und Präsentationen](
+[Weitere Talks und Sessions](
 https://florian.latzel.io/talks.html)
 
 ## 📡 In den Medien 
