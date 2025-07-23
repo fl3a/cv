@@ -74,8 +74,8 @@ https://florian.latzel.io/2023/01/16/hallo-coaches.html),
 ## 📃 Zertifikate
 
 - **Certified SAFe® 6 Product Owner/Product Manager**,
-Scaled Agile (07.2023 - 07.2024)
-- **Certified SAFe® 6 Scrum Master**, Scaled Agile (06.2023 - 06.2024)
+Scaled Agile (07.2023 - heute)
+- **Certified SAFe® 6 Scrum Master**, Scaled Agile (06.2023 - heute)
 - [**Certified Scrum Professional**](
   https://florian.latzel.io/2018/03/31/certified-scrum-professional-csp.html), 
   Scrum Alliance (02.2018 - heute)
