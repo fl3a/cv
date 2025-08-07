@@ -86,7 +86,7 @@ Scaled Agile (07.2023 - heute)
   https://florian.latzel.io/neues-aus-der-scheinwelt-professional-scrum-master-i-psm1.html), 
   Scrum.org (02.2015 - heute)
 
-[Weitere Zertifikate](https://florian.latzel.io/cv/#-aus--und-weiterbildung)
+[Weitere Zertifikate](https://florian.latzel.io/cv/#-zertifikate)
 
 ## 🔧 Werkzeuge
 
