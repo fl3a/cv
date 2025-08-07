@@ -121,7 +121,7 @@ IT und Infrastruktur, Redmine Administrator und Scrum Master
 
 - **[Metaforum Sommercamp](https://www.metaforum-sommercamp.com) 2025** 
   - Priming - Stärkende Räume enstehen lassen, Prof. Dr. Dr. Christa Kolodej (2 Tage)
-  - Improvisation (Impro) und Provokative SystemArbeit (ProSA)&copy;   
+  - Improvisation (Impro) und Provokative SystemArbeit (ProSA)©   
 Dr. Noni E. Höfner, Dr. Charlotte Cordes, Florian Schwartz (3 Tage) 
 - **Shadow Scout**, [wildnistraining.de](
 https://www.wildnistraining.de/) (3 Tage) (07.2025)
@@ -318,4 +318,5 @@ Repository: <{{ site.git_repo }}>, Revision: [{{ site.github.build_revision }}](
 *[FHDW]: Fachhochschule der Wirtschaft
 *[RRZK]: Regionales Rechenzentrum der Universität zu Köln
 *[ZAIK]: Zentrum für Angewandte Informatik der Universität zu Köln 
-*[OKR]: Objectives and Key Results 
+*[OKR]: Objectives and Key Results
+*[ProSA]: Provokative SystemArbeit©

@@ -17,6 +17,11 @@ hr.bottom {
 }
 
 @media print {
+  .markdown-body {
+    abbr[title] {
+      text-decoration: none;
+    }
+  }
   .page-break-after {
     page-break-after: always;
   }
