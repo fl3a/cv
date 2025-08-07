@@ -119,6 +119,10 @@ IT und Infrastruktur, Redmine Administrator und Scrum Master
 
 ## 🎓 Aus- und Weiterbildung
 
+- **[Metaforum Sommercamp](https://www.metaforum-sommercamp.com) 2025** 
+  - Priming - Stärkende Räume enstehen lassen, Prof. Dr. Dr. Christa Kolodej (2 Tage)
+  - Improvisation (Impro) und Provokative SystemArbeit (ProSA)&copy;   
+Dr. Noni E. Höfner, Dr. Charlotte Cordes, Florian Schwartz (3 Tage) 
 - **Shadow Scout**, [wildnistraining.de](
 https://www.wildnistraining.de/) (3 Tage) (07.2025)
 - [**Trainer Assistenz NLP Practitoner**](
@@ -143,14 +147,11 @@ https://florian.latzel.io/2023/01/16/hallo-coaches.html),
   - Coachingskills für Agile Führungskräfte (3 Tage) (10.2022 - 12.2022)
   - OKR Coach (2 Tage) (11.2022)
   - OKR Moderator (2 Tage) (09.2022)
-- **Coaching**,
-[Metaforum Sommercamp](https://www.metaforum-sommercamp.com) 
-(07.2022)
-  - [ProSA I (Provokative SystemArbeit)](
-https://florian.latzel.io/assets/imgs/florian-latzel-der-provokative-ansatz-metaforum-2022.jpg) (2 Tage)
-  - [Lösungsfokussierendes Coaching](
-https://florian.latzel.io/assets/imgs/florian-latzel-loesungsfokussierendes-coaching-metaforum-2022.jpg) (3 Tage)
-- **Neuro Linguistisches Programmieren (NLP)**, 
+- **[Metaforum Sommercamp 2022](https://florian.latzel.io/2023/01/14/metaforum-summercamp-2022.html)** 
+  - Der Provokative Ansatz / ProSA 1, 
+Dr. Noni E. Höfner, Dr. Charlotte Cordes (2 Tage) 
+  - Lösungsfokussierendes Coaching, Tom Andreas (3 Tage)
+- **NLP Practitioner**, 
 [Institut Tom Andreas](https://www.tomandreas.de/) (09.2021 - 03.2022)
   - 192 Unterichtsstunden an 19 Tagen
 - **Leadership Toolbox**, REWE digital
@@ -201,6 +202,7 @@ ibis acam AG (11.2005)
   - Unix, Linux, Einführung in die Programmierung (Java), OOP, Erstellung von Internetseiten
 
 ## 📃 Zertifikate
+{: .page-break-before }
 
 - **Certified SAFe® 6 Product Owner/Product Manager**,
 Scaled Agile (07.2023 - heute)
@@ -208,10 +210,6 @@ Scaled Agile (07.2023 - heute)
 - [**NLP Practitioner**](
   https://florian.latzel.io/2022/03/31/nlp-practitioner.html), 
   DVNLP (03.2022 - heute)
-- [**Wildnispädagoge**](
-  https://florian.latzel.io/2020/12/14/november-draussen.html#ich-bin-wildnisp%C3%A4dagoge), 
-  [Naturschule Deutschland e.V.](https://www.naturschule.de/)
-  & [wildnistraining.de](https://www.wildnistraining.de/) (11.2022 - heute)
 - [**Certified Scrum Professional**](
   https://florian.latzel.io/2018/03/31/certified-scrum-professional-csp.html), 
   Scrum Alliance (02.2018 - heute)
@@ -221,13 +219,13 @@ Scaled Agile (07.2023 - heute)
 - [**Professional Scrum Master I**](
   https://florian.latzel.io/neues-aus-der-scheinwelt-professional-scrum-master-i-psm1.html), 
   Scrum.org (02.2015 - heute)
-- **Novell Certified Linux Administrator**, Novell (01.2010 - heute)
+- **Novell Certified Linux Administrator**, Novell (02.2010 - heute)
+- **Data Center Technical Specialist**, Novell (02.2010 - heute)
 - [**Linux Professional Institute Certification 2**](
   https://florian.latzel.io/2006/12/22/lpic-2-2-tage-vor-weihnachten.html), 
   LPI (12.2006 - 12.2011)
 
 ## 🔧 Werkzeuge
-{: .page-break-before }
 
 Jira, Confluence, Redmine, Microsoft 356, Google Workspace, Libreoffice, Wikis,
 Miro, Conceptboard, Stickies, Marker, Flipcharts  
@@ -281,7 +279,6 @@ Deutsch (Muttersprache), Englisch (Gut), Spanisch (Grundkenntnisse)
 https://florian.latzel.io/talks.html)
 
 ## 📡 In den Medien 
-{: .page-break-before }
  
 - [Codes und schmerzlos - Scrum Master (Podcast)](
 https://open.spotify.com/episode/1CLjuetb79gnhK6V7lVd4g) (03/08.2022)
