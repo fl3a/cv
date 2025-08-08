@@ -223,11 +223,11 @@ ibis acam AG (11.2005)
 - [**Professional Scrum Master (PSM) I**](
   https://florian.latzel.io/neues-aus-der-scheinwelt-professional-scrum-master-i-psm1.html), 
   Scrum.org (02.2015 - heute)
-- **Data Center Technical Specialist**, Novell (02.2010 - heute)
+- **Data Center Technical Specialist (DCTS)**, Novell (02.2010 - heute)
 - **Certified Linux Administrator (CLA)**, Novell (01.2010 - heute)
 - [**Linux Professional Institute Certification (LPIC) 2**](
   https://florian.latzel.io/2006/12/22/lpic-2-2-tage-vor-weihnachten.html), 
-  LPI (12.2006 - 12.2011)
+  Linux Professional Institute (12.2006 - 12.2011)
 
 ## 🔧 Werkzeuge
 
@@ -316,7 +316,9 @@ Repository: <{{ site.git_repo }}>, Revision: [{{ site.github.build_revision }}](
 *[ISL]: Individuelle System Lösungen
 *[GzEvD]: Gesellschaft zur Entwicklung von Dingen
 *[SIYLI]: Search Inside Yourself Leadership Institute
-*[LPI]: Linux Professional Institute
+*[LPIC]: Linux Professional Institute Certification
+*[DCTS]: Data Center Technical Specialist
+*[CLA]: Certified Linux Administrator
 *[OOP]: Objektorientierte Programmierung
 *[LMU]: Ludwig-Maximilians-Universität
 *[FHDW]: Fachhochschule der Wirtschaft
@@ -324,3 +326,7 @@ Repository: <{{ site.git_repo }}>, Revision: [{{ site.github.build_revision }}](
 *[ZAIK]: Zentrum für Angewandte Informatik der Universität zu Köln 
 *[OKR]: Objectives and Key Results
 *[ProSA]: Provokative SystemArbeit©
+*[DVNLP]: Deutscher Verband für Neuro-Linguistisches Programmieren
+*[CSP]: Certified Scrum Professional
+*[CSPO]: Certified Scrum Product Owner
+*[PSM]: Professional Scrum Master 
