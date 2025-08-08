@@ -130,4 +130,8 @@ Repository: <{{ site.git_repo }}>, Revision: [{{ site.github.build_revision }}](
 
 *[SIYLI]: Search Inside Yourself Leadership Institute
 *[OKR]: Objectives and Key Results 
+*[DVNLP]: Deutscher Verband für Neuro-Linguistisches Programmieren              
+*[CSP]: Certified Scrum Professional                                            
+*[CSPO]: Certified Scrum Product Owner                                          
+*[PSM]: Professional Scrum Master   
 
