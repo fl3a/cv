@@ -77,12 +77,16 @@ https://florian.latzel.io/2023/01/16/hallo-coaches.html),
 Scaled Agile (07.2023 - heute)
 - **Certified SAFe® 6 Scrum Master**, Scaled Agile (06.2023 - heute)
 - [**Certified Scrum Professional**](
+- [**NLP Practitioner**](
+  https://florian.latzel.io/2022/03/31/nlp-practitioner.html), 
+  DVNLP (03.2022 - heute)
+- [**Certified Scrum Professional® (CSP)**](
   https://florian.latzel.io/2018/03/31/certified-scrum-professional-csp.html), 
   Scrum Alliance (02.2018 - heute)
-- [**Certified Scrum Product Owner**](
+- [**Certified Scrum Product Owner® (CSPO)**](
   https://florian.latzel.io/2018/03/03/scrum-starter-kit.html), 
   Scrum Alliance (12.2017 - heute)
-- [**Professional Scrum Master I**](
+- [**Professional Scrum Master (PSM) I**](
   https://florian.latzel.io/neues-aus-der-scheinwelt-professional-scrum-master-i-psm1.html), 
   Scrum.org (02.2015 - heute)
 
@@ -127,3 +131,4 @@ Repository: <{{ site.git_repo }}>, Revision: [{{ site.github.build_revision }}](
 
 *[SIYLI]: Search Inside Yourself Leadership Institute
 *[OKR]: Objectives and Key Results 
+
