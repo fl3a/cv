@@ -188,8 +188,8 @@ http://structureprocess.com/de/) (01.2017)
 [Prowareness GmbH](
 https://web.archive.org/web/20141024140709/http://prowareness.de/training/scrum-master-training/),
 (01.2015)
-- **IT-Sicherheit ([Die ultimative Hacking Akademie](
-https://web.archive.org/web/20071011070950/http://www.sigs-datacom.de/sd/seminare/evt_seminar_show.htm?&TABLE=sd_product&PID=860))**, 
+- [**Ethical Hacking & Netzwerksicherheit**](
+https://web.archive.org/web/20071011070950/http://www.sigs-datacom.de/sd/seminare/evt_seminar_show.htm?&TABLE=sd_product&PID=860), 
 [SIGS DATACOM GmbH](https://www.sigs-datacom.de/) (12.2007)
 - **Vorbereitung auf die Linux Zertifizierungen des LPI**, 
 [IAL GmbH](https://www.ial.de/) (05.2006 - 11.2006) 
@@ -298,7 +298,6 @@ https://open.spotify.com/episode/1CLjuetb79gnhK6V7lVd4g) (03/08.2022)
   https://www.youtube.com/watch?v=M2x_PTfHGiQ&t=1000s) (04.2016)
  
 ## 🔥 Hobbies & Interessen
-
 
 [Draussensein](https://florian.latzel.io/thema/draussen/index.html),
 [Kampfkunst](https://florian.latzel.io/thema/kampfkunst/index.html),
