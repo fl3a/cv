@@ -128,6 +128,14 @@ https://www.wildnistraining.de/) (3 Tage) (07.2025)
 - [**Trainer Assistenz NLP Practitoner**](
 https://florian.latzel.io/2024/11/11/trainer-assistenz-bei-tom-andreas.html),
 [Institut Tom Andreas](https://www.tomandreas.de/) (10.2024 - 04.2025)
+- **Qualifizierung zum Agility Master auf Team Ebene**, DB Systel GmbH
+  - HR Management (01.2025)
+  - Quali-Camp 1 (2 Tage) (08.2024)
+  - Arbeitsrecht für AM (1 Tag) (11.2024)
+  - Quali-Camp 2 (2 Tage) (10.2024)
+  - SGB IX (Schwerbehindertenrecht) (08.2024)
+  - Unternehmerpflichten (06.2024)
+  - IT Sicherheit, Datenschutz und Compliance (08.2024 - 02.2025
 - **Scout**, [wildnistraining.de](
 https://www.wildnistraining.de/) (4 Tage) (05.2024)
 - **WalkaboutU**, [walkaboutyou](
@@ -204,6 +212,7 @@ ibis acam AG (11.2005)
 ## 📃 Zertifikate
 {: .page-break-before }
 
+- **Team Agility Master**, DB Systel GmbH (04.2025)
 - **Certified SAFe® 6 Product Owner/Product Manager**,
   Scaled Agile (07.2023 - heute)
 - **Certified SAFe® 6 Scrum Master**, Scaled Agile (06.2023 - heute)
