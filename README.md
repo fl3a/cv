@@ -119,6 +119,10 @@ IT und Infrastruktur, Redmine Administrator und Scrum Master
 
 ## 🎓 Aus- und Weiterbildung
 
+- **Mit gewaltfreier Kommunikation im Miteinander mehr erreichen** (GfK),   
+DB Training (2 Tage + 10 Wochen Lernreise) (10.2025)
+- **Kanban-Systeme und deren erfolgreiche Einsatzmöglichkeiten**   
+DB Training (2 Tage) (10.2025)
 - **[Metaforum Sommercamp](https://www.metaforum-sommercamp.com) 2025** 
   - Priming - Stärkende Räume enstehen lassen, Prof. Dr. Dr. Christa Kolodej (2 Tage)
   - Improvisation (Impro) und Provokative SystemArbeit (ProSA)©   
@@ -256,8 +260,8 @@ Deutsch (Muttersprache), Englisch (Gut), Spanisch (Grundkenntnisse)
     https://twitter.com/frediontherun/status/1188093274373931014)
   - [Agile Leipzig (09.2019)](
     https://florian.latzel.io/2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#von-stein-des-sisyphos-und-seedbombs) 
-- [Management 3.0](https://florian.latzel.io/tags/management-3-0/)
-  - [Personal Maps](https://florian.latzel.io/tags/personal-maps/) 
+- [Management 3.0](https://florian.latzel.io/thema/management-3-0/)
+  - [Personal Maps](https://florian.latzel.io/thema/personal-maps/) 
     - [Agile Leipzig](/2019/09/22/rueckblick-auf-das-4-agile-leipzig-barcamp.html#personal-maps) (09.2019)
     - [Agile.Ruhr Camp](https://florian.latzel.io/2019/04/22/agile-ruhr-hattrick.html#personal-maps) (04.2019)
   - [Meddlers Game](https://management30.com/practice/meddlers/),
@@ -277,7 +281,7 @@ Deutsch (Muttersprache), Englisch (Gut), Spanisch (Grundkenntnisse)
 - [Neues Team - Was nun?](
   https://florian.latzel.io/neues-team-was-nun.html) drupalcamp.ruhr (03.2018)
 - Agiles Onboarding, Scrumtisch Köln (11.2017) 
-- [Scrum Framework](https://florian.latzel.io/tags/scrum/index.html)
+- [Scrum Framework](https://florian.latzel.io/thema/scrum/)
   - [Scrum in 45 Minuten](
     https://florian.latzel.io/scrum-45-minuten-drupalcamp-muenchen-2016.html), 
     drupaldevdays, München, (12.2016)
