@@ -119,6 +119,8 @@ IT und Infrastruktur, Redmine Administrator und Scrum Master
 
 ## 🎓 Aus- und Weiterbildung
 
+- **Trainer Assistenz Systemischer NLP Coach**,
+[Institut Tom Andreas](https://www.tomandreas.de/) (11.2024 - 01.2026)
 - **Mit gewaltfreier Kommunikation im Miteinander mehr erreichen** (GfK),   
 DB Training (2 Tage + 10 Wochen Lernreise) (10.2025)
 - **Kanban-Systeme und deren erfolgreiche Einsatzmöglichkeiten**   
@@ -214,7 +216,6 @@ ibis acam AG (11.2005)
   - Unix, Linux, Einführung in die Programmierung (Java), OOP, Erstellung von Internetseiten
 
 ## 📃 Zertifikate
-{: .page-break-before }
 
 - **Team Agility Master**, DB Systel GmbH (04.2025)
 - **Certified SAFe® 6 Product Owner/Product Manager**,
@@ -312,11 +313,11 @@ https://open.spotify.com/episode/1CLjuetb79gnhK6V7lVd4g) (03/08.2022)
  
 ## 🔥 Hobbies & Interessen
 
-[Draussensein](https://florian.latzel.io/thema/draussen/index.html),
-[Kampfkunst](https://florian.latzel.io/thema/kampfkunst/index.html),
-[Schreiben](https://florian.latzel.io/blog.html),
-[Führung](https://florian.latzel.io/thema/fuhrung/index.html), 
-[Free/Libre Open Source Software](https://florian.latzel.io/thema/open-source/index.html)
+[Draussensein](https://florian.latzel.io/thema/draussen/),
+[Kampfkunst](https://florian.latzel.io/thema/kampfkunst/),
+[Schreiben](https://florian.latzel.io/),
+[Führung](https://florian.latzel.io/thema/fuhrung/), 
+[Free/Libre Open Source Software](https://florian.latzel.io/thema/open-source/)
 
 ---
 {: .bottom }
