@@ -219,8 +219,8 @@ ibis acam AG (11.2005)
 
 - **Team Agility Master**, DB Systel GmbH (04.2025)
 - **Certified SAFe® 6 Product Owner/Product Manager**,
-  Scaled Agile (07.2023 - heute)
-- **Certified SAFe® 6 Scrum Master**, Scaled Agile (06.2023 - heute)
+  Scaled Agile (07.2023 - 07.2026)
+- **Certified SAFe® 6 Scrum Master**, Scaled Agile (06.2023 - 07.2026)
 - [**NLP Practitioner**](
   https://florian.latzel.io/2022/03/31/nlp-practitioner.html), 
   DVNLP (03.2022 - heute)
