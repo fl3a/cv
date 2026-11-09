@@ -13,16 +13,15 @@ https://latzel.io/.well-known/openpgpkey/hu/qcuniwbujk3zrj7166onyz4t5cxgy3wb))
 
 **Agility Master @ [DB Systel GmbH](https://www.dbsystel.de/)** **(10.2023 - heute)**
 
-- Team AM für das DevOps Team Search Services
 - Facilitierung von Onsites für Search & Identity und Einheit DataVision Strategy
-- Beratung zu OKR in DataVision
+- Beratung zu OKR in DataVision Strategy
 
 **Tribe Agile Master @ [AXA Konzern AG](https://axa.de)** **(08.2022 - 06.2023)**
 
 - Teil des Führungs-Trios, des im Juli 2022 entstandenen *Health Care Journey* Tribes
 - Begleitung von Veränderung und Ritualen der Zusammenarbeit
 - Einführung und Begleitung der Portfolio Jahres- und Quartalsplanung
-- Ausbildung von OKR Moderatoren und Einführung von OKR im Tribe
+- Einführung von OKR im Tribe und Ausbildung von OKR Moderatoren 
 
 **Coach und Wildnistrainer @ [florian.latzel.io](
 https://florian.latzel.io)** **(10.2019 - heute)** 
@@ -33,10 +32,7 @@ https://florian.latzel.io)** **(10.2019 - heute)**
 **Scrum Master @ [REWE Digital GmbH](https://www.rewe-digital.com/)** 
 **(04.2018 - 07.2022)**  
 
-- Agile Team Coach, zuletzt für ein Platform Team im eCom Tribe (seit 01.2020)  
-und ein Team aus dem Bereich Transformation-Solutions (seit 01.2022).   
-Davor für verschiedene Feature Teams (fest und interim) 
-in der skalierten Produktentwicklung im eCom Tribe. 
+- Agile Team Coach für verschiedene Teams in der skalierten Produktentwicklung 
 - Mentor im Scrum Master Trainee Programm 
 - Trainer, Moderator und Facilitator für die Organisation 
 ([Details](https://florian.latzel.io/referenzen.html))
@@ -119,6 +115,10 @@ IT und Infrastruktur, Redmine Administrator und Scrum Master
 
 ## 🎓 Aus- und Weiterbildung
 
+- **AI for Scrum Masters**, [colenet.de](
+https://www.colenet.de/) (1 Tag) (11.2026)
+- **Expert Scout**, [wildnistraining.de](                                       
+ https://www.wildnistraining.de/) (3 Tage) (10.2026) 
 - **Trainer Assistenz Systemischer NLP Coach**,
 [Institut Tom Andreas](https://www.tomandreas.de/) (11.2024 - 01.2026)
 - **Mit gewaltfreier Kommunikation im Miteinander mehr erreichen** (GfK),   
