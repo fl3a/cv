@@ -32,7 +32,7 @@ https://florian.latzel.io)** **(10.2019 - heute)**
 **Scrum Master @ [REWE Digital GmbH](https://www.rewe-digital.com/)** 
 **(04.2018 - 07.2022)**  
 
-- Agile Team Coach für verschiedene Teams in der skalierten Produktentwicklung 
+- Agile Team Coach für verschiedene DevOps Teams in der skalierten Produktentwicklung 
 - Mentor im Scrum Master Trainee Programm 
 - Trainer, Moderator und Facilitator für die Organisation 
 ([Details](https://florian.latzel.io/referenzen.html))
@@ -115,14 +115,14 @@ IT und Infrastruktur, Redmine Administrator und Scrum Master
 
 ## 🎓 Aus- und Weiterbildung
 
+- **Mit gewaltfreier Kommunikation im Miteinander mehr erreichen** (GfK)   
+DB Training (2 Tage + 10 Wochen Lernreise, 11.2026; 2 Tage, 10.2025)
 - **AI for Scrum Masters**, [colenet.de](
 https://www.colenet.de/) (1 Tag) (11.2026)
 - **Expert Scout**, [wildnistraining.de](                                       
  https://www.wildnistraining.de/) (3 Tage) (10.2026) 
 - **Trainer Assistenz Systemischer NLP Coach**,
 [Institut Tom Andreas](https://www.tomandreas.de/) (11.2024 - 01.2026)
-- **Mit gewaltfreier Kommunikation im Miteinander mehr erreichen** (GfK),   
-DB Training (2 Tage + 10 Wochen Lernreise) (10.2025)
 - **Kanban-Systeme und deren erfolgreiche Einsatzmöglichkeiten**   
 DB Training (2 Tage) (10.2025)
 - **[Metaforum Sommercamp](https://www.metaforum-sommercamp.com) 2025** 
@@ -217,6 +217,7 @@ ibis acam AG (11.2005)
 
 ## 📃 Zertifikate
 
+- **AI for Scrum Masters**, Scrum Alliance (11.2026)
 - **Team Agility Master**, DB Systel GmbH (04.2025)
 - **Certified SAFe® 6 Product Owner/Product Manager**,
   Scaled Agile (07.2023 - 07.2026)
@@ -343,3 +344,6 @@ Repository: <{{ site.git_repo }}>, Revision: [{{ site.github.build_revision }}](
 *[CSP]: Certified Scrum Professional
 *[CSPO]: Certified Scrum Product Owner
 *[PSM]: Professional Scrum Master 
+*[GfK]: Gewaltfreie Kommunikation
+*[LPI]: Linux Professional Institute
+*[AI]: Artificial Inteligence
