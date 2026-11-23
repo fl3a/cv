@@ -32,7 +32,7 @@ https://florian.latzel.io)** **(10.2019 - heute)**
 **Scrum Master @ [REWE Digital GmbH](https://www.rewe-digital.com/)** 
 **(04.2018 - 07.2022)**  
 
-- Agile Team Coach für verschiedene Teams in der skalierten Produktentwicklung
+- Agile Team Coach für verschiedene DevOps Teams in der skalierten Produktentwicklung
 - Mentor im Scrum Master Trainee Programm
 - Trainer, Moderator und Facilitator für die Organisation
 ([Details](https://florian.latzel.io/referenzen.html))
