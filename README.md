@@ -115,6 +115,7 @@ IT und Infrastruktur, Redmine Administrator und Scrum Master
 
 ## 🎓 Aus- und Weiterbildung
 
+- **Agentic AI Consulting - Kenner**, DB Systel GmbH (1/2 Tag) (11.2026)
 - **Mit gewaltfreier Kommunikation im Miteinander mehr erreichen** (GfK)   
 DB Training (2 Tage + 10 Wochen Lernreise, 11.2026; 2 Tage, 10.2025)
 - **AI for Scrum Masters**, [colenet.de](
